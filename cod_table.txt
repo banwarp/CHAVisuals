@@ -1,0 +1,112 @@
+   Year          Place                                            Type.Cause       Rate Standard.Error Numerator
+1  2020         Oregon                    Accidents (unintentional injuries)  58.163290         1.0777      2467
+2  2020  Benton County                    Accidents (unintentional injuries)  35.392915         5.8163        33
+3  2020 Lincoln County                    Accidents (unintentional injuries) 100.824388        13.0584        51
+4  2020    Linn County                    Accidents (unintentional injuries)  70.200070         6.8207        92
+5  2020         Oregon                                     Alzheimer disease  47.365241         0.8284      2009
+6  2020  Benton County                                     Alzheimer disease  35.392915         5.1950        33
+7  2020 Lincoln County                                     Alzheimer disease  37.562027         5.0670        19
+8  2020    Linn County                                     Alzheimer disease  42.730478         4.4382        56
+9  2020         Oregon                              Cerebrovascular diseases  52.717112         0.8656      2236
+10 2020  Benton County                              Cerebrovascular diseases  36.465428         4.9726        34
+11 2020 Lincoln County                              Cerebrovascular diseases  63.262361         6.7408        32
+12 2020    Linn County                              Cerebrovascular diseases  91.565309         6.2853       120
+13 2020         Oregon                   Chronic liver disease and cirrhosis  19.615670         0.5682       832
+14 2020  Benton County                   Chronic liver disease and cirrhosis  12.870151         3.6797        12
+15 2020 Lincoln County                   Chronic liver disease and cirrhosis  41.515924         6.8652        21
+16 2020    Linn County                   Chronic liver disease and cirrhosis  21.365239         3.4778        28
+17 2020         Oregon                    Chronic lower respiratory diseases  46.422180         0.7907      1969
+18 2020  Benton County                    Chronic lower respiratory diseases  18.232714         3.9332        17
+19 2020 Lincoln County                    Chronic lower respiratory diseases  73.147105         6.8817        37
+20 2020    Linn County                    Chronic lower respiratory diseases  49.597876         4.2643        65
+21 2020         Oregon                                              COVID-19  33.855891         0.6974      1436
+22 2020  Benton County                                              COVID-19  10.725126         2.6728        10
+23 2020 Lincoln County                                              COVID-19  27.677283         4.3411        14
+24 2020    Linn County                                              COVID-19  26.706548         3.4372        35
+25 2020         Oregon                                     Diabetes mellitus  32.040499         0.6778      1359
+26 2020  Benton County                                     Diabetes mellitus  21.450252         4.2162        20
+27 2020 Lincoln County                                     Diabetes mellitus  69.193207         8.2606        35
+28 2020    Linn County                                     Diabetes mellitus  32.047858         3.7413        42
+29 2020         Oregon                                     Diseases of heart 173.735420         1.5810      7369
+30 2020  Benton County                                     Diseases of heart 140.499147        10.7167       131
+31 2020 Lincoln County                                     Diseases of heart 251.072495        13.0730       127
+32 2020    Linn County                                     Diseases of heart 254.856777        10.7800       334
+33 2020         Oregon Essential hypertension and hypertensive renal disease  15.890579         0.4716       674
+34 2020  Benton County Essential hypertension and hypertensive renal disease  10.725126         2.6798        10
+35 2020 Lincoln County Essential hypertension and hypertensive renal disease  23.723385         4.1247        12
+36 2020    Linn County Essential hypertension and hypertensive renal disease  23.654371         3.3110        31
+37 2020         Oregon                       Intentional self-harm (suicide)  19.686399         0.6528       835
+38 2020  Benton County                       Intentional self-harm (suicide)   9.652613         4.2934         9
+39 2020 Lincoln County                       Intentional self-harm (suicide)  27.677283         9.2904        14
+40 2020    Linn County                       Intentional self-harm (suicide)  16.786973         3.6250        22
+41 cod_df         Oregon                          Malignant neoplasms (Cancer) 195.449400         1.6329      8290
+42 2020  Benton County                          Malignant neoplasms (Cancer) 154.441811        10.8050       144
+43 2020 Lincoln County                          Malignant neoplasms (Cancer) 340.035190        14.9354       172
+44 2020    Linn County                          Malignant neoplasms (Cancer) 246.463290        10.0510       323
+45 2020     LBL Region                    Accidents (unintentional injuries)  64.028871             NA       176
+46 2020     LBL Region                                     Alzheimer disease  39.290444             NA       108
+47 2020     LBL Region                              Cerebrovascular diseases  67.666875             NA       186
+48 2020     LBL Region                   Chronic liver disease and cirrhosis  22.191825             NA        61
+49 2020     LBL Region                    Chronic lower respiratory diseases  43.292248             NA       119
+50 2020     LBL Region                                              COVID-19  21.464224             NA        59
+51 2020     LBL Region                                     Diabetes mellitus  35.288639             NA        97
+52 2020     LBL Region                                     Diseases of heart 215.369839             NA       592
+53 2020     LBL Region Essential hypertension and hypertensive renal disease  19.281421             NA        53
+54 2020     LBL Region                       Intentional self-harm (suicide)  16.371018             NA        45
+55 2020     LBL Region                          Malignant neoplasms (Cancer) 232.468459             NA       639
+   Denominator
+1      4241507
+2        93239
+3        50583
+4       131054
+5      4241507
+6        93239
+7        50583
+8       131054
+9      4241507
+10       93239
+11       50583
+12      131054
+13     4241507
+14       93239
+15       50583
+16      131054
+17     4241507
+18       93239
+19       50583
+20      131054
+21     4241507
+22       93239
+23       50583
+24      131054
+25     4241507
+26       93239
+27       50583
+28      131054
+29     4241507
+30       93239
+31       50583
+32      131054
+33     4241507
+34       93239
+35       50583
+36      131054
+37     4241507
+38       93239
+39       50583
+40      131054
+41     4241507
+42       93239
+43       50583
+44      131054
+45      274876
+46      274876
+47      274876
+48      274876
+49      274876
+50      274876
+51      274876
+52      274876
+53      274876
+54      274876
+55      274876

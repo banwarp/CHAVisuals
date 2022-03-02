@@ -1,0 +1,582 @@
+[1] "Low birthweight"
+              cat      value Labels
+11    Linn County 0.06174103  6.2 %
+12  Benton County 0.05460703  5.5 %
+13 Lincoln County 0.07480029  7.5 %
+14     LBL Region 0.06187200  6.2 %
+15         Oregon 0.06452296  6.5 %
+[1] "Linn County Low birthweight"
+          cat      value Labels
+4    10 to 14 0.00000000    0 %
+148  15 to 17 0.10204082 10.2 %
+292  18 to 19 0.07485030  7.5 %
+436  20 to 24 0.06350504  6.4 %
+580  25 to 29 0.05378083  5.4 %
+724  30 to 34 0.05430387  5.4 %
+868  35 to 39 0.08087201  8.1 %
+1012 40 to 44 0.10869565 10.9 %
+1156 45 to 49 0.20000000   20 %
+[1] "Linn County Low birthweight"
+                                 cat      value Labels
+11  American Indian/Alaska Native NH 0.05780347  5.8 %
+41         Asian/Pacific Islander NH 0.06046512    6 %
+71                          Black NH 0.10185185 10.2 %
+101                         Hispanic 0.06282421  6.3 %
+131                         White NH 0.06066027  6.1 %
+[1] "Benton County Low birthweight"
+          cat      value Labels
+2    10 to 14 0.00000000    0 %
+146  15 to 17 0.07894737  7.9 %
+290  18 to 19 0.09032258    9 %
+434  20 to 24 0.06411483  6.4 %
+578  25 to 29 0.05088063  5.1 %
+722  30 to 34 0.04300169  4.3 %
+866  35 to 39 0.06025105    6 %
+1010 40 to 44 0.10222222 10.2 %
+1154 45 to 49 0.15384615 15.4 %
+[1] "Benton County Low birthweight"
+                                 cat      value Labels
+12  American Indian/Alaska Native NH 0.07272727  7.3 %
+42         Asian/Pacific Islander NH 0.04906937  4.9 %
+72                          Black NH 0.11688312 11.7 %
+102                         Hispanic 0.06603774  6.6 %
+132                         White NH 0.05137615  5.1 %
+[1] "Lincoln County Low birthweight"
+          cat      value Labels
+3    10 to 14 0.33333333 33.3 %
+147  15 to 17 0.09375000  9.4 %
+291  18 to 19 0.10784314 10.8 %
+435  20 to 24 0.06413994  6.4 %
+579  25 to 29 0.06038647    6 %
+723  30 to 34 0.07411168  7.4 %
+867  35 to 39 0.12058212 12.1 %
+1011 40 to 44 0.06779661  6.8 %
+1155 45 to 49 0.00000000    0 %
+[1] "Lincoln County Low birthweight"
+                                 cat      value Labels
+13  American Indian/Alaska Native NH 0.08290155  8.3 %
+43         Asian/Pacific Islander NH 0.06976744    7 %
+73                          Black NH 0.10000000   10 %
+103                         Hispanic 0.07920792  7.9 %
+133                         White NH 0.07324219  7.3 %
+[1] "LBL Region Low birthweight"
+          cat      value Labels
+1297 10 to 14 0.14285714 14.3 %
+1333 15 to 17 0.09731544  9.7 %
+1369 18 to 19 0.08373905  8.4 %
+1405 20 to 24 0.06372976  6.4 %
+1441 25 to 29 0.05405734  5.4 %
+1477 30 to 34 0.05323361  5.3 %
+1513 35 to 39 0.07908328  7.9 %
+1549 40 to 44 0.09854604  9.9 %
+1585 45 to 49 0.15151515 15.2 %
+[1] "LBL Region Low birthweight"
+                                 cat      value Labels
+14  American Indian/Alaska Native NH 0.07125891  7.1 %
+44         Asian/Pacific Islander NH 0.05381166  5.4 %
+74                          Black NH 0.10697674 10.7 %
+104                         Hispanic 0.06717325  6.7 %
+134                         White NH 0.06008646    6 %
+[1] "Oregon Low birthweight"
+          cat      value Labels
+1    10 to 14 0.04605263  4.6 %
+145  15 to 17 0.08374106  8.4 %
+289  18 to 19 0.07720611  7.7 %
+433  20 to 24 0.06654944  6.7 %
+577  25 to 29 0.05764049  5.8 %
+721  30 to 34 0.06089076  6.1 %
+865  35 to 39 0.07088773  7.1 %
+1009 40 to 44 0.09097525  9.1 %
+1153 45 to 49 0.15028902   15 %
+[1] "Oregon Low birthweight"
+                                 cat      value Labels
+15  American Indian/Alaska Native NH 0.07530418  7.5 %
+45         Asian/Pacific Islander NH 0.07806963  7.8 %
+75                          Black NH 0.09750421  9.8 %
+105                         Hispanic 0.06618246  6.6 %
+135                         White NH 0.06086899  6.1 %
+[1] "Inadequate or no prenatal care"
+              cat     value Labels
+6     Linn County 0.1105805 11.1 %
+7   Benton County 0.1121931 11.2 %
+8  Lincoln County 0.1535481 15.4 %
+9      LBL Region 0.1178790 11.8 %
+10         Oregon 0.1295878   13 %
+[1] "Linn County Inadequate or no prenatal care"
+          cat      value Labels
+8    10 to 14 0.50000000   50 %
+152  15 to 17 0.22959184   23 %
+296  18 to 19 0.16616766 16.6 %
+440  20 to 24 0.12758997 12.8 %
+584  25 to 29 0.09385113  9.4 %
+728  30 to 34 0.09177489  9.2 %
+872  35 to 39 0.11314125 11.3 %
+1016 40 to 44 0.18478261 18.5 %
+1160 45 to 49 0.06666667  6.7 %
+[1] "Linn County Inadequate or no prenatal care"
+                                 cat     value Labels
+6   American Indian/Alaska Native NH 0.1445087 14.5 %
+36         Asian/Pacific Islander NH 0.1860465 18.6 %
+66                          Black NH 0.1388889 13.9 %
+96                          Hispanic 0.1527378 15.3 %
+126                         White NH 0.1020408 10.2 %
+[1] "Benton County Inadequate or no prenatal care"
+          cat      value Labels
+6    10 to 14 0.00000000    0 %
+150  15 to 17 0.42105263 42.1 %
+294  18 to 19 0.19354839 19.4 %
+438  20 to 24 0.17894737 17.9 %
+582  25 to 29 0.11056751 11.1 %
+726  30 to 34 0.08811130  8.8 %
+870  35 to 39 0.08458961  8.5 %
+1014 40 to 44 0.10666667 10.7 %
+1158 45 to 49 0.15384615 15.4 %
+[1] "Benton County Inadequate or no prenatal care"
+                                 cat     value Labels
+7   American Indian/Alaska Native NH 0.2000000   20 %
+37         Asian/Pacific Islander NH 0.1116751 11.2 %
+67                          Black NH 0.1298701   13 %
+97                          Hispanic 0.1546635 15.5 %
+127                         White NH 0.1047706 10.5 %
+[1] "Lincoln County Inadequate or no prenatal care"
+          cat     value Labels
+7    10 to 14 0.0000000    0 %
+151  15 to 17 0.1718750 17.2 %
+295  18 to 19 0.2450980 24.5 %
+439  20 to 24 0.1817298 18.2 %
+583  25 to 29 0.1427419 14.3 %
+727  30 to 34 0.1218274 12.2 %
+871  35 to 39 0.1392931 13.9 %
+1015 40 to 44 0.1779661 17.8 %
+1159 45 to 49 0.2000000   20 %
+[1] "Lincoln County Inadequate or no prenatal care"
+                                 cat     value Labels
+8   American Indian/Alaska Native NH 0.2331606 23.3 %
+38         Asian/Pacific Islander NH 0.2093023 20.9 %
+68                          Black NH 0.2333333 23.3 %
+98                          Hispanic 0.1753890 17.5 %
+128                         White NH 0.1410423 14.1 %
+[1] "LBL Region Inadequate or no prenatal care"
+          cat      value Labels
+1298 10 to 14 0.28571429 28.6 %
+1334 15 to 17 0.24161074 24.2 %
+1370 18 to 19 0.18597858 18.6 %
+1406 20 to 24 0.14663880 14.7 %
+1442 25 to 29 0.10537190 10.5 %
+1478 30 to 34 0.09484022  9.5 %
+1514 35 to 39 0.10619755 10.6 %
+1550 40 to 44 0.15508885 15.5 %
+1586 45 to 49 0.12121212 12.1 %
+[1] "LBL Region Inadequate or no prenatal care"
+                                 cat     value Labels
+9   American Indian/Alaska Native NH 0.1923990 19.2 %
+39         Asian/Pacific Islander NH 0.1390135 13.9 %
+69                          Black NH 0.1488372 14.9 %
+99                          Hispanic 0.1581028 15.8 %
+129                         White NH 0.1085067 10.9 %
+[1] "Oregon Inadequate or no prenatal care"
+          cat      value Labels
+5    10 to 14 0.48026316   48 %
+149  15 to 17 0.26425748 26.4 %
+293  18 to 19 0.21318942 21.3 %
+437  20 to 24 0.17595467 17.6 %
+581  25 to 29 0.12820594 12.8 %
+725  30 to 34 0.10014960   10 %
+869  35 to 39 0.09819007  9.8 %
+1013 40 to 44 0.12481805 12.5 %
+1157 45 to 49 0.11085450 11.1 %
+[1] "Oregon Inadequate or no prenatal care"
+                                 cat     value Labels
+10  American Indian/Alaska Native NH 0.2208155 22.1 %
+40         Asian/Pacific Islander NH 0.1522891 15.2 %
+70                          Black NH 0.1964515 19.6 %
+100                         Hispanic 0.1628208 16.3 %
+130                         White NH 0.1127023 11.3 %
+[1] "Gestational diabetes"
+             cat      value Labels
+1    Linn County 0.08150321  8.2 %
+2  Benton County 0.09185833  9.2 %
+3 Lincoln County 0.10748003 10.7 %
+4     LBL Region 0.08848532  8.8 %
+5         Oregon 0.08215933  8.2 %
+[1] "Linn County Gestational diabetes"
+          cat      value Labels
+12   10 to 14 0.00000000    0 %
+156  15 to 17 0.01020408    1 %
+300  18 to 19 0.03293413  3.3 %
+444  20 to 24 0.04524394  4.5 %
+588  25 to 29 0.07743631  7.7 %
+732  30 to 34 0.10562771 10.6 %
+876  35 to 39 0.14265636 14.3 %
+1020 40 to 44 0.18478261 18.5 %
+1164 45 to 49 0.13333333 13.3 %
+[1] "Linn County Gestational diabetes"
+                                 cat      value Labels
+1   American Indian/Alaska Native NH 0.08670520  8.7 %
+31         Asian/Pacific Islander NH 0.11627907 11.6 %
+61                          Black NH 0.06481481  6.5 %
+91                          Hispanic 0.10771889 10.8 %
+121                         White NH 0.07739208  7.7 %
+[1] "Benton County Gestational diabetes"
+          cat      value Labels
+10   10 to 14 0.00000000    0 %
+154  15 to 17 0.02631579  2.6 %
+298  18 to 19 0.04516129  4.5 %
+442  20 to 24 0.06602871  6.6 %
+586  25 to 29 0.07778865  7.8 %
+730  30 to 34 0.09317032  9.3 %
+874  35 to 39 0.13221757 13.2 %
+1018 40 to 44 0.15555556 15.6 %
+1162 45 to 49 0.07692308  7.7 %
+[1] "Benton County Gestational diabetes"
+                                 cat      value Labels
+2   American Indian/Alaska Native NH 0.07272727  7.3 %
+32         Asian/Pacific Islander NH 0.14382403 14.4 %
+62                          Black NH 0.05194805  5.2 %
+92                          Hispanic 0.14386792 14.4 %
+122                         White NH 0.07889908  7.9 %
+[1] "Lincoln County Gestational diabetes"
+          cat      value Labels
+11   10 to 14 0.00000000    0 %
+155  15 to 17 0.01562500  1.6 %
+299  18 to 19 0.02941176  2.9 %
+443  20 to 24 0.05636540  5.6 %
+587  25 to 29 0.09259259  9.3 %
+731  30 to 34 0.14213198 14.2 %
+875  35 to 39 0.20997921   21 %
+1019 40 to 44 0.18644068 18.6 %
+1163 45 to 49 0.20000000   20 %
+[1] "Lincoln County Gestational diabetes"
+                                 cat      value Labels
+3   American Indian/Alaska Native NH 0.08290155  8.3 %
+33         Asian/Pacific Islander NH 0.17441860 17.4 %
+63                          Black NH 0.00000000    0 %
+93                          Hispanic 0.13578501 13.6 %
+123                         White NH 0.10123698 10.1 %
+[1] "LBL Region Gestational diabetes"
+          cat      value Labels
+1299 10 to 14 0.00000000    0 %
+1335 15 to 17 0.01342282  1.3 %
+1371 18 to 19 0.03407984  3.4 %
+1407 20 to 24 0.05101863  5.1 %
+1443 25 to 29 0.07981050    8 %
+1479 30 to 34 0.10656699 10.7 %
+1515 35 to 39 0.14908035 14.9 %
+1551 40 to 44 0.17447496 17.4 %
+1587 45 to 49 0.12121212 12.1 %
+[1] "LBL Region Gestational diabetes"
+                                 cat      value Labels
+4   American Indian/Alaska Native NH 0.08313539  8.3 %
+34         Asian/Pacific Islander NH 0.14013453   14 %
+64                          Black NH 0.05116279  5.1 %
+94                          Hispanic 0.12306290 12.3 %
+124                         White NH 0.08130433  8.1 %
+[1] "Oregon Gestational diabetes"
+          cat      value Labels
+9    10 to 14 0.03289474  3.3 %
+153  15 to 17 0.01918736  1.9 %
+297  18 to 19 0.02831130  2.8 %
+441  20 to 24 0.04592276  4.6 %
+585  25 to 29 0.06932406  6.9 %
+729  30 to 34 0.09410610  9.4 %
+873  35 to 39 0.12665265 12.7 %
+1017 40 to 44 0.17941069 17.9 %
+1161 45 to 49 0.23672055 23.7 %
+[1] "Oregon Gestational diabetes"
+                                 cat      value Labels
+5   American Indian/Alaska Native NH 0.08415516  8.4 %
+35         Asian/Pacific Islander NH 0.15284018 15.3 %
+65                          Black NH 0.08650991  8.7 %
+95                          Hispanic 0.11371017 11.4 %
+125                         White NH 0.06698816  6.7 %
+[1] "Maternal Smoking"
+              cat      value Labels
+16    Linn County 0.15544006 15.5 %
+17  Benton County 0.06778704  6.8 %
+18 Lincoln County 0.18504128 18.5 %
+19     LBL Region 0.13612424 13.6 %
+20         Oregon 0.09361867  9.4 %
+[1] "Linn County Maternal Smoking"
+          cat      value Labels
+16   10 to 14 0.50000000   50 %
+160  15 to 17 0.23195876 23.2 %
+304  18 to 19 0.26726727 26.7 %
+448  20 to 24 0.21180650 21.2 %
+592  25 to 29 0.14314680 14.3 %
+736  30 to 34 0.10789702 10.8 %
+880  35 to 39 0.11752287 11.8 %
+1024 40 to 44 0.09818182  9.8 %
+1168 45 to 49 0.00000000    0 %
+[1] "Linn County Maternal Smoking"
+                                 cat      value Labels
+16  American Indian/Alaska Native NH 0.22222222 22.2 %
+46         Asian/Pacific Islander NH 0.06511628  6.5 %
+76                          Black NH 0.15740741 15.7 %
+106                         Hispanic 0.06924409  6.9 %
+136                         White NH 0.16813366 16.8 %
+[1] "Benton County Maternal Smoking"
+          cat      value Labels
+14   10 to 14 0.00000000    0 %
+158  15 to 17 0.07894737  7.9 %
+302  18 to 19 0.21935484 21.9 %
+446  20 to 24 0.13984674   14 %
+590  25 to 29 0.07055365  7.1 %
+734  30 to 34 0.04217630  4.2 %
+878  35 to 39 0.03601340  3.6 %
+1022 40 to 44 0.04444444  4.4 %
+1166 45 to 49 0.00000000    0 %
+[1] "Benton County Maternal Smoking"
+                                 cat      value Labels
+17  American Indian/Alaska Native NH 0.20000000   20 %
+47         Asian/Pacific Islander NH 0.01184433  1.2 %
+77                          Black NH 0.05194805  5.2 %
+107                         Hispanic 0.02718676  2.7 %
+137                         White NH 0.07892805  7.9 %
+[1] "Lincoln County Maternal Smoking"
+          cat     value Labels
+15   10 to 14 0.0000000    0 %
+159  15 to 17 0.2500000   25 %
+303  18 to 19 0.2647059 26.5 %
+447  20 to 24 0.2417154 24.2 %
+591  25 to 29 0.1763754 17.6 %
+735  30 to 34 0.1565041 15.7 %
+879  35 to 39 0.1234310 12.3 %
+1023 40 to 44 0.1016949 10.2 %
+1167 45 to 49 0.2000000   20 %
+[1] "Lincoln County Maternal Smoking"
+                                 cat      value Labels
+18  American Indian/Alaska Native NH 0.25906736 25.9 %
+48         Asian/Pacific Islander NH 0.06976744    7 %
+78                          Black NH 0.13333333 13.3 %
+108                         Hispanic 0.06373938  6.4 %
+138                         White NH 0.21214099 21.2 %
+[1] "LBL Region Maternal Smoking"
+          cat      value Labels
+1300 10 to 14 0.28571429 28.6 %
+1336 15 to 17 0.21621622 21.6 %
+1372 18 to 19 0.25951220   26 %
+1408 20 to 24 0.20404957 20.4 %
+1444 25 to 29 0.13010111   13 %
+1480 30 to 34 0.09204345  9.2 %
+1516 35 to 39 0.08697058  8.7 %
+1552 40 to 44 0.07928803  7.9 %
+1588 45 to 49 0.03030303    3 %
+[1] "LBL Region Maternal Smoking"
+                                 cat      value Labels
+19  American Indian/Alaska Native NH 0.23627685 23.6 %
+49         Asian/Pacific Islander NH 0.03026906    3 %
+79                          Black NH 0.11627907 11.6 %
+109                         Hispanic 0.05722983  5.7 %
+139                         White NH 0.15123665 15.1 %
+[1] "Oregon Maternal Smoking"
+          cat      value Labels
+13   10 to 14 0.07284768  7.3 %
+157  15 to 17 0.12190512 12.2 %
+301  18 to 19 0.16522556 16.5 %
+445  20 to 24 0.15434579 15.4 %
+589  25 to 29 0.10114633 10.1 %
+733  30 to 34 0.06349786  6.3 %
+877  35 to 39 0.04961750    5 %
+1021 40 to 44 0.04727752  4.7 %
+1165 45 to 49 0.02322880  2.3 %
+[1] "Oregon Maternal Smoking"
+                                 cat      value Labels
+20  American Indian/Alaska Native NH 0.19871053 19.9 %
+50         Asian/Pacific Islander NH 0.01867136  1.9 %
+80                          Black NH 0.09699078  9.7 %
+110                         Hispanic 0.03214806  3.2 %
+140                         White NH 0.11447754 11.4 %
+[1] "Recommended weight gain"
+              cat     value Labels
+26    Linn County 0.2789518 27.9 %
+27  Benton County 0.3308688 33.1 %
+28 Lincoln County 0.2785399 27.9 %
+29     LBL Region 0.2933112 29.3 %
+30         Oregon 0.3117634 31.2 %
+[1] "Linn County Recommended weight gain"
+          cat     value Labels
+20   10 to 14 0.0000000    0 %
+164  15 to 17 0.1945946 19.5 %
+308  18 to 19 0.2369231 23.7 %
+452  20 to 24 0.2630392 26.3 %
+596  25 to 29 0.2753382 27.5 %
+740  30 to 34 0.3031566 30.3 %
+884  35 to 39 0.2916364 29.2 %
+1028 40 to 44 0.3486590 34.9 %
+1172 45 to 49 0.2666667 26.7 %
+[1] "Linn County Recommended weight gain"
+                                 cat     value Labels
+26  American Indian/Alaska Native NH 0.2619048 26.2 %
+56         Asian/Pacific Islander NH 0.3509615 35.1 %
+86                          Black NH 0.2547170 25.5 %
+116                         Hispanic 0.3122284 31.2 %
+146                         White NH 0.2742366 27.4 %
+[1] "Benton County Recommended weight gain"
+          cat     value Labels
+18   10 to 14 0.0000000    0 %
+162  15 to 17 0.1944444 19.4 %
+306  18 to 19 0.2649007 26.5 %
+450  20 to 24 0.3023256 30.2 %
+594  25 to 29 0.3367799 33.7 %
+738  30 to 34 0.3381417 33.8 %
+882  35 to 39 0.3493266 34.9 %
+1026 40 to 44 0.2977778 29.8 %
+1170 45 to 49 0.3846154 38.5 %
+[1] "Benton County Recommended weight gain"
+                                 cat     value Labels
+27  American Indian/Alaska Native NH 0.2727273 27.3 %
+57         Asian/Pacific Islander NH 0.4548552 45.5 %
+87                          Black NH 0.2597403   26 %
+117                         Hispanic 0.3181273 31.8 %
+147                         White NH 0.3211517 32.1 %
+[1] "Lincoln County Recommended weight gain"
+          cat     value Labels
+19   10 to 14 0.0000000    0 %
+163  15 to 17 0.2380952 23.8 %
+307  18 to 19 0.2326733 23.3 %
+451  20 to 24 0.2763029 27.6 %
+595  25 to 29 0.2788618 27.9 %
+739  30 to 34 0.2731959 27.3 %
+883  35 to 39 0.3039832 30.4 %
+1027 40 to 44 0.3389831 33.9 %
+1171 45 to 49 0.2000000   20 %
+[1] "Lincoln County Recommended weight gain"
+                                 cat     value Labels
+28  American Indian/Alaska Native NH 0.2383420 23.8 %
+58         Asian/Pacific Islander NH 0.3255814 32.6 %
+88                          Black NH 0.2000000   20 %
+118                         Hispanic 0.3314121 33.1 %
+148                         White NH 0.2688384 26.9 %
+[1] "LBL Region Recommended weight gain"
+          cat     value Labels
+1301 10 to 14       NaN  NaN %
+1337 15 to 17 0.2042254 20.4 %
+1373 18 to 19 0.2402792   24 %
+1409 20 to 24 0.2726948 27.3 %
+1445 25 to 29 0.2913464 29.1 %
+1481 30 to 34 0.3111444 31.1 %
+1517 35 to 39 0.3161184 31.6 %
+1553 40 to 44 0.3278146 32.8 %
+1589 45 to 49 0.3030303 30.3 %
+[1] "LBL Region Recommended weight gain"
+                                 cat     value Labels
+29  American Indian/Alaska Native NH 0.2524038 25.2 %
+59         Asian/Pacific Islander NH 0.4177072 41.8 %
+89                          Black NH 0.2488263 24.9 %
+119                         Hispanic 0.3180370 31.8 %
+149                         White NH 0.2858680 28.6 %
+[1] "Oregon Recommended weight gain"
+          cat     value Labels
+17   10 to 14 0.0000000    0 %
+161  15 to 17 0.2657982 26.6 %
+305  18 to 19 0.2622982 26.2 %
+449  20 to 24 0.2856298 28.6 %
+593  25 to 29 0.3058071 30.6 %
+737  30 to 34 0.3286391 32.9 %
+881  35 to 39 0.3363336 33.6 %
+1025 40 to 44 0.3291367 32.9 %
+1169 45 to 49 0.3376777 33.8 %
+[1] "Oregon Recommended weight gain"
+                                 cat     value Labels
+30  American Indian/Alaska Native NH 0.2535732 25.4 %
+60         Asian/Pacific Islander NH 0.3823940 38.2 %
+90                          Black NH 0.2797063   28 %
+120                         Hispanic 0.3178798 31.8 %
+150                         White NH 0.3066017 30.7 %
+[1] "Preterm Birth"
+              cat      value Labels
+21    Linn County 0.07895994  7.9 %
+22  Benton County 0.06281762  6.3 %
+23 Lincoln County 0.08357558  8.4 %
+24     LBL Region 0.07527547  7.5 %
+25         Oregon 0.07824562  7.8 %
+[1] "Linn County Preterm Birth"
+          cat      value Labels
+24   10 to 14 0.00000000    0 %
+168  15 to 17 0.09743590  9.7 %
+312  18 to 19 0.08845577  8.8 %
+456  20 to 24 0.07746863  7.7 %
+600  25 to 29 0.06937702  6.9 %
+744  30 to 34 0.07361432  7.4 %
+888  35 to 39 0.10759494 10.8 %
+1032 40 to 44 0.13405797 13.4 %
+1176 45 to 49 0.46666667 46.7 %
+[1] "Linn County Preterm Birth"
+                                 cat      value Labels
+21  American Indian/Alaska Native NH 0.07514451  7.5 %
+51         Asian/Pacific Islander NH 0.04651163  4.7 %
+81                          Black NH 0.11111111 11.1 %
+111                         Hispanic 0.08179724  8.2 %
+141                         White NH 0.07842499  7.8 %
+[1] "Benton County Preterm Birth"
+          cat      value Labels
+22   10 to 14 0.00000000    0 %
+166  15 to 17 0.05263158  5.3 %
+310  18 to 19 0.11612903 11.6 %
+454  20 to 24 0.05938697  5.9 %
+598  25 to 29 0.05919765  5.9 %
+742  30 to 34 0.05398566  5.4 %
+886  35 to 39 0.07196653  7.2 %
+1030 40 to 44 0.10267857 10.3 %
+1174 45 to 49 0.38461538 38.5 %
+[1] "Benton County Preterm Birth"
+                                 cat      value Labels
+22  American Indian/Alaska Native NH 0.10909091 10.9 %
+52         Asian/Pacific Islander NH 0.04906937  4.9 %
+82                          Black NH 0.14285714 14.3 %
+112                         Hispanic 0.07438017  7.4 %
+142                         White NH 0.05983847    6 %
+[1] "Lincoln County Preterm Birth"
+          cat      value Labels
+23   10 to 14 0.33333333 33.3 %
+167  15 to 17 0.12500000 12.5 %
+311  18 to 19 0.09313725  9.3 %
+455  20 to 24 0.05939630  5.9 %
+599  25 to 29 0.07977438    8 %
+743  30 to 34 0.08730964  8.7 %
+887  35 to 39 0.12681913 12.7 %
+1031 40 to 44 0.07627119  7.6 %
+1175 45 to 49 0.20000000   20 %
+[1] "Lincoln County Preterm Birth"
+                                 cat      value Labels
+23  American Indian/Alaska Native NH 0.05181347  5.2 %
+53         Asian/Pacific Islander NH 0.08139535  8.1 %
+83                          Black NH 0.10000000   10 %
+113                         Hispanic 0.09476662  9.5 %
+143                         White NH 0.08308895  8.3 %
+[1] "LBL Region Preterm Birth"
+          cat      value Labels
+1302 10 to 14 0.14285714 14.3 %
+1338 15 to 17 0.09764310  9.8 %
+1374 18 to 19 0.09356725  9.4 %
+1410 20 to 24 0.07094300  7.1 %
+1446 25 to 29 0.06841658  6.8 %
+1482 30 to 34 0.06876833  6.9 %
+1518 35 to 39 0.09683667  9.7 %
+1554 40 to 44 0.11165049 11.2 %
+1590 45 to 49 0.39393939 39.4 %
+[1] "LBL Region Preterm Birth"
+                                 cat      value Labels
+24  American Indian/Alaska Native NH 0.06888361  6.9 %
+54         Asian/Pacific Islander NH 0.05156951  5.2 %
+84                          Black NH 0.12093023 12.1 %
+114                         Hispanic 0.08267477  8.3 %
+144                         White NH 0.07424672  7.4 %
+[1] "Oregon Preterm Birth"
+          cat      value Labels
+21   10 to 14 0.08609272  8.6 %
+165  15 to 17 0.08948757  8.9 %
+309  18 to 19 0.08207977  8.2 %
+453  20 to 24 0.07702936  7.7 %
+597  25 to 29 0.07141219  7.1 %
+741  30 to 34 0.07453126  7.5 %
+885  35 to 39 0.08940958  8.9 %
+1029 40 to 44 0.11367609 11.4 %
+1173 45 to 49 0.18822171 18.8 %
+[1] "Oregon Preterm Birth"
+                                 cat      value Labels
+25  American Indian/Alaska Native NH 0.10026342   10 %
+55         Asian/Pacific Islander NH 0.07851738  7.9 %
+85                          Black NH 0.09710063  9.7 %
+115                         Hispanic 0.08210011  8.2 %
+145                         White NH 0.07546338  7.5 %

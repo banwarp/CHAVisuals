@@ -1,0 +1,2104 @@
+[1] "Linn County Fertility Rate"
+          cat        value Labels
+1300 10 to 14   0.05127679      0
+1324 15 to 17   5.81878637      6
+1348 18 to 19  41.81732432     42
+1372 20 to 24  98.53296611     99
+1396 25 to 29 114.81951750    115
+1420 30 to 34  87.47733130     87
+1444 35 to 39  38.64302389     39
+1468 40 to 44   8.17839812      8
+1492 45 to 49   0.37453184      0
+[1] "Linn County Fertility Rate"
+                                cat    value Labels
+1  American Indian/Alaska Native NH 35.19281   35.2
+6         Asian/Pacific Islander NH 35.94560   35.9
+11                         Black NH 40.58339   40.6
+16                         Hispanic 49.76023   49.8
+21                         White NH 47.18142   47.2
+[1] "Linn County Fertility Rate"
+          cat    value Labels
+1 2010 - 2014 49.01581   49.0
+2 2011 - 2015 49.42299   49.4
+3 2012 - 2016 49.57977   49.6
+4 2013 - 2017 49.43285   49.4
+5 2014 - 2018 49.34333   49.3
+6 2015 - 2019 48.60907   48.6
+7 2016 - 2020 47.41617   47.4
+[1] "Benton County Fertility Rate"
+          cat      value Labels
+1298 10 to 14  0.0000000    0.0
+1322 15 to 17  1.2955232    1.3
+1346 18 to 19  4.0870975    4.1
+1370 20 to 24 12.0434017   12.0
+1394 25 to 29 60.1339090   60.1
+1418 30 to 34 93.0087876   93.0
+1442 35 to 39 53.6092553   53.6
+1466 40 to 44 11.4054782   11.4
+1490 45 to 49  0.5197055    0.5
+[1] "Benton County Fertility Rate"
+                                cat    value Labels
+2  American Indian/Alaska Native NH 28.10078   28.1
+7         Asian/Pacific Islander NH 24.73873   24.7
+12                         Black NH 21.10595   21.1
+17                         Hispanic 32.68457   32.7
+22                         White NH 25.40568   25.4
+[1] "Benton County Fertility Rate"
+           cat    value Labels
+8  2010 - 2014 29.54492   29.5
+9  2011 - 2015 29.55689   29.6
+10 2012 - 2016 29.39590   29.4
+11 2013 - 2017 28.54732   28.5
+12 2014 - 2018 28.37018   28.4
+13 2015 - 2019 27.40170   27.4
+14 2016 - 2020 26.22988   26.2
+[1] "Lincoln County Fertility Rate"
+          cat       value Labels
+1299 10 to 14   0.1705321      0
+1323 15 to 17   7.3986387      7
+1347 18 to 19  46.3783220     46
+1371 20 to 24  97.3901973     97
+1395 25 to 29 100.2965289    100
+1419 30 to 34  76.2463343     76
+1443 35 to 39  40.6231800     41
+1467 40 to 44  11.5310698     12
+1491 45 to 49   0.4581552      0
+[1] "Lincoln County Fertility Rate"
+                                cat    value Labels
+3  American Indian/Alaska Native NH 37.77336   37.8
+8         Asian/Pacific Islander NH 36.23814   36.2
+13                         Black NH 26.36204   26.4
+18                         Hispanic 49.97755   50.0
+23                         White NH 39.96711   40.0
+[1] "Lincoln County Fertility Rate"
+           cat    value Labels
+15 2010 - 2014 47.67240   47.7
+16 2011 - 2015 47.62850   47.6
+17 2012 - 2016 47.90077   47.9
+18 2013 - 2017 46.35921   46.4
+19 2014 - 2018 44.63203   44.6
+20 2015 - 2019 43.43555   43.4
+21 2016 - 2020 41.57702   41.6
+[1] "LBL Region Fertility Rate"
+          cat      value Labels
+1837 10 to 14  0.0550388    0.1
+1843 15 to 17  4.6519950    4.7
+1849 18 to 19 18.3792444   18.4
+1855 20 to 24 45.6766592   45.7
+1861 25 to 29 92.9488644   92.9
+1867 30 to 34 87.5322270   87.5
+1873 35 to 39 43.6664545   43.7
+1879 40 to 44  9.7704367    9.8
+1885 45 to 49  0.4349836    0.4
+[1] "LBL Region Fertility Rate"
+                                cat    value Labels
+4  American Indian/Alaska Native NH 35.05950   35.1
+9         Asian/Pacific Islander NH 27.64474   27.6
+14                         Black NH 28.57143   28.6
+19                         Hispanic 44.11644   44.1
+24                         White NH 37.89590   37.9
+[1] "LBL Region Fertility Rate"
+           cat    value Labels
+22 2010 - 2014 41.23724   41.2
+23 2011 - 2015 41.40394   41.4
+24 2012 - 2016 41.43627   41.4
+25 2013 - 2017 40.79771   40.8
+26 2014 - 2018 40.42589   40.4
+27 2015 - 2019 39.53618   39.5
+28 2016 - 2020 38.28095   38.3
+[1] "Oregon Fertility Rate"
+          cat       value Labels
+1297 10 to 14  0.08109562    0.1
+1321 15 to 17  4.92797784    4.9
+1345 18 to 19 26.37196459   26.4
+1369 20 to 24 57.80959467   57.8
+1393 25 to 29 82.83389567   82.8
+1417 30 to 34 86.99613530   87.0
+1441 35 to 39 48.40990716   48.4
+1465 40 to 44 11.04798124   11.0
+1489 45 to 49  0.67324330    0.7
+[1] "Oregon Fertility Rate"
+                                cat    value Labels
+5  American Indian/Alaska Native NH 35.63941   35.6
+10        Asian/Pacific Islander NH 36.93873   36.9
+15                         Black NH 43.94323   43.9
+20                         Hispanic 47.21470   47.2
+25                         White NH 37.66119   37.7
+[1] "Oregon Fertility Rate"
+           cat    value Labels
+29 2010 - 2014 44.87116   44.9
+30 2011 - 2015 44.69098   44.7
+31 2012 - 2016 44.42401   44.4
+32 2013 - 2017 43.67944   43.7
+33 2014 - 2018 42.57690   42.6
+34 2015 - 2019 41.35466   41.4
+35 2016 - 2020 39.82249   39.8
+[1] "Linn County Fertility Rate"
+          cat        value Labels
+1300 10 to 14   0.05127679      0
+1324 15 to 17   5.81878637      6
+1348 18 to 19  41.81732432     42
+1372 20 to 24  98.53296611     99
+1396 25 to 29 114.81951750    115
+1420 30 to 34  87.47733130     87
+1444 35 to 39  38.64302389     39
+1468 40 to 44   8.17839812      8
+1492 45 to 49   0.37453184      0
+[1] "Linn County Fertility Rate"
+                                cat    value Labels
+1  American Indian/Alaska Native NH 35.19281   35.2
+6         Asian/Pacific Islander NH 35.94560   35.9
+11                         Black NH 40.58339   40.6
+16                         Hispanic 49.76023   49.8
+21                         White NH 47.18142   47.2
+[1] "Linn County Fertility Rate"
+          cat    value Labels
+1 2010 - 2014 49.01581   49.0
+2 2011 - 2015 49.42299   49.4
+3 2012 - 2016 49.57977   49.6
+4 2013 - 2017 49.43285   49.4
+5 2014 - 2018 49.34333   49.3
+6 2015 - 2019 48.60907   48.6
+7 2016 - 2020 47.41617   47.4
+[1] "Benton County Fertility Rate"
+          cat      value Labels
+1298 10 to 14  0.0000000    0.0
+1322 15 to 17  1.2955232    1.3
+1346 18 to 19  4.0870975    4.1
+1370 20 to 24 12.0434017   12.0
+1394 25 to 29 60.1339090   60.1
+1418 30 to 34 93.0087876   93.0
+1442 35 to 39 53.6092553   53.6
+1466 40 to 44 11.4054782   11.4
+1490 45 to 49  0.5197055    0.5
+[1] "Benton County Fertility Rate"
+                                cat    value Labels
+2  American Indian/Alaska Native NH 28.10078   28.1
+7         Asian/Pacific Islander NH 24.73873   24.7
+12                         Black NH 21.10595   21.1
+17                         Hispanic 32.68457   32.7
+22                         White NH 25.40568   25.4
+[1] "Benton County Fertility Rate"
+           cat    value Labels
+8  2010 - 2014 29.54492   29.5
+9  2011 - 2015 29.55689   29.6
+10 2012 - 2016 29.39590   29.4
+11 2013 - 2017 28.54732   28.5
+12 2014 - 2018 28.37018   28.4
+13 2015 - 2019 27.40170   27.4
+14 2016 - 2020 26.22988   26.2
+[1] "Lincoln County Fertility Rate"
+          cat       value Labels
+1299 10 to 14   0.1705321      0
+1323 15 to 17   7.3986387      7
+1347 18 to 19  46.3783220     46
+1371 20 to 24  97.3901973     97
+1395 25 to 29 100.2965289    100
+1419 30 to 34  76.2463343     76
+1443 35 to 39  40.6231800     41
+1467 40 to 44  11.5310698     12
+1491 45 to 49   0.4581552      0
+[1] "Lincoln County Fertility Rate"
+                                cat    value Labels
+3  American Indian/Alaska Native NH 37.77336   37.8
+8         Asian/Pacific Islander NH 36.23814   36.2
+13                         Black NH 26.36204   26.4
+18                         Hispanic 49.97755   50.0
+23                         White NH 39.96711   40.0
+[1] "Lincoln County Fertility Rate"
+           cat    value Labels
+15 2010 - 2014 47.67240   47.7
+16 2011 - 2015 47.62850   47.6
+17 2012 - 2016 47.90077   47.9
+18 2013 - 2017 46.35921   46.4
+19 2014 - 2018 44.63203   44.6
+20 2015 - 2019 43.43555   43.4
+21 2016 - 2020 41.57702   41.6
+[1] "LBL Region Fertility Rate"
+          cat      value Labels
+1837 10 to 14  0.0550388    0.1
+1843 15 to 17  4.6519950    4.7
+1849 18 to 19 18.3792444   18.4
+1855 20 to 24 45.6766592   45.7
+1861 25 to 29 92.9488644   92.9
+1867 30 to 34 87.5322270   87.5
+1873 35 to 39 43.6664545   43.7
+1879 40 to 44  9.7704367    9.8
+1885 45 to 49  0.4349836    0.4
+[1] "LBL Region Fertility Rate"
+                                cat    value Labels
+4  American Indian/Alaska Native NH 35.05950   35.1
+9         Asian/Pacific Islander NH 27.64474   27.6
+14                         Black NH 28.57143   28.6
+19                         Hispanic 44.11644   44.1
+24                         White NH 37.89590   37.9
+[1] "LBL Region Fertility Rate"
+           cat    value Labels
+22 2010 - 2014 41.23724   41.2
+23 2011 - 2015 41.40394   41.4
+24 2012 - 2016 41.43627   41.4
+25 2013 - 2017 40.79771   40.8
+26 2014 - 2018 40.42589   40.4
+27 2015 - 2019 39.53618   39.5
+28 2016 - 2020 38.28095   38.3
+[1] "Oregon Fertility Rate"
+          cat       value Labels
+1297 10 to 14  0.08109562    0.1
+1321 15 to 17  4.92797784    4.9
+1345 18 to 19 26.37196459   26.4
+1369 20 to 24 57.80959467   57.8
+1393 25 to 29 82.83389567   82.8
+1417 30 to 34 86.99613530   87.0
+1441 35 to 39 48.40990716   48.4
+1465 40 to 44 11.04798124   11.0
+1489 45 to 49  0.67324330    0.7
+[1] "Oregon Fertility Rate"
+                                cat    value Labels
+5  American Indian/Alaska Native NH 35.63941   35.6
+10        Asian/Pacific Islander NH 36.93873   36.9
+15                         Black NH 43.94323   43.9
+20                         Hispanic 47.21470   47.2
+25                         White NH 37.66119   37.7
+[1] "Oregon Fertility Rate"
+           cat    value Labels
+29 2010 - 2014 44.87116   44.9
+30 2011 - 2015 44.69098   44.7
+31 2012 - 2016 44.42401   44.4
+32 2013 - 2017 43.67944   43.7
+33 2014 - 2018 42.57690   42.6
+34 2015 - 2019 41.35466   41.4
+35 2016 - 2020 39.82249   39.8
+[1] "Linn County Fertility Rate"
+          cat        value Labels
+1300 10 to 14   0.05127679      0
+1324 15 to 17   5.81878637      6
+1348 18 to 19  41.81732432     42
+1372 20 to 24  98.53296611     99
+1396 25 to 29 114.81951750    115
+1420 30 to 34  87.47733130     87
+1444 35 to 39  38.64302389     39
+1468 40 to 44   8.17839812      8
+1492 45 to 49   0.37453184      0
+[1] "Linn County Fertility Rate"
+                                cat    value Labels
+1  American Indian/Alaska Native NH 35.19281   35.2
+6         Asian/Pacific Islander NH 35.94560   35.9
+11                         Black NH 40.58339   40.6
+16                         Hispanic 49.76023   49.8
+21                         White NH 47.18142   47.2
+[1] "Linn County Fertility Rate"
+          cat    value Labels
+1 2010 - 2014 49.01581   49.0
+2 2011 - 2015 49.42299   49.4
+3 2012 - 2016 49.57977   49.6
+4 2013 - 2017 49.43285   49.4
+5 2014 - 2018 49.34333   49.3
+6 2015 - 2019 48.60907   48.6
+7 2016 - 2020 47.41617   47.4
+[1] "Benton County Fertility Rate"
+          cat      value Labels
+1298 10 to 14  0.0000000    0.0
+1322 15 to 17  1.2955232    1.3
+1346 18 to 19  4.0870975    4.1
+1370 20 to 24 12.0434017   12.0
+1394 25 to 29 60.1339090   60.1
+1418 30 to 34 93.0087876   93.0
+1442 35 to 39 53.6092553   53.6
+1466 40 to 44 11.4054782   11.4
+1490 45 to 49  0.5197055    0.5
+[1] "Benton County Fertility Rate"
+                                cat    value Labels
+2  American Indian/Alaska Native NH 28.10078   28.1
+7         Asian/Pacific Islander NH 24.73873   24.7
+12                         Black NH 21.10595   21.1
+17                         Hispanic 32.68457   32.7
+22                         White NH 25.40568   25.4
+[1] "Benton County Fertility Rate"
+           cat    value Labels
+8  2010 - 2014 29.54492   29.5
+9  2011 - 2015 29.55689   29.6
+10 2012 - 2016 29.39590   29.4
+11 2013 - 2017 28.54732   28.5
+12 2014 - 2018 28.37018   28.4
+13 2015 - 2019 27.40170   27.4
+14 2016 - 2020 26.22988   26.2
+[1] "Lincoln County Fertility Rate"
+          cat       value Labels
+1299 10 to 14   0.1705321      0
+1323 15 to 17   7.3986387      7
+1347 18 to 19  46.3783220     46
+1371 20 to 24  97.3901973     97
+1395 25 to 29 100.2965289    100
+1419 30 to 34  76.2463343     76
+1443 35 to 39  40.6231800     41
+1467 40 to 44  11.5310698     12
+1491 45 to 49   0.4581552      0
+[1] "Lincoln County Fertility Rate"
+                                cat    value Labels
+3  American Indian/Alaska Native NH 37.77336   37.8
+8         Asian/Pacific Islander NH 36.23814   36.2
+13                         Black NH 26.36204   26.4
+18                         Hispanic 49.97755   50.0
+23                         White NH 39.96711   40.0
+[1] "Lincoln County Fertility Rate"
+           cat    value Labels
+15 2010 - 2014 47.67240   47.7
+16 2011 - 2015 47.62850   47.6
+17 2012 - 2016 47.90077   47.9
+18 2013 - 2017 46.35921   46.4
+19 2014 - 2018 44.63203   44.6
+20 2015 - 2019 43.43555   43.4
+21 2016 - 2020 41.57702   41.6
+[1] "LBL Region Fertility Rate"
+          cat      value Labels
+1837 10 to 14  0.0550388    0.1
+1843 15 to 17  4.6519950    4.7
+1849 18 to 19 18.3792444   18.4
+1855 20 to 24 45.6766592   45.7
+1861 25 to 29 92.9488644   92.9
+1867 30 to 34 87.5322270   87.5
+1873 35 to 39 43.6664545   43.7
+1879 40 to 44  9.7704367    9.8
+1885 45 to 49  0.4349836    0.4
+[1] "LBL Region Fertility Rate"
+                                cat    value Labels
+4  American Indian/Alaska Native NH 35.05950   35.1
+9         Asian/Pacific Islander NH 27.64474   27.6
+14                         Black NH 28.57143   28.6
+19                         Hispanic 44.11644   44.1
+24                         White NH 37.89590   37.9
+[1] "LBL Region Fertility Rate"
+           cat    value Labels
+22 2010 - 2014 41.23724   41.2
+23 2011 - 2015 41.40394   41.4
+24 2012 - 2016 41.43627   41.4
+25 2013 - 2017 40.79771   40.8
+26 2014 - 2018 40.42589   40.4
+27 2015 - 2019 39.53618   39.5
+28 2016 - 2020 38.28095   38.3
+[1] "Oregon Fertility Rate"
+          cat       value Labels
+1297 10 to 14  0.08109562    0.1
+1321 15 to 17  4.92797784    4.9
+1345 18 to 19 26.37196459   26.4
+1369 20 to 24 57.80959467   57.8
+1393 25 to 29 82.83389567   82.8
+1417 30 to 34 86.99613530   87.0
+1441 35 to 39 48.40990716   48.4
+1465 40 to 44 11.04798124   11.0
+1489 45 to 49  0.67324330    0.7
+[1] "Oregon Fertility Rate"
+                                cat    value Labels
+5  American Indian/Alaska Native NH 35.63941   35.6
+10        Asian/Pacific Islander NH 36.93873   36.9
+15                         Black NH 43.94323   43.9
+20                         Hispanic 47.21470   47.2
+25                         White NH 37.66119   37.7
+[1] "Oregon Fertility Rate"
+           cat    value Labels
+29 2010 - 2014 44.87116   44.9
+30 2011 - 2015 44.69098   44.7
+31 2012 - 2016 44.42401   44.4
+32 2013 - 2017 43.67944   43.7
+33 2014 - 2018 42.57690   42.6
+34 2015 - 2019 41.35466   41.4
+35 2016 - 2020 39.82249   39.8
+[1] "Linn County Fertility Rate"
+          cat        value Labels
+1300 10 to 14   0.05127679      0
+1324 15 to 17   5.81878637      6
+1348 18 to 19  41.81732432     42
+1372 20 to 24  98.53296611     99
+1396 25 to 29 114.81951750    115
+1420 30 to 34  87.47733130     87
+1444 35 to 39  38.64302389     39
+1468 40 to 44   8.17839812      8
+1492 45 to 49   0.37453184      0
+[1] "Linn County Fertility Rate"
+                                cat    value Labels
+1  American Indian/Alaska Native NH 35.19281   35.2
+6         Asian/Pacific Islander NH 35.94560   35.9
+11                         Black NH 40.58339   40.6
+16                         Hispanic 49.76023   49.8
+21                         White NH 47.18142   47.2
+[1] "Linn County Fertility Rate"
+          cat    value Labels
+1 2010 - 2014 49.01581   49.0
+2 2011 - 2015 49.42299   49.4
+3 2012 - 2016 49.57977   49.6
+4 2013 - 2017 49.43285   49.4
+5 2014 - 2018 49.34333   49.3
+6 2015 - 2019 48.60907   48.6
+7 2016 - 2020 47.41617   47.4
+[1] "Benton County Fertility Rate"
+          cat      value Labels
+1298 10 to 14  0.0000000    0.0
+1322 15 to 17  1.2955232    1.3
+1346 18 to 19  4.0870975    4.1
+1370 20 to 24 12.0434017   12.0
+1394 25 to 29 60.1339090   60.1
+1418 30 to 34 93.0087876   93.0
+1442 35 to 39 53.6092553   53.6
+1466 40 to 44 11.4054782   11.4
+1490 45 to 49  0.5197055    0.5
+[1] "Benton County Fertility Rate"
+                                cat    value Labels
+2  American Indian/Alaska Native NH 28.10078   28.1
+7         Asian/Pacific Islander NH 24.73873   24.7
+12                         Black NH 21.10595   21.1
+17                         Hispanic 32.68457   32.7
+22                         White NH 25.40568   25.4
+[1] "Benton County Fertility Rate"
+           cat    value Labels
+8  2010 - 2014 29.54492   29.5
+9  2011 - 2015 29.55689   29.6
+10 2012 - 2016 29.39590   29.4
+11 2013 - 2017 28.54732   28.5
+12 2014 - 2018 28.37018   28.4
+13 2015 - 2019 27.40170   27.4
+14 2016 - 2020 26.22988   26.2
+[1] "Lincoln County Fertility Rate"
+          cat       value Labels
+1299 10 to 14   0.1705321      0
+1323 15 to 17   7.3986387      7
+1347 18 to 19  46.3783220     46
+1371 20 to 24  97.3901973     97
+1395 25 to 29 100.2965289    100
+1419 30 to 34  76.2463343     76
+1443 35 to 39  40.6231800     41
+1467 40 to 44  11.5310698     12
+1491 45 to 49   0.4581552      0
+[1] "Lincoln County Fertility Rate"
+                                cat    value Labels
+3  American Indian/Alaska Native NH 37.77336   37.8
+8         Asian/Pacific Islander NH 36.23814   36.2
+13                         Black NH 26.36204   26.4
+18                         Hispanic 49.97755   50.0
+23                         White NH 39.96711   40.0
+[1] "Lincoln County Fertility Rate"
+           cat    value Labels
+15 2010 - 2014 47.67240   47.7
+16 2011 - 2015 47.62850   47.6
+17 2012 - 2016 47.90077   47.9
+18 2013 - 2017 46.35921   46.4
+19 2014 - 2018 44.63203   44.6
+20 2015 - 2019 43.43555   43.4
+21 2016 - 2020 41.57702   41.6
+[1] "LBL Region Fertility Rate"
+          cat      value Labels
+1837 10 to 14  0.0550388    0.1
+1843 15 to 17  4.6519950    4.7
+1849 18 to 19 18.3792444   18.4
+1855 20 to 24 45.6766592   45.7
+1861 25 to 29 92.9488644   92.9
+1867 30 to 34 87.5322270   87.5
+1873 35 to 39 43.6664545   43.7
+1879 40 to 44  9.7704367    9.8
+1885 45 to 49  0.4349836    0.4
+[1] "LBL Region Fertility Rate"
+                                cat    value Labels
+4  American Indian/Alaska Native NH 35.05950   35.1
+9         Asian/Pacific Islander NH 27.64474   27.6
+14                         Black NH 28.57143   28.6
+19                         Hispanic 44.11644   44.1
+24                         White NH 37.89590   37.9
+[1] "LBL Region Fertility Rate"
+           cat    value Labels
+22 2010 - 2014 41.23724   41.2
+23 2011 - 2015 41.40394   41.4
+24 2012 - 2016 41.43627   41.4
+25 2013 - 2017 40.79771   40.8
+26 2014 - 2018 40.42589   40.4
+27 2015 - 2019 39.53618   39.5
+28 2016 - 2020 38.28095   38.3
+[1] "Oregon Fertility Rate"
+          cat       value Labels
+1297 10 to 14  0.08109562    0.1
+1321 15 to 17  4.92797784    4.9
+1345 18 to 19 26.37196459   26.4
+1369 20 to 24 57.80959467   57.8
+1393 25 to 29 82.83389567   82.8
+1417 30 to 34 86.99613530   87.0
+1441 35 to 39 48.40990716   48.4
+1465 40 to 44 11.04798124   11.0
+1489 45 to 49  0.67324330    0.7
+[1] "Oregon Fertility Rate"
+                                cat    value Labels
+5  American Indian/Alaska Native NH 35.63941   35.6
+10        Asian/Pacific Islander NH 36.93873   36.9
+15                         Black NH 43.94323   43.9
+20                         Hispanic 47.21470   47.2
+25                         White NH 37.66119   37.7
+[1] "Oregon Fertility Rate"
+           cat    value Labels
+29 2010 - 2014 44.87116   44.9
+30 2011 - 2015 44.69098   44.7
+31 2012 - 2016 44.42401   44.4
+32 2013 - 2017 43.67944   43.7
+33 2014 - 2018 42.57690   42.6
+34 2015 - 2019 41.35466   41.4
+35 2016 - 2020 39.82249   39.8
+[1] "Linn County Fertility Rate"
+          cat        value Labels
+1300 10 to 14   0.05127679      0
+1324 15 to 17   5.81878637      6
+1348 18 to 19  41.81732432     42
+1372 20 to 24  98.53296611     99
+1396 25 to 29 114.81951750    115
+1420 30 to 34  87.47733130     87
+1444 35 to 39  38.64302389     39
+1468 40 to 44   8.17839812      8
+1492 45 to 49   0.37453184      0
+[1] "Linn County Fertility Rate"
+                                cat    value Labels
+1  American Indian/Alaska Native NH 35.19281   35.2
+6         Asian/Pacific Islander NH 35.94560   35.9
+11                         Black NH 40.58339   40.6
+16                         Hispanic 49.76023   49.8
+21                         White NH 47.18142   47.2
+[1] "Linn County Fertility Rate"
+          cat    value Labels
+1 2010 - 2014 49.01581   49.0
+2 2011 - 2015 49.42299   49.4
+3 2012 - 2016 49.57977   49.6
+4 2013 - 2017 49.43285   49.4
+5 2014 - 2018 49.34333   49.3
+6 2015 - 2019 48.60907   48.6
+7 2016 - 2020 47.41617   47.4
+[1] "Benton County Fertility Rate"
+          cat      value Labels
+1298 10 to 14  0.0000000    0.0
+1322 15 to 17  1.2955232    1.3
+1346 18 to 19  4.0870975    4.1
+1370 20 to 24 12.0434017   12.0
+1394 25 to 29 60.1339090   60.1
+1418 30 to 34 93.0087876   93.0
+1442 35 to 39 53.6092553   53.6
+1466 40 to 44 11.4054782   11.4
+1490 45 to 49  0.5197055    0.5
+[1] "Benton County Fertility Rate"
+                                cat    value Labels
+2  American Indian/Alaska Native NH 28.10078   28.1
+7         Asian/Pacific Islander NH 24.73873   24.7
+12                         Black NH 21.10595   21.1
+17                         Hispanic 32.68457   32.7
+22                         White NH 25.40568   25.4
+[1] "Benton County Fertility Rate"
+           cat    value Labels
+8  2010 - 2014 29.54492   29.5
+9  2011 - 2015 29.55689   29.6
+10 2012 - 2016 29.39590   29.4
+11 2013 - 2017 28.54732   28.5
+12 2014 - 2018 28.37018   28.4
+13 2015 - 2019 27.40170   27.4
+14 2016 - 2020 26.22988   26.2
+[1] "Lincoln County Fertility Rate"
+          cat       value Labels
+1299 10 to 14   0.1705321      0
+1323 15 to 17   7.3986387      7
+1347 18 to 19  46.3783220     46
+1371 20 to 24  97.3901973     97
+1395 25 to 29 100.2965289    100
+1419 30 to 34  76.2463343     76
+1443 35 to 39  40.6231800     41
+1467 40 to 44  11.5310698     12
+1491 45 to 49   0.4581552      0
+[1] "Lincoln County Fertility Rate"
+                                cat    value Labels
+3  American Indian/Alaska Native NH 37.77336   37.8
+8         Asian/Pacific Islander NH 36.23814   36.2
+13                         Black NH 26.36204   26.4
+18                         Hispanic 49.97755   50.0
+23                         White NH 39.96711   40.0
+[1] "Lincoln County Fertility Rate"
+           cat    value Labels
+15 2010 - 2014 47.67240   47.7
+16 2011 - 2015 47.62850   47.6
+17 2012 - 2016 47.90077   47.9
+18 2013 - 2017 46.35921   46.4
+19 2014 - 2018 44.63203   44.6
+20 2015 - 2019 43.43555   43.4
+21 2016 - 2020 41.57702   41.6
+[1] "LBL Region Fertility Rate"
+          cat      value Labels
+1837 10 to 14  0.0550388    0.1
+1843 15 to 17  4.6519950    4.7
+1849 18 to 19 18.3792444   18.4
+1855 20 to 24 45.6766592   45.7
+1861 25 to 29 92.9488644   92.9
+1867 30 to 34 87.5322270   87.5
+1873 35 to 39 43.6664545   43.7
+1879 40 to 44  9.7704367    9.8
+1885 45 to 49  0.4349836    0.4
+[1] "LBL Region Fertility Rate"
+                                cat    value Labels
+4  American Indian/Alaska Native NH 35.05950   35.1
+9         Asian/Pacific Islander NH 27.64474   27.6
+14                         Black NH 28.57143   28.6
+19                         Hispanic 44.11644   44.1
+24                         White NH 37.89590   37.9
+[1] "LBL Region Fertility Rate"
+           cat    value Labels
+22 2010 - 2014 41.23724   41.2
+23 2011 - 2015 41.40394   41.4
+24 2012 - 2016 41.43627   41.4
+25 2013 - 2017 40.79771   40.8
+26 2014 - 2018 40.42589   40.4
+27 2015 - 2019 39.53618   39.5
+28 2016 - 2020 38.28095   38.3
+[1] "Oregon Fertility Rate"
+          cat       value Labels
+1297 10 to 14  0.08109562    0.1
+1321 15 to 17  4.92797784    4.9
+1345 18 to 19 26.37196459   26.4
+1369 20 to 24 57.80959467   57.8
+1393 25 to 29 82.83389567   82.8
+1417 30 to 34 86.99613530   87.0
+1441 35 to 39 48.40990716   48.4
+1465 40 to 44 11.04798124   11.0
+1489 45 to 49  0.67324330    0.7
+[1] "Oregon Fertility Rate"
+                                cat    value Labels
+5  American Indian/Alaska Native NH 35.63941   35.6
+10        Asian/Pacific Islander NH 36.93873   36.9
+15                         Black NH 43.94323   43.9
+20                         Hispanic 47.21470   47.2
+25                         White NH 37.66119   37.7
+[1] "Oregon Fertility Rate"
+           cat    value Labels
+29 2010 - 2014 44.87116   44.9
+30 2011 - 2015 44.69098   44.7
+31 2012 - 2016 44.42401   44.4
+32 2013 - 2017 43.67944   43.7
+33 2014 - 2018 42.57690   42.6
+34 2015 - 2019 41.35466   41.4
+35 2016 - 2020 39.82249   39.8
+[1] "Linn County Fertility Rate"
+          cat        value Labels
+1300 10 to 14   0.05127679      0
+1324 15 to 17   5.81878637      6
+1348 18 to 19  41.81732432     42
+1372 20 to 24  98.53296611     99
+1396 25 to 29 114.81951750    115
+1420 30 to 34  87.47733130     87
+1444 35 to 39  38.64302389     39
+1468 40 to 44   8.17839812      8
+1492 45 to 49   0.37453184      0
+[1] "Linn County Fertility Rate"
+                                cat    value Labels
+1  American Indian/Alaska Native NH 35.19281   35.2
+6         Asian/Pacific Islander NH 35.94560   35.9
+11                         Black NH 40.58339   40.6
+16                         Hispanic 49.76023   49.8
+21                         White NH 47.18142   47.2
+[1] "Linn County Fertility Rate"
+          cat    value Labels
+1 2010 - 2014 49.01581   49.0
+2 2011 - 2015 49.42299   49.4
+3 2012 - 2016 49.57977   49.6
+4 2013 - 2017 49.43285   49.4
+5 2014 - 2018 49.34333   49.3
+6 2015 - 2019 48.60907   48.6
+7 2016 - 2020 47.41617   47.4
+[1] "Benton County Fertility Rate"
+          cat      value Labels
+1298 10 to 14  0.0000000    0.0
+1322 15 to 17  1.2955232    1.3
+1346 18 to 19  4.0870975    4.1
+1370 20 to 24 12.0434017   12.0
+1394 25 to 29 60.1339090   60.1
+1418 30 to 34 93.0087876   93.0
+1442 35 to 39 53.6092553   53.6
+1466 40 to 44 11.4054782   11.4
+1490 45 to 49  0.5197055    0.5
+[1] "Benton County Fertility Rate"
+                                cat    value Labels
+2  American Indian/Alaska Native NH 28.10078   28.1
+7         Asian/Pacific Islander NH 24.73873   24.7
+12                         Black NH 21.10595   21.1
+17                         Hispanic 32.68457   32.7
+22                         White NH 25.40568   25.4
+[1] "Benton County Fertility Rate"
+           cat    value Labels
+8  2010 - 2014 29.54492   29.5
+9  2011 - 2015 29.55689   29.6
+10 2012 - 2016 29.39590   29.4
+11 2013 - 2017 28.54732   28.5
+12 2014 - 2018 28.37018   28.4
+13 2015 - 2019 27.40170   27.4
+14 2016 - 2020 26.22988   26.2
+[1] "Lincoln County Fertility Rate"
+          cat       value Labels
+1299 10 to 14   0.1705321      0
+1323 15 to 17   7.3986387      7
+1347 18 to 19  46.3783220     46
+1371 20 to 24  97.3901973     97
+1395 25 to 29 100.2965289    100
+1419 30 to 34  76.2463343     76
+1443 35 to 39  40.6231800     41
+1467 40 to 44  11.5310698     12
+1491 45 to 49   0.4581552      0
+[1] "Lincoln County Fertility Rate"
+                                cat    value Labels
+3  American Indian/Alaska Native NH 37.77336   37.8
+8         Asian/Pacific Islander NH 36.23814   36.2
+13                         Black NH 26.36204   26.4
+18                         Hispanic 49.97755   50.0
+23                         White NH 39.96711   40.0
+[1] "Lincoln County Fertility Rate"
+           cat    value Labels
+15 2010 - 2014 47.67240   47.7
+16 2011 - 2015 47.62850   47.6
+17 2012 - 2016 47.90077   47.9
+18 2013 - 2017 46.35921   46.4
+19 2014 - 2018 44.63203   44.6
+20 2015 - 2019 43.43555   43.4
+21 2016 - 2020 41.57702   41.6
+[1] "LBL Region Fertility Rate"
+          cat      value Labels
+1837 10 to 14  0.0550388    0.1
+1843 15 to 17  4.6519950    4.7
+1849 18 to 19 18.3792444   18.4
+1855 20 to 24 45.6766592   45.7
+1861 25 to 29 92.9488644   92.9
+1867 30 to 34 87.5322270   87.5
+1873 35 to 39 43.6664545   43.7
+1879 40 to 44  9.7704367    9.8
+1885 45 to 49  0.4349836    0.4
+[1] "LBL Region Fertility Rate"
+                                cat    value Labels
+4  American Indian/Alaska Native NH 35.05950   35.1
+9         Asian/Pacific Islander NH 27.64474   27.6
+14                         Black NH 28.57143   28.6
+19                         Hispanic 44.11644   44.1
+24                         White NH 37.89590   37.9
+[1] "LBL Region Fertility Rate"
+           cat    value Labels
+22 2010 - 2014 41.23724   41.2
+23 2011 - 2015 41.40394   41.4
+24 2012 - 2016 41.43627   41.4
+25 2013 - 2017 40.79771   40.8
+26 2014 - 2018 40.42589   40.4
+27 2015 - 2019 39.53618   39.5
+28 2016 - 2020 38.28095   38.3
+[1] "Oregon Fertility Rate"
+          cat       value Labels
+1297 10 to 14  0.08109562    0.1
+1321 15 to 17  4.92797784    4.9
+1345 18 to 19 26.37196459   26.4
+1369 20 to 24 57.80959467   57.8
+1393 25 to 29 82.83389567   82.8
+1417 30 to 34 86.99613530   87.0
+1441 35 to 39 48.40990716   48.4
+1465 40 to 44 11.04798124   11.0
+1489 45 to 49  0.67324330    0.7
+[1] "Oregon Fertility Rate"
+                                cat    value Labels
+5  American Indian/Alaska Native NH 35.63941   35.6
+10        Asian/Pacific Islander NH 36.93873   36.9
+15                         Black NH 43.94323   43.9
+20                         Hispanic 47.21470   47.2
+25                         White NH 37.66119   37.7
+[1] "Oregon Fertility Rate"
+           cat    value Labels
+29 2010 - 2014 44.87116   44.9
+30 2011 - 2015 44.69098   44.7
+31 2012 - 2016 44.42401   44.4
+32 2013 - 2017 43.67944   43.7
+33 2014 - 2018 42.57690   42.6
+34 2015 - 2019 41.35466   41.4
+35 2016 - 2020 39.82249   39.8
+[1] "Linn County Fertility Rate"
+          cat        value Labels
+1300 10 to 14   0.05127679      0
+1324 15 to 17   5.81878637      6
+1348 18 to 19  41.81732432     42
+1372 20 to 24  98.53296611     99
+1396 25 to 29 114.81951750    115
+1420 30 to 34  87.47733130     87
+1444 35 to 39  38.64302389     39
+1468 40 to 44   8.17839812      8
+1492 45 to 49   0.37453184      0
+[1] "Linn County Fertility Rate"
+                                cat    value Labels
+1  American Indian/Alaska Native NH 35.19281   35.2
+6         Asian/Pacific Islander NH 35.94560   35.9
+11                         Black NH 40.58339   40.6
+16                         Hispanic 49.76023   49.8
+21                         White NH 47.18142   47.2
+[1] "Linn County Fertility Rate"
+          cat    value Labels
+1 2010 - 2014 49.01581   49.0
+2 2011 - 2015 49.42299   49.4
+3 2012 - 2016 49.57977   49.6
+4 2013 - 2017 49.43285   49.4
+5 2014 - 2018 49.34333   49.3
+6 2015 - 2019 48.60907   48.6
+7 2016 - 2020 47.41617   47.4
+[1] "Benton County Fertility Rate"
+          cat      value Labels
+1298 10 to 14  0.0000000    0.0
+1322 15 to 17  1.2955232    1.3
+1346 18 to 19  4.0870975    4.1
+1370 20 to 24 12.0434017   12.0
+1394 25 to 29 60.1339090   60.1
+1418 30 to 34 93.0087876   93.0
+1442 35 to 39 53.6092553   53.6
+1466 40 to 44 11.4054782   11.4
+1490 45 to 49  0.5197055    0.5
+[1] "Benton County Fertility Rate"
+                                cat    value Labels
+2  American Indian/Alaska Native NH 28.10078   28.1
+7         Asian/Pacific Islander NH 24.73873   24.7
+12                         Black NH 21.10595   21.1
+17                         Hispanic 32.68457   32.7
+22                         White NH 25.40568   25.4
+[1] "Benton County Fertility Rate"
+           cat    value Labels
+8  2010 - 2014 29.54492   29.5
+9  2011 - 2015 29.55689   29.6
+10 2012 - 2016 29.39590   29.4
+11 2013 - 2017 28.54732   28.5
+12 2014 - 2018 28.37018   28.4
+13 2015 - 2019 27.40170   27.4
+14 2016 - 2020 26.22988   26.2
+[1] "Lincoln County Fertility Rate"
+          cat       value Labels
+1299 10 to 14   0.1705321      0
+1323 15 to 17   7.3986387      7
+1347 18 to 19  46.3783220     46
+1371 20 to 24  97.3901973     97
+1395 25 to 29 100.2965289    100
+1419 30 to 34  76.2463343     76
+1443 35 to 39  40.6231800     41
+1467 40 to 44  11.5310698     12
+1491 45 to 49   0.4581552      0
+[1] "Lincoln County Fertility Rate"
+                                cat    value Labels
+3  American Indian/Alaska Native NH 37.77336   37.8
+8         Asian/Pacific Islander NH 36.23814   36.2
+13                         Black NH 26.36204   26.4
+18                         Hispanic 49.97755   50.0
+23                         White NH 39.96711   40.0
+[1] "Lincoln County Fertility Rate"
+           cat    value Labels
+15 2010 - 2014 47.67240   47.7
+16 2011 - 2015 47.62850   47.6
+17 2012 - 2016 47.90077   47.9
+18 2013 - 2017 46.35921   46.4
+19 2014 - 2018 44.63203   44.6
+20 2015 - 2019 43.43555   43.4
+21 2016 - 2020 41.57702   41.6
+[1] "LBL Region Fertility Rate"
+          cat      value Labels
+1837 10 to 14  0.0550388    0.1
+1843 15 to 17  4.6519950    4.7
+1849 18 to 19 18.3792444   18.4
+1855 20 to 24 45.6766592   45.7
+1861 25 to 29 92.9488644   92.9
+1867 30 to 34 87.5322270   87.5
+1873 35 to 39 43.6664545   43.7
+1879 40 to 44  9.7704367    9.8
+1885 45 to 49  0.4349836    0.4
+[1] "LBL Region Fertility Rate"
+                                cat    value Labels
+4  American Indian/Alaska Native NH 35.05950   35.1
+9         Asian/Pacific Islander NH 27.64474   27.6
+14                         Black NH 28.57143   28.6
+19                         Hispanic 44.11644   44.1
+24                         White NH 37.89590   37.9
+[1] "LBL Region Fertility Rate"
+           cat    value Labels
+22 2010 - 2014 41.23724   41.2
+23 2011 - 2015 41.40394   41.4
+24 2012 - 2016 41.43627   41.4
+25 2013 - 2017 40.79771   40.8
+26 2014 - 2018 40.42589   40.4
+27 2015 - 2019 39.53618   39.5
+28 2016 - 2020 38.28095   38.3
+[1] "Oregon Fertility Rate"
+          cat       value Labels
+1297 10 to 14  0.08109562    0.1
+1321 15 to 17  4.92797784    4.9
+1345 18 to 19 26.37196459   26.4
+1369 20 to 24 57.80959467   57.8
+1393 25 to 29 82.83389567   82.8
+1417 30 to 34 86.99613530   87.0
+1441 35 to 39 48.40990716   48.4
+1465 40 to 44 11.04798124   11.0
+1489 45 to 49  0.67324330    0.7
+[1] "Oregon Fertility Rate"
+                                cat    value Labels
+5  American Indian/Alaska Native NH 35.63941   35.6
+10        Asian/Pacific Islander NH 36.93873   36.9
+15                         Black NH 43.94323   43.9
+20                         Hispanic 47.21470   47.2
+25                         White NH 37.66119   37.7
+[1] "Oregon Fertility Rate"
+           cat    value Labels
+29 2010 - 2014 44.87116   44.9
+30 2011 - 2015 44.69098   44.7
+31 2012 - 2016 44.42401   44.4
+32 2013 - 2017 43.67944   43.7
+33 2014 - 2018 42.57690   42.6
+34 2015 - 2019 41.35466   41.4
+35 2016 - 2020 39.82249   39.8
+[1] "Linn County Fertility Rate"
+          cat        value Labels
+1300 10 to 14   0.05127679      0
+1324 15 to 17   5.81878637      6
+1348 18 to 19  41.81732432     42
+1372 20 to 24  98.53296611     99
+1396 25 to 29 114.81951750    115
+1420 30 to 34  87.47733130     87
+1444 35 to 39  38.64302389     39
+1468 40 to 44   8.17839812      8
+1492 45 to 49   0.37453184      0
+[1] "Linn County Fertility Rate"
+                                cat    value Labels
+1  American Indian/Alaska Native NH 35.19281   35.2
+6         Asian/Pacific Islander NH 35.94560   35.9
+11                         Black NH 40.58339   40.6
+16                         Hispanic 49.76023   49.8
+21                         White NH 47.18142   47.2
+[1] "Linn County Fertility Rate"
+          cat    value Labels
+1 2010 - 2014 49.01581   49.0
+2 2011 - 2015 49.42299   49.4
+3 2012 - 2016 49.57977   49.6
+4 2013 - 2017 49.43285   49.4
+5 2014 - 2018 49.34333   49.3
+6 2015 - 2019 48.60907   48.6
+7 2016 - 2020 47.41617   47.4
+[1] "Benton County Fertility Rate"
+          cat      value Labels
+1298 10 to 14  0.0000000    0.0
+1322 15 to 17  1.2955232    1.3
+1346 18 to 19  4.0870975    4.1
+1370 20 to 24 12.0434017   12.0
+1394 25 to 29 60.1339090   60.1
+1418 30 to 34 93.0087876   93.0
+1442 35 to 39 53.6092553   53.6
+1466 40 to 44 11.4054782   11.4
+1490 45 to 49  0.5197055    0.5
+[1] "Benton County Fertility Rate"
+                                cat    value Labels
+2  American Indian/Alaska Native NH 28.10078   28.1
+7         Asian/Pacific Islander NH 24.73873   24.7
+12                         Black NH 21.10595   21.1
+17                         Hispanic 32.68457   32.7
+22                         White NH 25.40568   25.4
+[1] "Benton County Fertility Rate"
+           cat    value Labels
+8  2010 - 2014 29.54492   29.5
+9  2011 - 2015 29.55689   29.6
+10 2012 - 2016 29.39590   29.4
+11 2013 - 2017 28.54732   28.5
+12 2014 - 2018 28.37018   28.4
+13 2015 - 2019 27.40170   27.4
+14 2016 - 2020 26.22988   26.2
+[1] "Lincoln County Fertility Rate"
+          cat       value Labels
+1299 10 to 14   0.1705321      0
+1323 15 to 17   7.3986387      7
+1347 18 to 19  46.3783220     46
+1371 20 to 24  97.3901973     97
+1395 25 to 29 100.2965289    100
+1419 30 to 34  76.2463343     76
+1443 35 to 39  40.6231800     41
+1467 40 to 44  11.5310698     12
+1491 45 to 49   0.4581552      0
+[1] "Lincoln County Fertility Rate"
+                                cat    value Labels
+3  American Indian/Alaska Native NH 37.77336   37.8
+8         Asian/Pacific Islander NH 36.23814   36.2
+13                         Black NH 26.36204   26.4
+18                         Hispanic 49.97755   50.0
+23                         White NH 39.96711   40.0
+[1] "Lincoln County Fertility Rate"
+           cat    value Labels
+15 2010 - 2014 47.67240   47.7
+16 2011 - 2015 47.62850   47.6
+17 2012 - 2016 47.90077   47.9
+18 2013 - 2017 46.35921   46.4
+19 2014 - 2018 44.63203   44.6
+20 2015 - 2019 43.43555   43.4
+21 2016 - 2020 41.57702   41.6
+[1] "LBL Region Fertility Rate"
+          cat      value Labels
+1837 10 to 14  0.0550388    0.1
+1843 15 to 17  4.6519950    4.7
+1849 18 to 19 18.3792444   18.4
+1855 20 to 24 45.6766592   45.7
+1861 25 to 29 92.9488644   92.9
+1867 30 to 34 87.5322270   87.5
+1873 35 to 39 43.6664545   43.7
+1879 40 to 44  9.7704367    9.8
+1885 45 to 49  0.4349836    0.4
+[1] "LBL Region Fertility Rate"
+                                cat    value Labels
+4  American Indian/Alaska Native NH 35.05950   35.1
+9         Asian/Pacific Islander NH 27.64474   27.6
+14                         Black NH 28.57143   28.6
+19                         Hispanic 44.11644   44.1
+24                         White NH 37.89590   37.9
+[1] "LBL Region Fertility Rate"
+           cat    value Labels
+22 2010 - 2014 41.23724   41.2
+23 2011 - 2015 41.40394   41.4
+24 2012 - 2016 41.43627   41.4
+25 2013 - 2017 40.79771   40.8
+26 2014 - 2018 40.42589   40.4
+27 2015 - 2019 39.53618   39.5
+28 2016 - 2020 38.28095   38.3
+[1] "Oregon Fertility Rate"
+          cat       value Labels
+1297 10 to 14  0.08109562    0.1
+1321 15 to 17  4.92797784    4.9
+1345 18 to 19 26.37196459   26.4
+1369 20 to 24 57.80959467   57.8
+1393 25 to 29 82.83389567   82.8
+1417 30 to 34 86.99613530   87.0
+1441 35 to 39 48.40990716   48.4
+1465 40 to 44 11.04798124   11.0
+1489 45 to 49  0.67324330    0.7
+[1] "Oregon Fertility Rate"
+                                cat    value Labels
+5  American Indian/Alaska Native NH 35.63941   35.6
+10        Asian/Pacific Islander NH 36.93873   36.9
+15                         Black NH 43.94323   43.9
+20                         Hispanic 47.21470   47.2
+25                         White NH 37.66119   37.7
+[1] "Oregon Fertility Rate"
+           cat    value Labels
+29 2010 - 2014 44.87116   44.9
+30 2011 - 2015 44.69098   44.7
+31 2012 - 2016 44.42401   44.4
+32 2013 - 2017 43.67944   43.7
+33 2014 - 2018 42.57690   42.6
+34 2015 - 2019 41.35466   41.4
+35 2016 - 2020 39.82249   39.8
+[1] "Linn County Fertility Rate"
+          cat        value Labels
+1300 10 to 14   0.05127679      0
+1324 15 to 17   5.81878637      6
+1348 18 to 19  41.81732432     42
+1372 20 to 24  98.53296611     99
+1396 25 to 29 114.81951750    115
+1420 30 to 34  87.47733130     87
+1444 35 to 39  38.64302389     39
+1468 40 to 44   8.17839812      8
+1492 45 to 49   0.37453184      0
+[1] "Linn County Fertility Rate"
+                                cat    value Labels
+1  American Indian/Alaska Native NH 35.19281   35.2
+6         Asian/Pacific Islander NH 35.94560   35.9
+11                         Black NH 40.58339   40.6
+16                         Hispanic 49.76023   49.8
+21                         White NH 47.18142   47.2
+[1] "Linn County Fertility Rate"
+          cat    value Labels
+1 2010 - 2014 49.01581   49.0
+2 2011 - 2015 49.42299   49.4
+3 2012 - 2016 49.57977   49.6
+4 2013 - 2017 49.43285   49.4
+5 2014 - 2018 49.34333   49.3
+6 2015 - 2019 48.60907   48.6
+7 2016 - 2020 47.41617   47.4
+[1] "Benton County Fertility Rate"
+          cat      value Labels
+1298 10 to 14  0.0000000    0.0
+1322 15 to 17  1.2955232    1.3
+1346 18 to 19  4.0870975    4.1
+1370 20 to 24 12.0434017   12.0
+1394 25 to 29 60.1339090   60.1
+1418 30 to 34 93.0087876   93.0
+1442 35 to 39 53.6092553   53.6
+1466 40 to 44 11.4054782   11.4
+1490 45 to 49  0.5197055    0.5
+[1] "Benton County Fertility Rate"
+                                cat    value Labels
+2  American Indian/Alaska Native NH 28.10078   28.1
+7         Asian/Pacific Islander NH 24.73873   24.7
+12                         Black NH 21.10595   21.1
+17                         Hispanic 32.68457   32.7
+22                         White NH 25.40568   25.4
+[1] "Benton County Fertility Rate"
+           cat    value Labels
+8  2010 - 2014 29.54492   29.5
+9  2011 - 2015 29.55689   29.6
+10 2012 - 2016 29.39590   29.4
+11 2013 - 2017 28.54732   28.5
+12 2014 - 2018 28.37018   28.4
+13 2015 - 2019 27.40170   27.4
+14 2016 - 2020 26.22988   26.2
+[1] "Lincoln County Fertility Rate"
+          cat       value Labels
+1299 10 to 14   0.1705321      0
+1323 15 to 17   7.3986387      7
+1347 18 to 19  46.3783220     46
+1371 20 to 24  97.3901973     97
+1395 25 to 29 100.2965289    100
+1419 30 to 34  76.2463343     76
+1443 35 to 39  40.6231800     41
+1467 40 to 44  11.5310698     12
+1491 45 to 49   0.4581552      0
+[1] "Lincoln County Fertility Rate"
+                                cat    value Labels
+3  American Indian/Alaska Native NH 37.77336   37.8
+8         Asian/Pacific Islander NH 36.23814   36.2
+13                         Black NH 26.36204   26.4
+18                         Hispanic 49.97755   50.0
+23                         White NH 39.96711   40.0
+[1] "Lincoln County Fertility Rate"
+           cat    value Labels
+15 2010 - 2014 47.67240   47.7
+16 2011 - 2015 47.62850   47.6
+17 2012 - 2016 47.90077   47.9
+18 2013 - 2017 46.35921   46.4
+19 2014 - 2018 44.63203   44.6
+20 2015 - 2019 43.43555   43.4
+21 2016 - 2020 41.57702   41.6
+[1] "LBL Region Fertility Rate"
+          cat      value Labels
+1837 10 to 14  0.0550388    0.1
+1843 15 to 17  4.6519950    4.7
+1849 18 to 19 18.3792444   18.4
+1855 20 to 24 45.6766592   45.7
+1861 25 to 29 92.9488644   92.9
+1867 30 to 34 87.5322270   87.5
+1873 35 to 39 43.6664545   43.7
+1879 40 to 44  9.7704367    9.8
+1885 45 to 49  0.4349836    0.4
+[1] "LBL Region Fertility Rate"
+                                cat    value Labels
+4  American Indian/Alaska Native NH 35.05950   35.1
+9         Asian/Pacific Islander NH 27.64474   27.6
+14                         Black NH 28.57143   28.6
+19                         Hispanic 44.11644   44.1
+24                         White NH 37.89590   37.9
+[1] "LBL Region Fertility Rate"
+           cat    value Labels
+22 2010 - 2014 41.23724   41.2
+23 2011 - 2015 41.40394   41.4
+24 2012 - 2016 41.43627   41.4
+25 2013 - 2017 40.79771   40.8
+26 2014 - 2018 40.42589   40.4
+27 2015 - 2019 39.53618   39.5
+28 2016 - 2020 38.28095   38.3
+[1] "Oregon Fertility Rate"
+          cat       value Labels
+1297 10 to 14  0.08109562    0.1
+1321 15 to 17  4.92797784    4.9
+1345 18 to 19 26.37196459   26.4
+1369 20 to 24 57.80959467   57.8
+1393 25 to 29 82.83389567   82.8
+1417 30 to 34 86.99613530   87.0
+1441 35 to 39 48.40990716   48.4
+1465 40 to 44 11.04798124   11.0
+1489 45 to 49  0.67324330    0.7
+[1] "Oregon Fertility Rate"
+                                cat    value Labels
+5  American Indian/Alaska Native NH 35.63941   35.6
+10        Asian/Pacific Islander NH 36.93873   36.9
+15                         Black NH 43.94323   43.9
+20                         Hispanic 47.21470   47.2
+25                         White NH 37.66119   37.7
+[1] "Oregon Fertility Rate"
+           cat    value Labels
+29 2010 - 2014 44.87116   44.9
+30 2011 - 2015 44.69098   44.7
+31 2012 - 2016 44.42401   44.4
+32 2013 - 2017 43.67944   43.7
+33 2014 - 2018 42.57690   42.6
+34 2015 - 2019 41.35466   41.4
+35 2016 - 2020 39.82249   39.8
+[1] "Linn County Fertility Rate"
+          cat        value Labels
+1300 10 to 14   0.05127679      0
+1324 15 to 17   5.81878637      6
+1348 18 to 19  41.81732432     42
+1372 20 to 24  98.53296611     99
+1396 25 to 29 114.81951750    115
+1420 30 to 34  87.47733130     87
+1444 35 to 39  38.64302389     39
+1468 40 to 44   8.17839812      8
+1492 45 to 49   0.37453184      0
+[1] "Linn County Fertility Rate"
+                                cat    value Labels
+1  American Indian/Alaska Native NH 35.19281   35.2
+6         Asian/Pacific Islander NH 35.94560   35.9
+11                         Black NH 40.58339   40.6
+16                         Hispanic 49.76023   49.8
+21                         White NH 47.18142   47.2
+[1] "Linn County Fertility Rate"
+          cat    value Labels
+1 2010 - 2014 49.01581   49.0
+2 2011 - 2015 49.42299   49.4
+3 2012 - 2016 49.57977   49.6
+4 2013 - 2017 49.43285   49.4
+5 2014 - 2018 49.34333   49.3
+6 2015 - 2019 48.60907   48.6
+7 2016 - 2020 47.41617   47.4
+[1] "Benton County Fertility Rate"
+          cat      value Labels
+1298 10 to 14  0.0000000    0.0
+1322 15 to 17  1.2955232    1.3
+1346 18 to 19  4.0870975    4.1
+1370 20 to 24 12.0434017   12.0
+1394 25 to 29 60.1339090   60.1
+1418 30 to 34 93.0087876   93.0
+1442 35 to 39 53.6092553   53.6
+1466 40 to 44 11.4054782   11.4
+1490 45 to 49  0.5197055    0.5
+[1] "Benton County Fertility Rate"
+                                cat    value Labels
+2  American Indian/Alaska Native NH 28.10078   28.1
+7         Asian/Pacific Islander NH 24.73873   24.7
+12                         Black NH 21.10595   21.1
+17                         Hispanic 32.68457   32.7
+22                         White NH 25.40568   25.4
+[1] "Benton County Fertility Rate"
+           cat    value Labels
+8  2010 - 2014 29.54492   29.5
+9  2011 - 2015 29.55689   29.6
+10 2012 - 2016 29.39590   29.4
+11 2013 - 2017 28.54732   28.5
+12 2014 - 2018 28.37018   28.4
+13 2015 - 2019 27.40170   27.4
+14 2016 - 2020 26.22988   26.2
+[1] "Lincoln County Fertility Rate"
+          cat       value Labels
+1299 10 to 14   0.1705321      0
+1323 15 to 17   7.3986387      7
+1347 18 to 19  46.3783220     46
+1371 20 to 24  97.3901973     97
+1395 25 to 29 100.2965289    100
+1419 30 to 34  76.2463343     76
+1443 35 to 39  40.6231800     41
+1467 40 to 44  11.5310698     12
+1491 45 to 49   0.4581552      0
+[1] "Lincoln County Fertility Rate"
+                                cat    value Labels
+3  American Indian/Alaska Native NH 37.77336   37.8
+8         Asian/Pacific Islander NH 36.23814   36.2
+13                         Black NH 26.36204   26.4
+18                         Hispanic 49.97755   50.0
+23                         White NH 39.96711   40.0
+[1] "Lincoln County Fertility Rate"
+           cat    value Labels
+15 2010 - 2014 47.67240   47.7
+16 2011 - 2015 47.62850   47.6
+17 2012 - 2016 47.90077   47.9
+18 2013 - 2017 46.35921   46.4
+19 2014 - 2018 44.63203   44.6
+20 2015 - 2019 43.43555   43.4
+21 2016 - 2020 41.57702   41.6
+[1] "LBL Region Fertility Rate"
+          cat      value Labels
+1837 10 to 14  0.0550388    0.1
+1843 15 to 17  4.6519950    4.7
+1849 18 to 19 18.3792444   18.4
+1855 20 to 24 45.6766592   45.7
+1861 25 to 29 92.9488644   92.9
+1867 30 to 34 87.5322270   87.5
+1873 35 to 39 43.6664545   43.7
+1879 40 to 44  9.7704367    9.8
+1885 45 to 49  0.4349836    0.4
+[1] "LBL Region Fertility Rate"
+                                cat    value Labels
+4  American Indian/Alaska Native NH 35.05950   35.1
+9         Asian/Pacific Islander NH 27.64474   27.6
+14                         Black NH 28.57143   28.6
+19                         Hispanic 44.11644   44.1
+24                         White NH 37.89590   37.9
+[1] "LBL Region Fertility Rate"
+           cat    value Labels
+22 2010 - 2014 41.23724   41.2
+23 2011 - 2015 41.40394   41.4
+24 2012 - 2016 41.43627   41.4
+25 2013 - 2017 40.79771   40.8
+26 2014 - 2018 40.42589   40.4
+27 2015 - 2019 39.53618   39.5
+28 2016 - 2020 38.28095   38.3
+[1] "Oregon Fertility Rate"
+          cat       value Labels
+1297 10 to 14  0.08109562    0.1
+1321 15 to 17  4.92797784    4.9
+1345 18 to 19 26.37196459   26.4
+1369 20 to 24 57.80959467   57.8
+1393 25 to 29 82.83389567   82.8
+1417 30 to 34 86.99613530   87.0
+1441 35 to 39 48.40990716   48.4
+1465 40 to 44 11.04798124   11.0
+1489 45 to 49  0.67324330    0.7
+[1] "Oregon Fertility Rate"
+                                cat    value Labels
+5  American Indian/Alaska Native NH 35.63941   35.6
+10        Asian/Pacific Islander NH 36.93873   36.9
+15                         Black NH 43.94323   43.9
+20                         Hispanic 47.21470   47.2
+25                         White NH 37.66119   37.7
+[1] "Oregon Fertility Rate"
+           cat    value Labels
+29 2010 - 2014 44.87116   44.9
+30 2011 - 2015 44.69098   44.7
+31 2012 - 2016 44.42401   44.4
+32 2013 - 2017 43.67944   43.7
+33 2014 - 2018 42.57690   42.6
+34 2015 - 2019 41.35466   41.4
+35 2016 - 2020 39.82249   39.8
+[1] "Linn County Fertility Rate"
+          cat        value Labels
+1300 10 to 14   0.05127679      0
+1324 15 to 17   5.81878637      6
+1348 18 to 19  41.81732432     42
+1372 20 to 24  98.53296611     99
+1396 25 to 29 114.81951750    115
+1420 30 to 34  87.47733130     87
+1444 35 to 39  38.64302389     39
+1468 40 to 44   8.17839812      8
+1492 45 to 49   0.37453184      0
+[1] "Linn County Fertility Rate"
+                                cat    value Labels
+1  American Indian/Alaska Native NH 35.19281   35.2
+6         Asian/Pacific Islander NH 35.94560   35.9
+11                         Black NH 40.58339   40.6
+16                         Hispanic 49.76023   49.8
+21                         White NH 47.18142   47.2
+[1] "Linn County Fertility Rate"
+          cat    value Labels
+1 2010 - 2014 49.01581   49.0
+2 2011 - 2015 49.42299   49.4
+3 2012 - 2016 49.57977   49.6
+4 2013 - 2017 49.43285   49.4
+5 2014 - 2018 49.34333   49.3
+6 2015 - 2019 48.60907   48.6
+7 2016 - 2020 47.41617   47.4
+[1] "Benton County Fertility Rate"
+          cat      value Labels
+1298 10 to 14  0.0000000    0.0
+1322 15 to 17  1.2955232    1.3
+1346 18 to 19  4.0870975    4.1
+1370 20 to 24 12.0434017   12.0
+1394 25 to 29 60.1339090   60.1
+1418 30 to 34 93.0087876   93.0
+1442 35 to 39 53.6092553   53.6
+1466 40 to 44 11.4054782   11.4
+1490 45 to 49  0.5197055    0.5
+[1] "Benton County Fertility Rate"
+                                cat    value Labels
+2  American Indian/Alaska Native NH 28.10078   28.1
+7         Asian/Pacific Islander NH 24.73873   24.7
+12                         Black NH 21.10595   21.1
+17                         Hispanic 32.68457   32.7
+22                         White NH 25.40568   25.4
+[1] "Benton County Fertility Rate"
+           cat    value Labels
+8  2010 - 2014 29.54492   29.5
+9  2011 - 2015 29.55689   29.6
+10 2012 - 2016 29.39590   29.4
+11 2013 - 2017 28.54732   28.5
+12 2014 - 2018 28.37018   28.4
+13 2015 - 2019 27.40170   27.4
+14 2016 - 2020 26.22988   26.2
+[1] "Lincoln County Fertility Rate"
+          cat       value Labels
+1299 10 to 14   0.1705321      0
+1323 15 to 17   7.3986387      7
+1347 18 to 19  46.3783220     46
+1371 20 to 24  97.3901973     97
+1395 25 to 29 100.2965289    100
+1419 30 to 34  76.2463343     76
+1443 35 to 39  40.6231800     41
+1467 40 to 44  11.5310698     12
+1491 45 to 49   0.4581552      0
+[1] "Lincoln County Fertility Rate"
+                                cat    value Labels
+3  American Indian/Alaska Native NH 37.77336   37.8
+8         Asian/Pacific Islander NH 36.23814   36.2
+13                         Black NH 26.36204   26.4
+18                         Hispanic 49.97755   50.0
+23                         White NH 39.96711   40.0
+[1] "Lincoln County Fertility Rate"
+           cat    value Labels
+15 2010 - 2014 47.67240   47.7
+16 2011 - 2015 47.62850   47.6
+17 2012 - 2016 47.90077   47.9
+18 2013 - 2017 46.35921   46.4
+19 2014 - 2018 44.63203   44.6
+20 2015 - 2019 43.43555   43.4
+21 2016 - 2020 41.57702   41.6
+[1] "LBL Region Fertility Rate"
+          cat      value Labels
+1837 10 to 14  0.0550388    0.1
+1843 15 to 17  4.6519950    4.7
+1849 18 to 19 18.3792444   18.4
+1855 20 to 24 45.6766592   45.7
+1861 25 to 29 92.9488644   92.9
+1867 30 to 34 87.5322270   87.5
+1873 35 to 39 43.6664545   43.7
+1879 40 to 44  9.7704367    9.8
+1885 45 to 49  0.4349836    0.4
+[1] "LBL Region Fertility Rate"
+                                cat    value Labels
+4  American Indian/Alaska Native NH 35.05950   35.1
+9         Asian/Pacific Islander NH 27.64474   27.6
+14                         Black NH 28.57143   28.6
+19                         Hispanic 44.11644   44.1
+24                         White NH 37.89590   37.9
+[1] "LBL Region Fertility Rate"
+           cat    value Labels
+22 2010 - 2014 41.23724   41.2
+23 2011 - 2015 41.40394   41.4
+24 2012 - 2016 41.43627   41.4
+25 2013 - 2017 40.79771   40.8
+26 2014 - 2018 40.42589   40.4
+27 2015 - 2019 39.53618   39.5
+28 2016 - 2020 38.28095   38.3
+[1] "Oregon Fertility Rate"
+          cat       value Labels
+1297 10 to 14  0.08109562    0.1
+1321 15 to 17  4.92797784    4.9
+1345 18 to 19 26.37196459   26.4
+1369 20 to 24 57.80959467   57.8
+1393 25 to 29 82.83389567   82.8
+1417 30 to 34 86.99613530   87.0
+1441 35 to 39 48.40990716   48.4
+1465 40 to 44 11.04798124   11.0
+1489 45 to 49  0.67324330    0.7
+[1] "Oregon Fertility Rate"
+                                cat    value Labels
+5  American Indian/Alaska Native NH 35.63941   35.6
+10        Asian/Pacific Islander NH 36.93873   36.9
+15                         Black NH 43.94323   43.9
+20                         Hispanic 47.21470   47.2
+25                         White NH 37.66119   37.7
+[1] "Oregon Fertility Rate"
+           cat    value Labels
+29 2010 - 2014 44.87116   44.9
+30 2011 - 2015 44.69098   44.7
+31 2012 - 2016 44.42401   44.4
+32 2013 - 2017 43.67944   43.7
+33 2014 - 2018 42.57690   42.6
+34 2015 - 2019 41.35466   41.4
+35 2016 - 2020 39.82249   39.8
+[1] "Linn County Fertility Rate"
+          cat        value Labels
+1300 10 to 14   0.05127679      0
+1324 15 to 17   5.81878637      6
+1348 18 to 19  41.81732432     42
+1372 20 to 24  98.53296611     99
+1396 25 to 29 114.81951750    115
+1420 30 to 34  87.47733130     87
+1444 35 to 39  38.64302389     39
+1468 40 to 44   8.17839812      8
+1492 45 to 49   0.37453184      0
+[1] "Linn County Fertility Rate"
+                                cat    value Labels
+1  American Indian/Alaska Native NH 35.19281   35.2
+6         Asian/Pacific Islander NH 35.94560   35.9
+11                         Black NH 40.58339   40.6
+16                         Hispanic 49.76023   49.8
+21                         White NH 47.18142   47.2
+[1] "Linn County Fertility Rate"
+          cat    value Labels
+1 2010 - 2014 49.01581   49.0
+2 2011 - 2015 49.42299   49.4
+3 2012 - 2016 49.57977   49.6
+4 2013 - 2017 49.43285   49.4
+5 2014 - 2018 49.34333   49.3
+6 2015 - 2019 48.60907   48.6
+7 2016 - 2020 47.41617   47.4
+[1] "Benton County Fertility Rate"
+          cat      value Labels
+1298 10 to 14  0.0000000    0.0
+1322 15 to 17  1.2955232    1.3
+1346 18 to 19  4.0870975    4.1
+1370 20 to 24 12.0434017   12.0
+1394 25 to 29 60.1339090   60.1
+1418 30 to 34 93.0087876   93.0
+1442 35 to 39 53.6092553   53.6
+1466 40 to 44 11.4054782   11.4
+1490 45 to 49  0.5197055    0.5
+[1] "Benton County Fertility Rate"
+                                cat    value Labels
+2  American Indian/Alaska Native NH 28.10078   28.1
+7         Asian/Pacific Islander NH 24.73873   24.7
+12                         Black NH 21.10595   21.1
+17                         Hispanic 32.68457   32.7
+22                         White NH 25.40568   25.4
+[1] "Benton County Fertility Rate"
+           cat    value Labels
+8  2010 - 2014 29.54492   29.5
+9  2011 - 2015 29.55689   29.6
+10 2012 - 2016 29.39590   29.4
+11 2013 - 2017 28.54732   28.5
+12 2014 - 2018 28.37018   28.4
+13 2015 - 2019 27.40170   27.4
+14 2016 - 2020 26.22988   26.2
+[1] "Lincoln County Fertility Rate"
+          cat       value Labels
+1299 10 to 14   0.1705321      0
+1323 15 to 17   7.3986387      7
+1347 18 to 19  46.3783220     46
+1371 20 to 24  97.3901973     97
+1395 25 to 29 100.2965289    100
+1419 30 to 34  76.2463343     76
+1443 35 to 39  40.6231800     41
+1467 40 to 44  11.5310698     12
+1491 45 to 49   0.4581552      0
+[1] "Lincoln County Fertility Rate"
+                                cat    value Labels
+3  American Indian/Alaska Native NH 37.77336   37.8
+8         Asian/Pacific Islander NH 36.23814   36.2
+13                         Black NH 26.36204   26.4
+18                         Hispanic 49.97755   50.0
+23                         White NH 39.96711   40.0
+[1] "Lincoln County Fertility Rate"
+           cat    value Labels
+15 2010 - 2014 47.67240   47.7
+16 2011 - 2015 47.62850   47.6
+17 2012 - 2016 47.90077   47.9
+18 2013 - 2017 46.35921   46.4
+19 2014 - 2018 44.63203   44.6
+20 2015 - 2019 43.43555   43.4
+21 2016 - 2020 41.57702   41.6
+[1] "LBL Region Fertility Rate"
+          cat      value Labels
+1837 10 to 14  0.0550388    0.1
+1843 15 to 17  4.6519950    4.7
+1849 18 to 19 18.3792444   18.4
+1855 20 to 24 45.6766592   45.7
+1861 25 to 29 92.9488644   92.9
+1867 30 to 34 87.5322270   87.5
+1873 35 to 39 43.6664545   43.7
+1879 40 to 44  9.7704367    9.8
+1885 45 to 49  0.4349836    0.4
+[1] "LBL Region Fertility Rate"
+                                cat    value Labels
+4  American Indian/Alaska Native NH 35.05950   35.1
+9         Asian/Pacific Islander NH 27.64474   27.6
+14                         Black NH 28.57143   28.6
+19                         Hispanic 44.11644   44.1
+24                         White NH 37.89590   37.9
+[1] "LBL Region Fertility Rate"
+           cat    value Labels
+22 2010 - 2014 41.23724   41.2
+23 2011 - 2015 41.40394   41.4
+24 2012 - 2016 41.43627   41.4
+25 2013 - 2017 40.79771   40.8
+26 2014 - 2018 40.42589   40.4
+27 2015 - 2019 39.53618   39.5
+28 2016 - 2020 38.28095   38.3
+[1] "Oregon Fertility Rate"
+          cat       value Labels
+1297 10 to 14  0.08109562    0.1
+1321 15 to 17  4.92797784    4.9
+1345 18 to 19 26.37196459   26.4
+1369 20 to 24 57.80959467   57.8
+1393 25 to 29 82.83389567   82.8
+1417 30 to 34 86.99613530   87.0
+1441 35 to 39 48.40990716   48.4
+1465 40 to 44 11.04798124   11.0
+1489 45 to 49  0.67324330    0.7
+[1] "Oregon Fertility Rate"
+                                cat    value Labels
+5  American Indian/Alaska Native NH 35.63941   35.6
+10        Asian/Pacific Islander NH 36.93873   36.9
+15                         Black NH 43.94323   43.9
+20                         Hispanic 47.21470   47.2
+25                         White NH 37.66119   37.7
+[1] "Oregon Fertility Rate"
+           cat    value Labels
+29 2010 - 2014 44.87116   44.9
+30 2011 - 2015 44.69098   44.7
+31 2012 - 2016 44.42401   44.4
+32 2013 - 2017 43.67944   43.7
+33 2014 - 2018 42.57690   42.6
+34 2015 - 2019 41.35466   41.4
+35 2016 - 2020 39.82249   39.8
+[1] "Linn County Fertility Rate"
+          cat        value Labels
+1300 10 to 14   0.05127679      0
+1324 15 to 17   5.81878637      6
+1348 18 to 19  41.81732432     42
+1372 20 to 24  98.53296611     99
+1396 25 to 29 114.81951750    115
+1420 30 to 34  87.47733130     87
+1444 35 to 39  38.64302389     39
+1468 40 to 44   8.17839812      8
+1492 45 to 49   0.37453184      0
+[1] "Linn County Fertility Rate"
+                                cat    value Labels
+1  American Indian/Alaska Native NH 35.19281   35.2
+6         Asian/Pacific Islander NH 35.94560   35.9
+11                         Black NH 40.58339   40.6
+16                         Hispanic 49.76023   49.8
+21                         White NH 47.18142   47.2
+[1] "Linn County Fertility Rate"
+          cat    value Labels
+1 2010 - 2014 49.01581   49.0
+2 2011 - 2015 49.42299   49.4
+3 2012 - 2016 49.57977   49.6
+4 2013 - 2017 49.43285   49.4
+5 2014 - 2018 49.34333   49.3
+6 2015 - 2019 48.60907   48.6
+7 2016 - 2020 47.41617   47.4
+[1] "Benton County Fertility Rate"
+          cat      value Labels
+1298 10 to 14  0.0000000    0.0
+1322 15 to 17  1.2955232    1.3
+1346 18 to 19  4.0870975    4.1
+1370 20 to 24 12.0434017   12.0
+1394 25 to 29 60.1339090   60.1
+1418 30 to 34 93.0087876   93.0
+1442 35 to 39 53.6092553   53.6
+1466 40 to 44 11.4054782   11.4
+1490 45 to 49  0.5197055    0.5
+[1] "Benton County Fertility Rate"
+                                cat    value Labels
+2  American Indian/Alaska Native NH 28.10078   28.1
+7         Asian/Pacific Islander NH 24.73873   24.7
+12                         Black NH 21.10595   21.1
+17                         Hispanic 32.68457   32.7
+22                         White NH 25.40568   25.4
+[1] "Benton County Fertility Rate"
+           cat    value Labels
+8  2010 - 2014 29.54492   29.5
+9  2011 - 2015 29.55689   29.6
+10 2012 - 2016 29.39590   29.4
+11 2013 - 2017 28.54732   28.5
+12 2014 - 2018 28.37018   28.4
+13 2015 - 2019 27.40170   27.4
+14 2016 - 2020 26.22988   26.2
+[1] "Lincoln County Fertility Rate"
+          cat       value Labels
+1299 10 to 14   0.1705321      0
+1323 15 to 17   7.3986387      7
+1347 18 to 19  46.3783220     46
+1371 20 to 24  97.3901973     97
+1395 25 to 29 100.2965289    100
+1419 30 to 34  76.2463343     76
+1443 35 to 39  40.6231800     41
+1467 40 to 44  11.5310698     12
+1491 45 to 49   0.4581552      0
+[1] "Lincoln County Fertility Rate"
+                                cat    value Labels
+3  American Indian/Alaska Native NH 37.77336   37.8
+8         Asian/Pacific Islander NH 36.23814   36.2
+13                         Black NH 26.36204   26.4
+18                         Hispanic 49.97755   50.0
+23                         White NH 39.96711   40.0
+[1] "Lincoln County Fertility Rate"
+           cat    value Labels
+15 2010 - 2014 47.67240   47.7
+16 2011 - 2015 47.62850   47.6
+17 2012 - 2016 47.90077   47.9
+18 2013 - 2017 46.35921   46.4
+19 2014 - 2018 44.63203   44.6
+20 2015 - 2019 43.43555   43.4
+21 2016 - 2020 41.57702   41.6
+[1] "LBL Region Fertility Rate"
+          cat      value Labels
+1837 10 to 14  0.0550388    0.1
+1843 15 to 17  4.6519950    4.7
+1849 18 to 19 18.3792444   18.4
+1855 20 to 24 45.6766592   45.7
+1861 25 to 29 92.9488644   92.9
+1867 30 to 34 87.5322270   87.5
+1873 35 to 39 43.6664545   43.7
+1879 40 to 44  9.7704367    9.8
+1885 45 to 49  0.4349836    0.4
+[1] "LBL Region Fertility Rate"
+                                cat    value Labels
+4  American Indian/Alaska Native NH 35.05950   35.1
+9         Asian/Pacific Islander NH 27.64474   27.6
+14                         Black NH 28.57143   28.6
+19                         Hispanic 44.11644   44.1
+24                         White NH 37.89590   37.9
+[1] "LBL Region Fertility Rate"
+           cat    value Labels
+22 2010 - 2014 41.23724   41.2
+23 2011 - 2015 41.40394   41.4
+24 2012 - 2016 41.43627   41.4
+25 2013 - 2017 40.79771   40.8
+26 2014 - 2018 40.42589   40.4
+27 2015 - 2019 39.53618   39.5
+28 2016 - 2020 38.28095   38.3
+[1] "Oregon Fertility Rate"
+          cat       value Labels
+1297 10 to 14  0.08109562    0.1
+1321 15 to 17  4.92797784    4.9
+1345 18 to 19 26.37196459   26.4
+1369 20 to 24 57.80959467   57.8
+1393 25 to 29 82.83389567   82.8
+1417 30 to 34 86.99613530   87.0
+1441 35 to 39 48.40990716   48.4
+1465 40 to 44 11.04798124   11.0
+1489 45 to 49  0.67324330    0.7
+[1] "Oregon Fertility Rate"
+                                cat    value Labels
+5  American Indian/Alaska Native NH 35.63941   35.6
+10        Asian/Pacific Islander NH 36.93873   36.9
+15                         Black NH 43.94323   43.9
+20                         Hispanic 47.21470   47.2
+25                         White NH 37.66119   37.7
+[1] "Oregon Fertility Rate"
+           cat    value Labels
+29 2010 - 2014 44.87116   44.9
+30 2011 - 2015 44.69098   44.7
+31 2012 - 2016 44.42401   44.4
+32 2013 - 2017 43.67944   43.7
+33 2014 - 2018 42.57690   42.6
+34 2015 - 2019 41.35466   41.4
+35 2016 - 2020 39.82249   39.8
+[1] "Linn County Fertility Rate"
+          cat        value Labels
+1300 10 to 14   0.05127679      0
+1324 15 to 17   5.81878637      6
+1348 18 to 19  41.81732432     42
+1372 20 to 24  98.53296611     99
+1396 25 to 29 114.81951750    115
+1420 30 to 34  87.47733130     87
+1444 35 to 39  38.64302389     39
+1468 40 to 44   8.17839812      8
+1492 45 to 49   0.37453184      0
+[1] "Linn County Fertility Rate"
+                                cat    value Labels
+1  American Indian/Alaska Native NH 35.19281   35.2
+6         Asian/Pacific Islander NH 35.94560   35.9
+11                         Black NH 40.58339   40.6
+16                         Hispanic 49.76023   49.8
+21                         White NH 47.18142   47.2
+[1] "Linn County Fertility Rate"
+          cat    value Labels
+1 2010 - 2014 49.01581   49.0
+2 2011 - 2015 49.42299   49.4
+3 2012 - 2016 49.57977   49.6
+4 2013 - 2017 49.43285   49.4
+5 2014 - 2018 49.34333   49.3
+6 2015 - 2019 48.60907   48.6
+7 2016 - 2020 47.41617   47.4
+[1] "Benton County Fertility Rate"
+          cat      value Labels
+1298 10 to 14  0.0000000    0.0
+1322 15 to 17  1.2955232    1.3
+1346 18 to 19  4.0870975    4.1
+1370 20 to 24 12.0434017   12.0
+1394 25 to 29 60.1339090   60.1
+1418 30 to 34 93.0087876   93.0
+1442 35 to 39 53.6092553   53.6
+1466 40 to 44 11.4054782   11.4
+1490 45 to 49  0.5197055    0.5
+[1] "Benton County Fertility Rate"
+                                cat    value Labels
+2  American Indian/Alaska Native NH 28.10078   28.1
+7         Asian/Pacific Islander NH 24.73873   24.7
+12                         Black NH 21.10595   21.1
+17                         Hispanic 32.68457   32.7
+22                         White NH 25.40568   25.4
+[1] "Benton County Fertility Rate"
+           cat    value Labels
+8  2010 - 2014 29.54492   29.5
+9  2011 - 2015 29.55689   29.6
+10 2012 - 2016 29.39590   29.4
+11 2013 - 2017 28.54732   28.5
+12 2014 - 2018 28.37018   28.4
+13 2015 - 2019 27.40170   27.4
+14 2016 - 2020 26.22988   26.2
+[1] "Lincoln County Fertility Rate"
+          cat       value Labels
+1299 10 to 14   0.1705321      0
+1323 15 to 17   7.3986387      7
+1347 18 to 19  46.3783220     46
+1371 20 to 24  97.3901973     97
+1395 25 to 29 100.2965289    100
+1419 30 to 34  76.2463343     76
+1443 35 to 39  40.6231800     41
+1467 40 to 44  11.5310698     12
+1491 45 to 49   0.4581552      0
+[1] "Lincoln County Fertility Rate"
+                                cat    value Labels
+3  American Indian/Alaska Native NH 37.77336   37.8
+8         Asian/Pacific Islander NH 36.23814   36.2
+13                         Black NH 26.36204   26.4
+18                         Hispanic 49.97755   50.0
+23                         White NH 39.96711   40.0
+[1] "Lincoln County Fertility Rate"
+           cat    value Labels
+15 2010 - 2014 47.67240   47.7
+16 2011 - 2015 47.62850   47.6
+17 2012 - 2016 47.90077   47.9
+18 2013 - 2017 46.35921   46.4
+19 2014 - 2018 44.63203   44.6
+20 2015 - 2019 43.43555   43.4
+21 2016 - 2020 41.57702   41.6
+[1] "LBL Region Fertility Rate"
+          cat      value Labels
+1837 10 to 14  0.0550388    0.1
+1843 15 to 17  4.6519950    4.7
+1849 18 to 19 18.3792444   18.4
+1855 20 to 24 45.6766592   45.7
+1861 25 to 29 92.9488644   92.9
+1867 30 to 34 87.5322270   87.5
+1873 35 to 39 43.6664545   43.7
+1879 40 to 44  9.7704367    9.8
+1885 45 to 49  0.4349836    0.4
+[1] "LBL Region Fertility Rate"
+                                cat    value Labels
+4  American Indian/Alaska Native NH 35.05950   35.1
+9         Asian/Pacific Islander NH 27.64474   27.6
+14                         Black NH 28.57143   28.6
+19                         Hispanic 44.11644   44.1
+24                         White NH 37.89590   37.9
+[1] "LBL Region Fertility Rate"
+           cat    value Labels
+22 2010 - 2014 41.23724   41.2
+23 2011 - 2015 41.40394   41.4
+24 2012 - 2016 41.43627   41.4
+25 2013 - 2017 40.79771   40.8
+26 2014 - 2018 40.42589   40.4
+27 2015 - 2019 39.53618   39.5
+28 2016 - 2020 38.28095   38.3
+[1] "Oregon Fertility Rate"
+          cat       value Labels
+1297 10 to 14  0.08109562    0.1
+1321 15 to 17  4.92797784    4.9
+1345 18 to 19 26.37196459   26.4
+1369 20 to 24 57.80959467   57.8
+1393 25 to 29 82.83389567   82.8
+1417 30 to 34 86.99613530   87.0
+1441 35 to 39 48.40990716   48.4
+1465 40 to 44 11.04798124   11.0
+1489 45 to 49  0.67324330    0.7
+[1] "Oregon Fertility Rate"
+                                cat    value Labels
+5  American Indian/Alaska Native NH 35.63941   35.6
+10        Asian/Pacific Islander NH 36.93873   36.9
+15                         Black NH 43.94323   43.9
+20                         Hispanic 47.21470   47.2
+25                         White NH 37.66119   37.7
+[1] "Oregon Fertility Rate"
+           cat    value Labels
+29 2010 - 2014 44.87116   44.9
+30 2011 - 2015 44.69098   44.7
+31 2012 - 2016 44.42401   44.4
+32 2013 - 2017 43.67944   43.7
+33 2014 - 2018 42.57690   42.6
+34 2015 - 2019 41.35466   41.4
+35 2016 - 2020 39.82249   39.8
+[1] "Linn County Fertility Rate"
+          cat        value Labels
+1300 10 to 14   0.05127679      0
+1324 15 to 17   5.81878637      6
+1348 18 to 19  41.81732432     42
+1372 20 to 24  98.53296611     99
+1396 25 to 29 114.81951750    115
+1420 30 to 34  87.47733130     87
+1444 35 to 39  38.64302389     39
+1468 40 to 44   8.17839812      8
+1492 45 to 49   0.37453184      0
+[1] "Linn County Fertility Rate"
+                                cat    value Labels
+1  American Indian/Alaska Native NH 35.19281   35.2
+6         Asian/Pacific Islander NH 35.94560   35.9
+11                         Black NH 40.58339   40.6
+16                         Hispanic 49.76023   49.8
+21                         White NH 47.18142   47.2
+[1] "Linn County Fertility Rate"
+          cat    value Labels
+1 2010 - 2014 49.01581   49.0
+2 2011 - 2015 49.42299   49.4
+3 2012 - 2016 49.57977   49.6
+4 2013 - 2017 49.43285   49.4
+5 2014 - 2018 49.34333   49.3
+6 2015 - 2019 48.60907   48.6
+7 2016 - 2020 47.41617   47.4
+[1] "Benton County Fertility Rate"
+          cat      value Labels
+1298 10 to 14  0.0000000    0.0
+1322 15 to 17  1.2955232    1.3
+1346 18 to 19  4.0870975    4.1
+1370 20 to 24 12.0434017   12.0
+1394 25 to 29 60.1339090   60.1
+1418 30 to 34 93.0087876   93.0
+1442 35 to 39 53.6092553   53.6
+1466 40 to 44 11.4054782   11.4
+1490 45 to 49  0.5197055    0.5
+[1] "Benton County Fertility Rate"
+                                cat    value Labels
+2  American Indian/Alaska Native NH 28.10078   28.1
+7         Asian/Pacific Islander NH 24.73873   24.7
+12                         Black NH 21.10595   21.1
+17                         Hispanic 32.68457   32.7
+22                         White NH 25.40568   25.4
+[1] "Benton County Fertility Rate"
+           cat    value Labels
+8  2010 - 2014 29.54492   29.5
+9  2011 - 2015 29.55689   29.6
+10 2012 - 2016 29.39590   29.4
+11 2013 - 2017 28.54732   28.5
+12 2014 - 2018 28.37018   28.4
+13 2015 - 2019 27.40170   27.4
+14 2016 - 2020 26.22988   26.2
+[1] "Lincoln County Fertility Rate"
+          cat       value Labels
+1299 10 to 14   0.1705321      0
+1323 15 to 17   7.3986387      7
+1347 18 to 19  46.3783220     46
+1371 20 to 24  97.3901973     97
+1395 25 to 29 100.2965289    100
+1419 30 to 34  76.2463343     76
+1443 35 to 39  40.6231800     41
+1467 40 to 44  11.5310698     12
+1491 45 to 49   0.4581552      0
+[1] "Lincoln County Fertility Rate"
+                                cat    value Labels
+3  American Indian/Alaska Native NH 37.77336   37.8
+8         Asian/Pacific Islander NH 36.23814   36.2
+13                         Black NH 26.36204   26.4
+18                         Hispanic 49.97755   50.0
+23                         White NH 39.96711   40.0
+[1] "Lincoln County Fertility Rate"
+           cat    value Labels
+15 2010 - 2014 47.67240   47.7
+16 2011 - 2015 47.62850   47.6
+17 2012 - 2016 47.90077   47.9
+18 2013 - 2017 46.35921   46.4
+19 2014 - 2018 44.63203   44.6
+20 2015 - 2019 43.43555   43.4
+21 2016 - 2020 41.57702   41.6
+[1] "LBL Region Fertility Rate"
+          cat      value Labels
+1837 10 to 14  0.0550388    0.1
+1843 15 to 17  4.6519950    4.7
+1849 18 to 19 18.3792444   18.4
+1855 20 to 24 45.6766592   45.7
+1861 25 to 29 92.9488644   92.9
+1867 30 to 34 87.5322270   87.5
+1873 35 to 39 43.6664545   43.7
+1879 40 to 44  9.7704367    9.8
+1885 45 to 49  0.4349836    0.4
+[1] "LBL Region Fertility Rate"
+                                cat    value Labels
+4  American Indian/Alaska Native NH 35.05950   35.1
+9         Asian/Pacific Islander NH 27.64474   27.6
+14                         Black NH 28.57143   28.6
+19                         Hispanic 44.11644   44.1
+24                         White NH 37.89590   37.9
+[1] "LBL Region Fertility Rate"
+           cat    value Labels
+22 2010 - 2014 41.23724   41.2
+23 2011 - 2015 41.40394   41.4
+24 2012 - 2016 41.43627   41.4
+25 2013 - 2017 40.79771   40.8
+26 2014 - 2018 40.42589   40.4
+27 2015 - 2019 39.53618   39.5
+28 2016 - 2020 38.28095   38.3
+[1] "Oregon Fertility Rate"
+          cat       value Labels
+1297 10 to 14  0.08109562    0.1
+1321 15 to 17  4.92797784    4.9
+1345 18 to 19 26.37196459   26.4
+1369 20 to 24 57.80959467   57.8
+1393 25 to 29 82.83389567   82.8
+1417 30 to 34 86.99613530   87.0
+1441 35 to 39 48.40990716   48.4
+1465 40 to 44 11.04798124   11.0
+1489 45 to 49  0.67324330    0.7
+[1] "Oregon Fertility Rate"
+                                cat    value Labels
+5  American Indian/Alaska Native NH 35.63941   35.6
+10        Asian/Pacific Islander NH 36.93873   36.9
+15                         Black NH 43.94323   43.9
+20                         Hispanic 47.21470   47.2
+25                         White NH 37.66119   37.7
+[1] "Oregon Fertility Rate"
+           cat    value Labels
+29 2010 - 2014 44.87116   44.9
+30 2011 - 2015 44.69098   44.7
+31 2012 - 2016 44.42401   44.4
+32 2013 - 2017 43.67944   43.7
+33 2014 - 2018 42.57690   42.6
+34 2015 - 2019 41.35466   41.4
+35 2016 - 2020 39.82249   39.8
+[1] "Births per 1,000 women"
+              cat    value Labels
+7     Linn County 47.41617   47.4
+14  Benton County 26.22988   26.2
+21 Lincoln County 41.57702   41.6
+28     LBL Region 38.28095   38.3
+35         Oregon 39.82249   39.8
+[1] "Fertility Rate among women age 15-19"
+                        cat1        cat2     value Labels
+8   Benton County - Hispanic 2010 - 2014 21.927294   21.9
+9   Benton County - Hispanic 2011 - 2015 15.918135   15.9
+10  Benton County - Hispanic 2012 - 2016 15.237020   15.2
+11  Benton County - Hispanic 2013 - 2017 13.194063   13.2
+12  Benton County - Hispanic 2014 - 2018  9.698276    9.7
+13  Benton County - Hispanic 2015 - 2019  7.318348    7.3
+14  Benton County - Hispanic 2016 - 2020  8.677897    8.7
+43     Benton County - Total 2010 - 2014  7.510570    7.5
+44     Benton County - Total 2011 - 2015  6.337709    6.3
+45     Benton County - Total 2012 - 2016  5.914767    5.9
+46     Benton County - Total 2013 - 2017  4.801681    4.8
+47     Benton County - Total 2014 - 2018  4.001952    4.0
+48     Benton County - Total 2015 - 2019  3.207890    3.2
+49     Benton County - Total 2016 - 2020  3.169647    3.2
+22     LBL Region - Hispanic 2010 - 2014 31.930334   31.9
+23     LBL Region - Hispanic 2011 - 2015 27.298274   27.3
+24     LBL Region - Hispanic 2012 - 2016 27.712724   27.7
+25     LBL Region - Hispanic 2013 - 2017 26.325758   26.3
+26     LBL Region - Hispanic 2014 - 2018 24.537630   24.5
+27     LBL Region - Hispanic 2015 - 2019 21.812378   21.8
+28     LBL Region - Hispanic 2016 - 2020 20.944206   20.9
+57        LBL Region - Total 2010 - 2014 19.877256   19.9
+58        LBL Region - Total 2011 - 2015 18.667837   18.7
+59        LBL Region - Total 2012 - 2016 17.655236   17.7
+60        LBL Region - Total 2013 - 2017 16.309230   16.3
+61        LBL Region - Total 2014 - 2018 15.047662   15.0
+62        LBL Region - Total 2015 - 2019 13.266291   13.3
+63        LBL Region - Total 2016 - 2020 11.533228   11.5
+15 Lincoln County - Hispanic 2010 - 2014 48.284625   48.3
+16 Lincoln County - Hispanic 2011 - 2015 33.653846   33.7
+17 Lincoln County - Hispanic 2012 - 2016 35.267349   35.3
+18 Lincoln County - Hispanic 2013 - 2017 35.049288   35.0
+19 Lincoln County - Hispanic 2014 - 2018 34.663866   34.7
+20 Lincoln County - Hispanic 2015 - 2019 36.511156   36.5
+21 Lincoln County - Hispanic 2016 - 2020 31.884058   31.9
+50    Lincoln County - Total 2010 - 2014 32.439782   32.4
+51    Lincoln County - Total 2011 - 2015 30.142885   30.1
+52    Lincoln County - Total 2012 - 2016 27.522936   27.5
+53    Lincoln County - Total 2013 - 2017 26.632970   26.6
+54    Lincoln County - Total 2014 - 2018 27.638191   27.6
+55    Lincoln County - Total 2015 - 2019 25.837321   25.8
+56    Lincoln County - Total 2016 - 2020 21.517554   21.5
+1     Linn County - Hispanic 2010 - 2014 33.868867   33.9
+2     Linn County - Hispanic 2011 - 2015 33.458804   33.5
+3     Linn County - Hispanic 2012 - 2016 33.966842   34.0
+4     Linn County - Hispanic 2013 - 2017 32.574568   32.6
+5     Linn County - Hispanic 2014 - 2018 31.285337   31.3
+6     Linn County - Hispanic 2015 - 2019 26.642336   26.6
+7     Linn County - Hispanic 2016 - 2020 25.432709   25.4
+36       Linn County - Total 2010 - 2014 29.866956   29.9
+37       Linn County - Total 2011 - 2015 28.863500   28.9
+38       Linn County - Total 2012 - 2016 27.607362   27.6
+39       Linn County - Total 2013 - 2017 25.993214   26.0
+40       Linn County - Total 2014 - 2018 23.809524   23.8
+41       Linn County - Total 2015 - 2019 21.097733   21.1
+42       Linn County - Total 2016 - 2020 18.269806   18.3
+29         Oregon - Hispanic 2010 - 2014 46.026758   46.0
+30         Oregon - Hispanic 2011 - 2015 41.031800   41.0
+31         Oregon - Hispanic 2012 - 2016 37.020876   37.0
+32         Oregon - Hispanic 2013 - 2017 33.291991   33.3
+33         Oregon - Hispanic 2014 - 2018 29.742333   29.7
+34         Oregon - Hispanic 2015 - 2019 26.815986   26.8
+35         Oregon - Hispanic 2016 - 2020 23.706061   23.7
+64            Oregon - Total 2010 - 2014 24.024273   24.0
+65            Oregon - Total 2011 - 2015 22.149911   22.1
+66            Oregon - Total 2012 - 2016 20.302165   20.3
+67            Oregon - Total 2013 - 2017 18.558050   18.6
+68            Oregon - Total 2014 - 2018 16.869030   16.9
+69            Oregon - Total 2015 - 2019 15.276320   15.3
+70            Oregon - Total 2016 - 2020 13.478063   13.5
