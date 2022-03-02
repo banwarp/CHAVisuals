@@ -1,0 +1,1509 @@
+[1] "Linn County Population Pyramid"
+            Age    Sex   Percentage
+ 1:     Under 5   Male -0.030148423
+ 2:      5 to 9   Male -0.033922974
+ 3:    10 to 14   Male -0.032043695
+ 4:    15 to 19   Male -0.029996481
+ 5:    20 to 24   Male -0.029708592
+ 6:    25 to 29   Male -0.034770648
+ 7:    30 to 34   Male -0.032331585
+ 8:    35 to 39   Male -0.032715437
+ 9:    40 to 44   Male -0.025702130
+10:    45 to 49   Male -0.030708208
+11:    50 to 54   Male -0.029916512
+12:    55 to 59   Male -0.033427164
+13:    61 to 64   Male -0.033059305
+14:    65 to 69   Male -0.032843388
+15:    70 to 74   Male -0.019144648
+16:    75 to 79   Male -0.016281748
+17:    80 to 84   Male -0.008820613
+18: 85 and over   Male -0.007373169
+19:     Under 5 Female  0.029756573
+20:      5 to 9 Female  0.030540273
+21:    10 to 14 Female  0.030724202
+22:    15 to 19 Female  0.030332352
+23:    20 to 24 Female  0.028293135
+24:    25 to 29 Female  0.034594716
+25:    30 to 34 Female  0.031803787
+26:    35 to 39 Female  0.033395176
+27:    40 to 44 Female  0.027301516
+28:    45 to 49 Female  0.029692598
+29:    50 to 54 Female  0.031923741
+30:    55 to 59 Female  0.036170111
+31:    61 to 64 Female  0.033930971
+32:    65 to 69 Female  0.034042928
+33:    70 to 74 Female  0.023191095
+34:    75 to 79 Female  0.016265754
+35:    80 to 84 Female  0.010324036
+36: 85 and over Female  0.014802316
+            Age    Sex   Percentage
+[1] "Benton County Population Pyramid"
+            Age    Sex   Percentage
+ 1:     Under 5   Male -0.020733862
+ 2:      5 to 9   Male -0.023642530
+ 3:    10 to 14   Male -0.023379104
+ 4:    15 to 19   Male -0.045956952
+ 5:    20 to 24   Male -0.091178504
+ 6:    25 to 29   Male -0.040414019
+ 7:    30 to 34   Male -0.029295224
+ 8:    35 to 39   Male -0.030041599
+ 9:    40 to 44   Male -0.019142327
+10:    45 to 49   Male -0.024180359
+11:    50 to 54   Male -0.025245042
+12:    55 to 59   Male -0.029844030
+13:    61 to 64   Male -0.026551198
+14:    65 to 69   Male -0.026364604
+15:    70 to 74   Male -0.020547269
+16:    75 to 79   Male -0.012095668
+17:    80 to 84   Male -0.007200325
+18: 85 and over   Male -0.006827137
+19:     Under 5 Female  0.019581371
+20:      5 to 9 Female  0.016606847
+21:    10 to 14 Female  0.028625682
+22:    15 to 19 Female  0.049644923
+23:    20 to 24 Female  0.073024027
+24:    25 to 29 Female  0.034969871
+25:    30 to 34 Female  0.027571976
+26:    35 to 39 Female  0.028021996
+27:    40 to 44 Female  0.023225438
+28:    45 to 49 Female  0.025157233
+29:    50 to 54 Female  0.025552372
+30:    55 to 59 Female  0.030261122
+31:    61 to 64 Female  0.032895387
+32:    65 to 69 Female  0.026485341
+33:    70 to 74 Female  0.021205835
+34:    75 to 79 Female  0.013544514
+35:    80 to 84 Female  0.009461403
+36: 85 and over Female  0.011524910
+            Age    Sex   Percentage
+[1] "Lincoln County Population Pyramid"
+            Age    Sex  Percentage
+ 1:     Under 5   Male -0.02307043
+ 2:      5 to 9   Male -0.02461532
+ 3:    10 to 14   Male -0.02319402
+ 4:    15 to 19   Male -0.02527448
+ 5:    20 to 24   Male -0.02088698
+ 6:    25 to 29   Male -0.02428574
+ 7:    30 to 34   Male -0.02403856
+ 8:    35 to 39   Male -0.02393557
+ 9:    40 to 44   Male -0.02368838
+10:    45 to 49   Male -0.02403856
+11:    50 to 54   Male -0.03128927
+12:    55 to 59   Male -0.03905494
+13:    61 to 64   Male -0.04354543
+14:    65 to 69   Male -0.04900406
+15:    70 to 74   Male -0.03516180
+16:    75 to 79   Male -0.02251426
+17:    80 to 84   Male -0.01244155
+18: 85 and over   Male -0.01182359
+19:     Under 5 Female  0.02173152
+20:      5 to 9 Female  0.02675758
+21:    10 to 14 Female  0.02123715
+22:    15 to 19 Female  0.01831215
+23:    20 to 24 Female  0.02307043
+24:    25 to 29 Female  0.02348240
+25:    30 to 34 Female  0.02537747
+26:    35 to 39 Female  0.02412095
+27:    40 to 44 Female  0.02657219
+28:    45 to 49 Female  0.02916761
+29:    50 to 54 Female  0.03180423
+30:    55 to 59 Female  0.04064103
+31:    61 to 64 Female  0.05802624
+32:    65 to 69 Female  0.05707871
+33:    70 to 74 Female  0.03637712
+34:    75 to 79 Female  0.02401796
+35:    80 to 84 Female  0.01571673
+36: 85 and over Female  0.01464560
+            Age    Sex  Percentage
+[1] "LBL Region Population Pyramid"
+            Age    Sex   Percentage
+ 1:     Under 5   Male -0.025609931
+ 2:      5 to 9   Male -0.028677532
+ 3:    10 to 14   Male -0.027438402
+ 4:    15 to 19   Male -0.034623841
+ 5:    20 to 24   Male -0.049247833
+ 6:    25 to 29   Male -0.034790066
+ 7:    30 to 34   Male -0.029765548
+ 8:    35 to 39   Male -0.030184887
+ 9:    40 to 44   Male -0.023075005
+10:    45 to 49   Male -0.027238177
+11:    50 to 54   Male -0.028560419
+12:    55 to 59   Male -0.033226043
+13:    61 to 64   Male -0.032742480
+14:    65 to 69   Male -0.033577381
+15:    70 to 74   Male -0.022564998
+16:    75 to 79   Male -0.015984012
+17:    80 to 84   Male -0.008927020
+18: 85 and over   Male -0.008001451
+19:     Under 5 Female  0.024782586
+20:      5 to 9 Female  0.025050812
+21:    10 to 14 Female  0.028261970
+22:    15 to 19 Female  0.034774954
+23:    20 to 24 Female  0.042731071
+24:    25 to 29 Female  0.032685813
+25:    30 to 34 Female  0.029168650
+26:    35 to 39 Female  0.029844882
+27:    40 to 44 Female  0.025764822
+28:    45 to 49 Female  0.028035300
+29:    50 to 54 Female  0.029708880
+30:    55 to 59 Female  0.034956290
+31:    61 to 64 Female  0.037993668
+32:    65 to 69 Female  0.035666523
+33:    70 to 74 Female  0.024926143
+34:    75 to 79 Female  0.016750912
+35:    80 to 84 Female  0.011016162
+36: 85 and over Female  0.013645533
+            Age    Sex   Percentage
+[1] "Oregon Population Pyramid"
+            Age    Sex   Percentage
+ 1:     Under 5   Male -0.028644466
+ 2:      5 to 9   Male -0.029929515
+ 3:    10 to 14   Male -0.030787909
+ 4:    15 to 19   Male -0.030430749
+ 5:    20 to 24   Male -0.032862827
+ 6:    25 to 29   Male -0.036185988
+ 7:    30 to 34   Male -0.035642620
+ 8:    35 to 39   Male -0.035098769
+ 9:    40 to 44   Male -0.031886751
+10:    45 to 49   Male -0.031740497
+11:    50 to 54   Male -0.030583783
+12:    55 to 59   Male -0.031243863
+13:    61 to 64   Male -0.032093541
+14:    65 to 69   Male -0.028936247
+15:    70 to 74   Male -0.020659339
+16:    75 to 79   Male -0.013368919
+17:    80 to 84   Male -0.008397979
+18: 85 and over   Male -0.007253373
+19:     Under 5 Female  0.027183137
+20:      5 to 9 Female  0.028882734
+21:    10 to 14 Female  0.028895325
+22:    15 to 19 Female  0.029101388
+23:    20 to 24 Female  0.031323528
+24:    25 to 29 Female  0.034829991
+25:    30 to 34 Female  0.034807714
+26:    35 to 39 Female  0.034880598
+27:    40 to 44 Female  0.030718657
+28:    45 to 49 Female  0.031317959
+29:    50 to 54 Female  0.030783793
+30:    55 to 59 Female  0.033085598
+31:    61 to 64 Female  0.035245023
+32:    65 to 69 Female  0.031799822
+33:    70 to 74 Female  0.022901819
+34:    75 to 79 Female  0.015546020
+35:    80 to 84 Female  0.010141646
+36: 85 and over Female  0.012808117
+            Age    Sex   Percentage
+[1] "Linn County Race and Ethnicity"
+# A tibble: 8 x 3
+  cat                                           value Labels
+  <fct>                                         <dbl> <chr> 
+1 American Indian and Alaska Native          0.00953  1 %   
+2 Asian                                      0.0107   1.1 % 
+3 Black or African American                  0.00501  0.5 % 
+4 Hispanic or Latino                         0.0911   9.1 % 
+5 Native Hawaiian and Other Pacific Islander 0.000984 0.1 % 
+6 Some other race                            0.0320   3.2 % 
+7 Two or more races                          0.0458   4.6 % 
+8 White                                      0.849    84.9 %
+[1] "Benton County Race and Ethnicity"
+# A tibble: 8 x 3
+  cat                                          value Labels
+  <fct>                                        <dbl> <chr> 
+1 American Indian and Alaska Native          0.00664 0.7 % 
+2 Asian                                      0.0717  7.2 % 
+3 Black or African American                  0.0108  1.1 % 
+4 Hispanic or Latino                         0.0740  7.4 % 
+5 Native Hawaiian and Other Pacific Islander 0.00239 0.2 % 
+6 Some other race                            0.0186  1.9 % 
+7 Two or more races                          0.0428  4.3 % 
+8 White                                      0.802   80.2 %
+[1] "Lincoln County Race and Ethnicity"
+# A tibble: 8 x 3
+  cat                                          value Labels
+  <fct>                                        <dbl> <chr> 
+1 American Indian and Alaska Native          0.0280  2.8 % 
+2 Asian                                      0.0124  1.2 % 
+3 Black or African American                  0.00558 0.6 % 
+4 Hispanic or Latino                         0.0916  9.2 % 
+5 Native Hawaiian and Other Pacific Islander 0.00198 0.2 % 
+6 Some other race                            0.0239  2.4 % 
+7 Two or more races                          0.0458  4.6 % 
+8 White                                      0.825   82.5 %
+[1] "LBL Region Race and Ethnicity"
+# A tibble: 8 x 3
+  cat                                          value Labels
+  <fct>                                        <dbl> <chr> 
+1 American Indian and Alaska Native          0.0119  1.2 % 
+2 Asian                                      0.0320  3.2 % 
+3 Black or African American                  0.00710 0.7 % 
+4 Hispanic or Latino                         0.0853  8.5 % 
+5 Native Hawaiian and Other Pacific Islander 0.00165 0.2 % 
+6 Some other race                            0.0259  2.6 % 
+7 Two or more races                          0.0448  4.5 % 
+8 White                                      0.828   82.8 %
+[1] "Oregon Race and Ethnicity"
+# A tibble: 8 x 3
+  cat                                          value Labels
+  <fct>                                        <dbl> <chr> 
+1 American Indian and Alaska Native          0.0116  1.2 % 
+2 Asian                                      0.0437  4.4 % 
+3 Black or African American                  0.0191  1.9 % 
+4 Hispanic or Latino                         0.130   13 %  
+5 Native Hawaiian and Other Pacific Islander 0.00403 0.4 % 
+6 Some other race                            0.0307  3.1 % 
+7 Two or more races                          0.0480  4.8 % 
+8 White                                      0.757   75.7 %
+[1] "Linn County Education level"
+# A tibble: 5 x 5
+  cat                                 value Labels  ymax  ymin
+  <fct>                               <dbl> <chr>  <dbl> <dbl>
+1 Less than high school graduate     0.105  11 %   0.105 0    
+2 High school graduate               0.290  29 %   0.395 0.105
+3 Some college or associate's degree 0.412  41 %   0.807 0.395
+4 Bachelor's degree                  0.133  13 %   0.940 0.807
+5 Graduate or professional degree    0.0598 6 %    1     0.940
+[1] "Benton County Education level"
+# A tibble: 5 x 5
+  cat                                 value Labels   ymax   ymin
+  <fct>                               <dbl> <chr>   <dbl>  <dbl>
+1 Less than high school graduate     0.0409 4 %    0.0409 0     
+2 High school graduate               0.133  13 %   0.173  0.0409
+3 Some college or associate's degree 0.285  29 %   0.459  0.173 
+4 Bachelor's degree                  0.292  29 %   0.751  0.459 
+5 Graduate or professional degree    0.249  25 %   1      0.751 
+[1] "Lincoln County Education level"
+# A tibble: 5 x 5
+  cat                                 value Labels   ymax   ymin
+  <fct>                               <dbl> <chr>   <dbl>  <dbl>
+1 Less than high school graduate     0.0855 9 %    0.0855 0     
+2 High school graduate               0.273  27 %   0.358  0.0855
+3 Some college or associate's degree 0.393  39 %   0.751  0.358 
+4 Bachelor's degree                  0.148  15 %   0.899  0.751 
+5 Graduate or professional degree    0.101  10 %   1      0.899 
+[1] "LBL Region Education level"
+# A tibble: 5 x 5
+  cat                                 value Labels   ymax   ymin
+  <fct>                               <dbl> <chr>   <dbl>  <dbl>
+1 Less than high school graduate     0.0813 8 %    0.0813 0     
+2 High school graduate               0.238  24 %   0.319  0.0813
+3 Some college or associate's degree 0.369  37 %   0.688  0.319 
+4 Bachelor's degree                  0.185  19 %   0.873  0.688 
+5 Graduate or professional degree    0.127  13 %   1      0.873 
+[1] "Oregon Education level"
+# A tibble: 5 x 5
+  cat                                 value Labels   ymax   ymin
+  <fct>                               <dbl> <chr>   <dbl>  <dbl>
+1 Less than high school graduate     0.0929 9 %    0.0929 0     
+2 High school graduate               0.227  23 %   0.320  0.0929
+3 Some college or associate's degree 0.343  34 %   0.663  0.320 
+4 Bachelor's degree                  0.208  21 %   0.871  0.663 
+5 Graduate or professional degree    0.129  13 %   1      0.871 
+[1] "Linn County Education level"
+# A tibble: 5 x 5
+  cat                                 value Labels  ymax  ymin
+  <fct>                               <dbl> <chr>  <dbl> <dbl>
+1 Less than high school graduate     0.105  11 %   0.105 0    
+2 High school graduate               0.290  29 %   0.395 0.105
+3 Some college or associate's degree 0.412  41 %   0.807 0.395
+4 Bachelor's degree                  0.133  13 %   0.940 0.807
+5 Graduate or professional degree    0.0598 6 %    1     0.940
+[1] "Benton County Education level"
+# A tibble: 5 x 5
+  cat                                 value Labels   ymax   ymin
+  <fct>                               <dbl> <chr>   <dbl>  <dbl>
+1 Less than high school graduate     0.0409 4 %    0.0409 0     
+2 High school graduate               0.133  13 %   0.173  0.0409
+3 Some college or associate's degree 0.285  29 %   0.459  0.173 
+4 Bachelor's degree                  0.292  29 %   0.751  0.459 
+5 Graduate or professional degree    0.249  25 %   1      0.751 
+[1] "Lincoln County Education level"
+# A tibble: 5 x 5
+  cat                                 value Labels   ymax   ymin
+  <fct>                               <dbl> <chr>   <dbl>  <dbl>
+1 Less than high school graduate     0.0855 9 %    0.0855 0     
+2 High school graduate               0.273  27 %   0.358  0.0855
+3 Some college or associate's degree 0.393  39 %   0.751  0.358 
+4 Bachelor's degree                  0.148  15 %   0.899  0.751 
+5 Graduate or professional degree    0.101  10 %   1      0.899 
+[1] "LBL Region Education level"
+# A tibble: 5 x 5
+  cat                                 value Labels   ymax   ymin
+  <fct>                               <dbl> <chr>   <dbl>  <dbl>
+1 Less than high school graduate     0.0813 8 %    0.0813 0     
+2 High school graduate               0.238  24 %   0.319  0.0813
+3 Some college or associate's degree 0.369  37 %   0.688  0.319 
+4 Bachelor's degree                  0.185  19 %   0.873  0.688 
+5 Graduate or professional degree    0.127  13 %   1      0.873 
+[1] "Oregon Education level"
+# A tibble: 5 x 5
+  cat                                 value Labels   ymax   ymin
+  <fct>                               <dbl> <chr>   <dbl>  <dbl>
+1 Less than high school graduate     0.0929 9 %    0.0929 0     
+2 High school graduate               0.227  23 %   0.320  0.0929
+3 Some college or associate's degree 0.343  34 %   0.663  0.320 
+4 Bachelor's degree                  0.208  21 %   0.871  0.663 
+5 Graduate or professional degree    0.129  13 %   1      0.871 
+[1] "College/Graduate school population"
+              cat value Labels
+1:    Linn County  5875  5,900
+2:  Benton County 21383 21,400
+3: Lincoln County  1397  1,400
+[1] "Percent of population enrolled in college or graduate school"
+              cat      value Labels
+1:    Linn County 0.05779807  5.8 %
+2:  Benton County 0.27057156 27.1 %
+3: Lincoln County 0.03348434  3.3 %
+4:     LBL Region 0.12884616 12.9 %
+5:         Oregon 0.07735339  7.7 %
+[1] "Benton County poverty rate by age"
+                  cat      value Labels
+ 1:     Under 5 years 0.16885246 16.9 %
+ 2:     5 to 11 years 0.13484131 13.5 %
+ 3:    12 to 17 years 0.12351499 12.4 %
+ 4:    18 to 24 years 0.54177587 54.2 %
+ 5:    25 to 34 years 0.20481525 20.5 %
+ 6:    35 to 44 years 0.09589491  9.6 %
+ 7:    45 to 54 years 0.07465640  7.5 %
+ 8:    55 to 64 years 0.08053260  8.1 %
+ 9:    65 to 74 years 0.05556847  5.6 %
+10: 75 years and over 0.08071585  8.1 %
+[1] "LBL Region poverty rate by age"
+                  cat      value Labels
+ 1:     Under 5 years 0.18141866 18.1 %
+ 2:     5 to 11 years 0.17733293 17.7 %
+ 3:    12 to 17 years 0.14959995   15 %
+ 4:    18 to 24 years 0.39937926 39.9 %
+ 5:    25 to 34 years 0.17545865 17.5 %
+ 6:    35 to 44 years 0.12647725 12.6 %
+ 7:    45 to 54 years 0.11583514 11.6 %
+ 8:    55 to 64 years 0.12061356 12.1 %
+ 9:    65 to 74 years 0.06328414  6.3 %
+10: 75 years and over 0.07932055  7.9 %
+[1] "Lincoln County poverty rate by age"
+                  cat      value Labels
+ 1:     Under 5 years 0.31072631 31.1 %
+ 2:     5 to 11 years 0.22001831   22 %
+ 3:    12 to 17 years 0.23608517 23.6 %
+ 4:    18 to 24 years 0.30463822 30.5 %
+ 5:    25 to 34 years 0.18736571 18.7 %
+ 6:    35 to 44 years 0.16804408 16.8 %
+ 7:    45 to 54 years 0.16366554 16.4 %
+ 8:    55 to 64 years 0.16907663 16.9 %
+ 9:    65 to 74 years 0.06876091  6.9 %
+10: 75 years and over 0.06555671  6.6 %
+[1] "Linn County poverty rate by age"
+                  cat      value Labels
+ 1:     Under 5 years 0.15060158 15.1 %
+ 2:     5 to 11 years 0.18681726 18.7 %
+ 3:    12 to 17 years 0.13967848   14 %
+ 4:    18 to 24 years 0.19591458 19.6 %
+ 5:    25 to 34 years 0.15101599 15.1 %
+ 6:    35 to 44 years 0.13208819 13.2 %
+ 7:    45 to 54 years 0.12279667 12.3 %
+ 8:    55 to 64 years 0.12124949 12.1 %
+ 9:    65 to 74 years 0.06470632  6.5 %
+10: 75 years and over 0.08584169  8.6 %
+[1] "Oregon poverty rate by age"
+                  cat      value Labels
+ 1:     Under 5 years 0.18016971   18 %
+ 2:     5 to 11 years 0.16834649 16.8 %
+ 3:    12 to 17 years 0.15067500 15.1 %
+ 4:    18 to 24 years 0.24994420   25 %
+ 5:    25 to 34 years 0.14147054 14.1 %
+ 6:    35 to 44 years 0.11237974 11.2 %
+ 7:    45 to 54 years 0.10166301 10.2 %
+ 8:    55 to 64 years 0.11027983   11 %
+ 9:    65 to 74 years 0.07382973  7.4 %
+10: 75 years and over 0.08678430  8.7 %
+[1] "Poverty rate comparison"
+# A tibble: 5 x 3
+  cat            value Labels
+  <fct>          <dbl> <chr> 
+1 Linn County    0.133 13.3 %
+2 Benton County  0.191 19.1 %
+3 Lincoln County 0.163 16.3 %
+4 LBL Region     0.158 15.8 %
+5 Oregon         0.132 13.2 %
+[1] "Child poverty rate comparison"
+              cat     value Labels
+1:    Linn County 0.1611245 16.1 %
+2:  Benton County 0.1392336 13.9 %
+3: Lincoln County 0.2488485 24.9 %
+4:     LBL Region 0.1687781 16.9 %
+5:         Oregon 0.1655179 16.6 %
+[1] "Linn County poverty rate by race/ethnicity"
+# A tibble: 8 x 3
+  cat                                         value Labels
+  <fct>                                       <dbl> <chr> 
+1 American Indian and Alaska Native          0.137  13.7 %
+2 Asian                                      0.0900 9 %   
+3 Black or African American                  0.0217 2.2 % 
+4 Hispanic or Latino                         0.166  16.6 %
+5 Native Hawaiian and Other Pacific Islander 0.642  64.2 %
+6 Some Other Race                            0.175  17.5 %
+7 Two or More Races                          0.159  15.9 %
+8 White                                      0.127  12.7 %
+[1] "Benton County poverty rate by race/ethnicity"
+# A tibble: 8 x 3
+  cat                                        value Labels
+  <fct>                                      <dbl> <chr> 
+1 American Indian and Alaska Native          0.237 23.7 %
+2 Asian                                      0.420 42 %  
+3 Black or African American                  0.347 34.7 %
+4 Hispanic or Latino                         0.268 26.8 %
+5 Native Hawaiian and Other Pacific Islander 0.152 15.2 %
+6 Some Other Race                            0.327 32.7 %
+7 Two or More Races                          0.219 21.9 %
+8 White                                      0.159 15.9 %
+[1] "Lincoln County poverty rate by race/ethnicity"
+# A tibble: 8 x 3
+  cat                                        value Labels
+  <fct>                                      <dbl> <chr> 
+1 American Indian and Alaska Native          0.217 21.7 %
+2 Asian                                      0.430 43 %  
+3 Black or African American                  0.179 17.9 %
+4 Hispanic or Latino                         0.221 22.1 %
+5 Native Hawaiian and Other Pacific Islander 0.158 15.8 %
+6 Some Other Race                            0.162 16.2 %
+7 Two or More Races                          0.163 16.3 %
+8 White                                      0.152 15.2 %
+[1] "LBL Region poverty rate by race/ethnicity"
+# A tibble: 8 x 3
+  cat                                        value Labels
+  <fct>                                      <dbl> <chr> 
+1 American Indian and Alaska Native          0.191 19.1 %
+2 Asian                                      0.364 36.4 %
+3 Black or African American                  0.213 21.3 %
+4 Hispanic or Latino                         0.206 20.6 %
+5 Native Hawaiian and Other Pacific Islander 0.306 30.6 %
+6 Some Other Race                            0.210 21 %  
+7 Two or More Races                          0.178 17.8 %
+8 White                                      0.142 14.2 %
+[1] "Oregon poverty rate by race/ethnicity"
+# A tibble: 8 x 3
+  cat                                        value Labels
+  <fct>                                      <dbl> <chr> 
+1 American Indian and Alaska Native          0.224 22.4 %
+2 Asian                                      0.136 13.6 %
+3 Black or African American                  0.263 26.3 %
+4 Hispanic or Latino                         0.201 20.1 %
+5 Native Hawaiian and Other Pacific Islander 0.210 21 %  
+6 Some Other Race                            0.172 17.2 %
+7 Two or More Races                          0.179 17.9 %
+8 White                                      0.113 11.3 %
+[1] "Linn County median income by race/ethnicity"
+# A tibble: 8 x 3
+  cat                                        value Labels  
+  <fct>                                      <dbl> <chr>   
+1 American Indian and Alaska Native          41875 $ 41,900
+2 Asian                                      83967 $ 84,000
+3 Black or African American                  83188 $ 83,200
+4 Hispanic or Latino                         53470 $ 53,500
+5 Native Hawaiian and Other Pacific Islander    NA $     NA
+6 Some Other Race                            58438 $ 58,400
+7 Two or More Races                          52344 $ 52,300
+8 White                                      56222 $ 56,200
+[1] "Benton County median income by race/ethnicity"
+# A tibble: 8 x 3
+  cat                                        value Labels  
+  <fct>                                      <dbl> <chr>   
+1 American Indian and Alaska Native          56591 $ 56,600
+2 Asian                                      31208 $ 31,200
+3 Black or African American                     NA $     NA
+4 Hispanic or Latino                         50345 $ 50,300
+5 Native Hawaiian and Other Pacific Islander    NA $     NA
+6 Some Other Race                            38266 $ 38,300
+7 Two or More Races                          63875 $ 63,900
+8 White                                      65848 $ 65,800
+[1] "Lincoln County median income by race/ethnicity"
+# A tibble: 8 x 3
+  cat                                        value Labels  
+  <fct>                                      <dbl> <chr>   
+1 American Indian and Alaska Native          30000 $ 30,000
+2 Asian                                      41944 $ 41,900
+3 Black or African American                     NA $     NA
+4 Hispanic or Latino                         49265 $ 49,300
+5 Native Hawaiian and Other Pacific Islander    NA $     NA
+6 Some Other Race                            60965 $ 61,000
+7 Two or More Races                          39865 $ 39,900
+8 White                                      48360 $ 48,400
+[1] "Oregon median income by race/ethnicity"
+# A tibble: 8 x 3
+  cat                                        value Labels  
+  <fct>                                      <dbl> <chr>   
+1 American Indian and Alaska Native          44324 $ 44,300
+2 Asian                                      78790 $ 78,800
+3 Black or African American                  41773 $ 41,800
+4 Hispanic or Latino                         52537 $ 52,500
+5 Native Hawaiian and Other Pacific Islander 62755 $ 62,800
+6 Some Other Race                            54401 $ 54,400
+7 Two or More Races                          55555 $ 55,600
+8 White                                      64384 $ 64,400
+[1] "Percent of households with SNAP benefits"
+             cat     value Labels
+4    Linn County 0.1956158 19.6 %
+1  Benton County 0.1031973 10.3 %
+3 Lincoln County 0.2055123 20.6 %
+2     LBL Region 0.1661227 16.6 %
+5         Oregon 0.1575173 15.8 %
+[1] "Percent of households with children utilizing SNAP benefits"
+             cat     value Labels
+4    Linn County 0.2906214 29.1 %
+1  Benton County 0.1514282 15.1 %
+3 Lincoln County 0.3468511 34.7 %
+2     LBL Region 0.2556880 25.6 %
+5         Oregon 0.2324008 23.2 %
+[1] "Percent of households below FPL utilizing SNAP benefits"
+             cat     value Labels
+4    Linn County 0.6208375 62.1 %
+1  Benton County 0.2766054 27.7 %
+3 Lincoln County 0.5399322   54 %
+2     LBL Region 0.4611428 46.1 %
+5         Oregon 0.5104114   51 %
+[1] "Linn County Home ownership"
+# A tibble: 2 x 5
+  cat             value Labels  ymax  ymin
+  <fct>           <dbl> <chr>  <dbl> <dbl>
+1 Owner occupied  0.644 64 %   0.644 0    
+2 Renter occupied 0.356 36 %   1     0.644
+[1] "Benton County Home ownership"
+# A tibble: 2 x 5
+  cat             value Labels  ymax  ymin
+  <fct>           <dbl> <chr>  <dbl> <dbl>
+1 Owner occupied  0.572 57 %   0.572 0    
+2 Renter occupied 0.428 43 %   1     0.572
+[1] "Lincoln County Home ownership"
+# A tibble: 2 x 5
+  cat             value Labels  ymax  ymin
+  <fct>           <dbl> <chr>  <dbl> <dbl>
+1 Owner occupied  0.656 66 %   0.656 0    
+2 Renter occupied 0.344 34 %   1     0.656
+[1] "LBL Region Home ownership"
+# A tibble: 2 x 5
+  cat             value Labels  ymax  ymin
+  <fct>           <dbl> <chr>  <dbl> <dbl>
+1 Owner occupied  0.622 62 %   0.622 0    
+2 Renter occupied 0.378 38 %   1     0.622
+[1] "Oregon Home ownership"
+# A tibble: 2 x 5
+  cat             value Labels  ymax  ymin
+  <fct>           <dbl> <chr>  <dbl> <dbl>
+1 Owner occupied  0.624 62 %   0.624 0    
+2 Renter occupied 0.376 38 %   1     0.624
+[1] "Linn County Home ownership"
+# A tibble: 2 x 5
+  cat             value Labels  ymax  ymin
+  <fct>           <dbl> <chr>  <dbl> <dbl>
+1 Owner occupied  0.365 37 %   0.365 0    
+2 Renter occupied 0.635 63 %   1     0.365
+[1] "Benton County Home ownership"
+# A tibble: 2 x 5
+  cat             value Labels  ymax  ymin
+  <fct>           <dbl> <chr>  <dbl> <dbl>
+1 Owner occupied  0.246 25 %   0.246 0    
+2 Renter occupied 0.754 75 %   1     0.246
+[1] "Lincoln County Home ownership"
+# A tibble: 2 x 5
+  cat             value Labels  ymax  ymin
+  <fct>           <dbl> <chr>  <dbl> <dbl>
+1 Owner occupied  0.383 38 %   0.383 0    
+2 Renter occupied 0.617 62 %   1     0.383
+[1] "LBL Region Home ownership"
+# A tibble: 2 x 5
+  cat             value Labels  ymax  ymin
+  <fct>           <dbl> <chr>  <dbl> <dbl>
+1 Owner occupied  0.330 33 %   0.330 0    
+2 Renter occupied 0.670 67 %   1     0.330
+[1] "Oregon Home ownership"
+# A tibble: 2 x 5
+  cat             value Labels  ymax  ymin
+  <fct>           <dbl> <chr>  <dbl> <dbl>
+1 Owner occupied  0.429 43 %   0.429 0    
+2 Renter occupied 0.571 57 %   1     0.429
+[1] "Linn County Home ownership"
+# A tibble: 2 x 5
+  cat             value Labels  ymax  ymin
+  <fct>           <dbl> <chr>  <dbl> <dbl>
+1 Owner occupied  0.668 67 %   0.668 0    
+2 Renter occupied 0.332 33 %   1     0.668
+[1] "Benton County Home ownership"
+# A tibble: 2 x 5
+  cat             value Labels  ymax  ymin
+  <fct>           <dbl> <chr>  <dbl> <dbl>
+1 Owner occupied  0.613 61 %   0.613 0    
+2 Renter occupied 0.387 39 %   1     0.613
+[1] "Lincoln County Home ownership"
+# A tibble: 2 x 5
+  cat             value Labels  ymax  ymin
+  <fct>           <dbl> <chr>  <dbl> <dbl>
+1 Owner occupied  0.679 68 %   0.679 0    
+2 Renter occupied 0.321 32 %   1     0.679
+[1] "LBL Region Home ownership"
+# A tibble: 2 x 5
+  cat             value Labels  ymax  ymin
+  <fct>           <dbl> <chr>  <dbl> <dbl>
+1 Owner occupied  0.652 65 %   0.652 0    
+2 Renter occupied 0.348 35 %   1     0.652
+[1] "Oregon Home ownership"
+# A tibble: 2 x 5
+  cat             value Labels  ymax  ymin
+  <fct>           <dbl> <chr>  <dbl> <dbl>
+1 Owner occupied  0.657 66 %   0.657 0    
+2 Renter occupied 0.343 34 %   1     0.657
+[1] "Percent of households with rental burden"
+              cat     value Labels
+1:    Linn County 0.4631480 46.3 %
+2:  Benton County 0.5408377 54.1 %
+3: Lincoln County 0.4579975 45.8 %
+4:     LBL Region 0.4921621 49.2 %
+5:         Oregon 0.4751520 47.5 %
+[1] "Percent of households with extreme rental burden"
+# A tibble: 5 x 3
+  cat            value Labels
+  <fct>          <dbl> <chr> 
+1 Linn County    0.212 21.2 %
+2 Benton County  0.327 32.7 %
+3 Lincoln County 0.219 21.9 %
+4 LBL Region     0.258 25.8 %
+5 Oregon         0.240 24 %  
+[1] "Percent of owned households with housing burden"
+              cat     value Labels
+1:    Linn County 0.2508131 25.1 %
+2:  Benton County 0.1988453 19.9 %
+3: Lincoln County 0.2926951 29.3 %
+4:     LBL Region 0.2434971 24.3 %
+5:         Oregon 0.2505855 25.1 %
+[1] "Percent of owned households with extreme housing burden"
+              cat      value Labels
+1:    Linn County 0.09203851  9.2 %
+2:  Benton County 0.06903807  6.9 %
+3: Lincoln County 0.11790799 11.8 %
+4:     LBL Region 0.09037337    9 %
+5:         Oregon 0.09666506  9.7 %
+[1] "Percent of all households with housing burden"
+              cat     value Labels
+1:    Linn County 0.3264520 32.6 %
+2:  Benton County 0.3451481 34.5 %
+3: Lincoln County 0.3495164   35 %
+4:     LBL Region 0.3375136 33.8 %
+5:         Oregon 0.3350199 33.5 %
+[1] "Percent of all households with extreme housing burden"
+              cat     value Labels
+1:    Linn County 0.1346677 13.5 %
+2:  Benton County 0.1796013   18 %
+3: Lincoln County 0.1525965 15.3 %
+4:     LBL Region 0.1536296 15.4 %
+5:         Oregon 0.1506351 15.1 %
+[1] "Percent of lower income rental households \nwith rental burden"
+              cat     value Labels
+1:    Linn County 0.6897944   69 %
+2:  Benton County 0.7627692 76.3 %
+3: Lincoln County 0.6389406 63.9 %
+4:     LBL Region 0.7080733 70.8 %
+5:         Oregon 0.7202926   72 %
+[1] "Percent of lower income owned households \nwith housing burden"
+              cat     value Labels
+1:    Linn County 0.5440704 54.4 %
+2:  Benton County 0.4977706 49.8 %
+3: Lincoln County 0.4772017 47.7 %
+4:     LBL Region 0.5141019 51.4 %
+5:         Oregon 0.5539297 55.4 %
+[1] "Poverty rate by disability status"
+                            cat2           cat1     value Labels                                    catCross
+ 1:    Poverty rate - disability    Linn County 0.1825084 18.3 %       Linn County Poverty rate - disability
+ 2: Poverty rate - no disability    Linn County 0.1013713 10.1 %    Linn County Poverty rate - no disability
+ 3:    Poverty rate - disability  Benton County 0.1683400 16.8 %     Benton County Poverty rate - disability
+ 4: Poverty rate - no disability  Benton County 0.1592795 15.9 %  Benton County Poverty rate - no disability
+ 5:    Poverty rate - disability Lincoln County 0.1652012 16.5 %    Lincoln County Poverty rate - disability
+ 6: Poverty rate - no disability Lincoln County 0.1325341 13.3 % Lincoln County Poverty rate - no disability
+ 7:    Poverty rate - disability     LBL Region 0.1750165 17.5 %        LBL Region Poverty rate - disability
+ 8: Poverty rate - no disability     LBL Region 0.1280642 12.8 %     LBL Region Poverty rate - no disability
+ 9:    Poverty rate - disability         Oregon 0.1703579   17 %            Oregon Poverty rate - disability
+10: Poverty rate - no disability         Oregon 0.1065805 10.7 %         Oregon Poverty rate - no disability
+[[1]]
+            Age    Sex   Percentage
+ 1:     Under 5   Male -0.030148423
+ 2:      5 to 9   Male -0.033922974
+ 3:    10 to 14   Male -0.032043695
+ 4:    15 to 19   Male -0.029996481
+ 5:    20 to 24   Male -0.029708592
+ 6:    25 to 29   Male -0.034770648
+ 7:    30 to 34   Male -0.032331585
+ 8:    35 to 39   Male -0.032715437
+ 9:    40 to 44   Male -0.025702130
+10:    45 to 49   Male -0.030708208
+11:    50 to 54   Male -0.029916512
+12:    55 to 59   Male -0.033427164
+13:    61 to 64   Male -0.033059305
+14:    65 to 69   Male -0.032843388
+15:    70 to 74   Male -0.019144648
+16:    75 to 79   Male -0.016281748
+17:    80 to 84   Male -0.008820613
+18: 85 and over   Male -0.007373169
+19:     Under 5 Female  0.029756573
+20:      5 to 9 Female  0.030540273
+21:    10 to 14 Female  0.030724202
+22:    15 to 19 Female  0.030332352
+23:    20 to 24 Female  0.028293135
+24:    25 to 29 Female  0.034594716
+25:    30 to 34 Female  0.031803787
+26:    35 to 39 Female  0.033395176
+27:    40 to 44 Female  0.027301516
+28:    45 to 49 Female  0.029692598
+29:    50 to 54 Female  0.031923741
+30:    55 to 59 Female  0.036170111
+31:    61 to 64 Female  0.033930971
+32:    65 to 69 Female  0.034042928
+33:    70 to 74 Female  0.023191095
+34:    75 to 79 Female  0.016265754
+35:    80 to 84 Female  0.010324036
+36: 85 and over Female  0.014802316
+            Age    Sex   Percentage
+
+[[2]]
+            Age    Sex   Percentage
+ 1:     Under 5   Male -0.020733862
+ 2:      5 to 9   Male -0.023642530
+ 3:    10 to 14   Male -0.023379104
+ 4:    15 to 19   Male -0.045956952
+ 5:    20 to 24   Male -0.091178504
+ 6:    25 to 29   Male -0.040414019
+ 7:    30 to 34   Male -0.029295224
+ 8:    35 to 39   Male -0.030041599
+ 9:    40 to 44   Male -0.019142327
+10:    45 to 49   Male -0.024180359
+11:    50 to 54   Male -0.025245042
+12:    55 to 59   Male -0.029844030
+13:    61 to 64   Male -0.026551198
+14:    65 to 69   Male -0.026364604
+15:    70 to 74   Male -0.020547269
+16:    75 to 79   Male -0.012095668
+17:    80 to 84   Male -0.007200325
+18: 85 and over   Male -0.006827137
+19:     Under 5 Female  0.019581371
+20:      5 to 9 Female  0.016606847
+21:    10 to 14 Female  0.028625682
+22:    15 to 19 Female  0.049644923
+23:    20 to 24 Female  0.073024027
+24:    25 to 29 Female  0.034969871
+25:    30 to 34 Female  0.027571976
+26:    35 to 39 Female  0.028021996
+27:    40 to 44 Female  0.023225438
+28:    45 to 49 Female  0.025157233
+29:    50 to 54 Female  0.025552372
+30:    55 to 59 Female  0.030261122
+31:    61 to 64 Female  0.032895387
+32:    65 to 69 Female  0.026485341
+33:    70 to 74 Female  0.021205835
+34:    75 to 79 Female  0.013544514
+35:    80 to 84 Female  0.009461403
+36: 85 and over Female  0.011524910
+            Age    Sex   Percentage
+
+[[3]]
+            Age    Sex  Percentage
+ 1:     Under 5   Male -0.02307043
+ 2:      5 to 9   Male -0.02461532
+ 3:    10 to 14   Male -0.02319402
+ 4:    15 to 19   Male -0.02527448
+ 5:    20 to 24   Male -0.02088698
+ 6:    25 to 29   Male -0.02428574
+ 7:    30 to 34   Male -0.02403856
+ 8:    35 to 39   Male -0.02393557
+ 9:    40 to 44   Male -0.02368838
+10:    45 to 49   Male -0.02403856
+11:    50 to 54   Male -0.03128927
+12:    55 to 59   Male -0.03905494
+13:    61 to 64   Male -0.04354543
+14:    65 to 69   Male -0.04900406
+15:    70 to 74   Male -0.03516180
+16:    75 to 79   Male -0.02251426
+17:    80 to 84   Male -0.01244155
+18: 85 and over   Male -0.01182359
+19:     Under 5 Female  0.02173152
+20:      5 to 9 Female  0.02675758
+21:    10 to 14 Female  0.02123715
+22:    15 to 19 Female  0.01831215
+23:    20 to 24 Female  0.02307043
+24:    25 to 29 Female  0.02348240
+25:    30 to 34 Female  0.02537747
+26:    35 to 39 Female  0.02412095
+27:    40 to 44 Female  0.02657219
+28:    45 to 49 Female  0.02916761
+29:    50 to 54 Female  0.03180423
+30:    55 to 59 Female  0.04064103
+31:    61 to 64 Female  0.05802624
+32:    65 to 69 Female  0.05707871
+33:    70 to 74 Female  0.03637712
+34:    75 to 79 Female  0.02401796
+35:    80 to 84 Female  0.01571673
+36: 85 and over Female  0.01464560
+            Age    Sex  Percentage
+
+[[4]]
+            Age    Sex   Percentage
+ 1:     Under 5   Male -0.025609931
+ 2:      5 to 9   Male -0.028677532
+ 3:    10 to 14   Male -0.027438402
+ 4:    15 to 19   Male -0.034623841
+ 5:    20 to 24   Male -0.049247833
+ 6:    25 to 29   Male -0.034790066
+ 7:    30 to 34   Male -0.029765548
+ 8:    35 to 39   Male -0.030184887
+ 9:    40 to 44   Male -0.023075005
+10:    45 to 49   Male -0.027238177
+11:    50 to 54   Male -0.028560419
+12:    55 to 59   Male -0.033226043
+13:    61 to 64   Male -0.032742480
+14:    65 to 69   Male -0.033577381
+15:    70 to 74   Male -0.022564998
+16:    75 to 79   Male -0.015984012
+17:    80 to 84   Male -0.008927020
+18: 85 and over   Male -0.008001451
+19:     Under 5 Female  0.024782586
+20:      5 to 9 Female  0.025050812
+21:    10 to 14 Female  0.028261970
+22:    15 to 19 Female  0.034774954
+23:    20 to 24 Female  0.042731071
+24:    25 to 29 Female  0.032685813
+25:    30 to 34 Female  0.029168650
+26:    35 to 39 Female  0.029844882
+27:    40 to 44 Female  0.025764822
+28:    45 to 49 Female  0.028035300
+29:    50 to 54 Female  0.029708880
+30:    55 to 59 Female  0.034956290
+31:    61 to 64 Female  0.037993668
+32:    65 to 69 Female  0.035666523
+33:    70 to 74 Female  0.024926143
+34:    75 to 79 Female  0.016750912
+35:    80 to 84 Female  0.011016162
+36: 85 and over Female  0.013645533
+            Age    Sex   Percentage
+
+[[5]]
+            Age    Sex   Percentage
+ 1:     Under 5   Male -0.028644466
+ 2:      5 to 9   Male -0.029929515
+ 3:    10 to 14   Male -0.030787909
+ 4:    15 to 19   Male -0.030430749
+ 5:    20 to 24   Male -0.032862827
+ 6:    25 to 29   Male -0.036185988
+ 7:    30 to 34   Male -0.035642620
+ 8:    35 to 39   Male -0.035098769
+ 9:    40 to 44   Male -0.031886751
+10:    45 to 49   Male -0.031740497
+11:    50 to 54   Male -0.030583783
+12:    55 to 59   Male -0.031243863
+13:    61 to 64   Male -0.032093541
+14:    65 to 69   Male -0.028936247
+15:    70 to 74   Male -0.020659339
+16:    75 to 79   Male -0.013368919
+17:    80 to 84   Male -0.008397979
+18: 85 and over   Male -0.007253373
+19:     Under 5 Female  0.027183137
+20:      5 to 9 Female  0.028882734
+21:    10 to 14 Female  0.028895325
+22:    15 to 19 Female  0.029101388
+23:    20 to 24 Female  0.031323528
+24:    25 to 29 Female  0.034829991
+25:    30 to 34 Female  0.034807714
+26:    35 to 39 Female  0.034880598
+27:    40 to 44 Female  0.030718657
+28:    45 to 49 Female  0.031317959
+29:    50 to 54 Female  0.030783793
+30:    55 to 59 Female  0.033085598
+31:    61 to 64 Female  0.035245023
+32:    65 to 69 Female  0.031799822
+33:    70 to 74 Female  0.022901819
+34:    75 to 79 Female  0.015546020
+35:    80 to 84 Female  0.010141646
+36: 85 and over Female  0.012808117
+            Age    Sex   Percentage
+
+[[6]]
+# A tibble: 8 x 3
+  cat                                           value Labels
+  <fct>                                         <dbl> <chr> 
+1 American Indian and Alaska Native          0.00953  1 %   
+2 Asian                                      0.0107   1.1 % 
+3 Black or African American                  0.00501  0.5 % 
+4 Hispanic or Latino                         0.0911   9.1 % 
+5 Native Hawaiian and Other Pacific Islander 0.000984 0.1 % 
+6 Some other race                            0.0320   3.2 % 
+7 Two or more races                          0.0458   4.6 % 
+8 White                                      0.849    84.9 %
+
+[[7]]
+# A tibble: 8 x 3
+  cat                                          value Labels
+  <fct>                                        <dbl> <chr> 
+1 American Indian and Alaska Native          0.00664 0.7 % 
+2 Asian                                      0.0717  7.2 % 
+3 Black or African American                  0.0108  1.1 % 
+4 Hispanic or Latino                         0.0740  7.4 % 
+5 Native Hawaiian and Other Pacific Islander 0.00239 0.2 % 
+6 Some other race                            0.0186  1.9 % 
+7 Two or more races                          0.0428  4.3 % 
+8 White                                      0.802   80.2 %
+
+[[8]]
+# A tibble: 8 x 3
+  cat                                          value Labels
+  <fct>                                        <dbl> <chr> 
+1 American Indian and Alaska Native          0.0280  2.8 % 
+2 Asian                                      0.0124  1.2 % 
+3 Black or African American                  0.00558 0.6 % 
+4 Hispanic or Latino                         0.0916  9.2 % 
+5 Native Hawaiian and Other Pacific Islander 0.00198 0.2 % 
+6 Some other race                            0.0239  2.4 % 
+7 Two or more races                          0.0458  4.6 % 
+8 White                                      0.825   82.5 %
+
+[[9]]
+# A tibble: 8 x 3
+  cat                                          value Labels
+  <fct>                                        <dbl> <chr> 
+1 American Indian and Alaska Native          0.0119  1.2 % 
+2 Asian                                      0.0320  3.2 % 
+3 Black or African American                  0.00710 0.7 % 
+4 Hispanic or Latino                         0.0853  8.5 % 
+5 Native Hawaiian and Other Pacific Islander 0.00165 0.2 % 
+6 Some other race                            0.0259  2.6 % 
+7 Two or more races                          0.0448  4.5 % 
+8 White                                      0.828   82.8 %
+
+[[10]]
+# A tibble: 8 x 3
+  cat                                          value Labels
+  <fct>                                        <dbl> <chr> 
+1 American Indian and Alaska Native          0.0116  1.2 % 
+2 Asian                                      0.0437  4.4 % 
+3 Black or African American                  0.0191  1.9 % 
+4 Hispanic or Latino                         0.130   13 %  
+5 Native Hawaiian and Other Pacific Islander 0.00403 0.4 % 
+6 Some other race                            0.0307  3.1 % 
+7 Two or more races                          0.0480  4.8 % 
+8 White                                      0.757   75.7 %
+
+[[11]]
+# A tibble: 5 x 5
+  cat                                 value Labels  ymax  ymin
+  <fct>                               <dbl> <chr>  <dbl> <dbl>
+1 Less than high school graduate     0.105  11 %   0.105 0    
+2 High school graduate               0.290  29 %   0.395 0.105
+3 Some college or associate's degree 0.412  41 %   0.807 0.395
+4 Bachelor's degree                  0.133  13 %   0.940 0.807
+5 Graduate or professional degree    0.0598 6 %    1     0.940
+
+[[12]]
+# A tibble: 5 x 5
+  cat                                 value Labels   ymax   ymin
+  <fct>                               <dbl> <chr>   <dbl>  <dbl>
+1 Less than high school graduate     0.0409 4 %    0.0409 0     
+2 High school graduate               0.133  13 %   0.173  0.0409
+3 Some college or associate's degree 0.285  29 %   0.459  0.173 
+4 Bachelor's degree                  0.292  29 %   0.751  0.459 
+5 Graduate or professional degree    0.249  25 %   1      0.751 
+
+[[13]]
+# A tibble: 5 x 5
+  cat                                 value Labels   ymax   ymin
+  <fct>                               <dbl> <chr>   <dbl>  <dbl>
+1 Less than high school graduate     0.0855 9 %    0.0855 0     
+2 High school graduate               0.273  27 %   0.358  0.0855
+3 Some college or associate's degree 0.393  39 %   0.751  0.358 
+4 Bachelor's degree                  0.148  15 %   0.899  0.751 
+5 Graduate or professional degree    0.101  10 %   1      0.899 
+
+[[14]]
+# A tibble: 5 x 5
+  cat                                 value Labels   ymax   ymin
+  <fct>                               <dbl> <chr>   <dbl>  <dbl>
+1 Less than high school graduate     0.0813 8 %    0.0813 0     
+2 High school graduate               0.238  24 %   0.319  0.0813
+3 Some college or associate's degree 0.369  37 %   0.688  0.319 
+4 Bachelor's degree                  0.185  19 %   0.873  0.688 
+5 Graduate or professional degree    0.127  13 %   1      0.873 
+
+[[15]]
+# A tibble: 5 x 5
+  cat                                 value Labels   ymax   ymin
+  <fct>                               <dbl> <chr>   <dbl>  <dbl>
+1 Less than high school graduate     0.0929 9 %    0.0929 0     
+2 High school graduate               0.227  23 %   0.320  0.0929
+3 Some college or associate's degree 0.343  34 %   0.663  0.320 
+4 Bachelor's degree                  0.208  21 %   0.871  0.663 
+5 Graduate or professional degree    0.129  13 %   1      0.871 
+
+[[16]]
+# A tibble: 5 x 5
+  cat                                 value Labels  ymax  ymin
+  <fct>                               <dbl> <chr>  <dbl> <dbl>
+1 Less than high school graduate     0.105  11 %   0.105 0    
+2 High school graduate               0.290  29 %   0.395 0.105
+3 Some college or associate's degree 0.412  41 %   0.807 0.395
+4 Bachelor's degree                  0.133  13 %   0.940 0.807
+5 Graduate or professional degree    0.0598 6 %    1     0.940
+
+[[17]]
+# A tibble: 5 x 5
+  cat                                 value Labels   ymax   ymin
+  <fct>                               <dbl> <chr>   <dbl>  <dbl>
+1 Less than high school graduate     0.0409 4 %    0.0409 0     
+2 High school graduate               0.133  13 %   0.173  0.0409
+3 Some college or associate's degree 0.285  29 %   0.459  0.173 
+4 Bachelor's degree                  0.292  29 %   0.751  0.459 
+5 Graduate or professional degree    0.249  25 %   1      0.751 
+
+[[18]]
+# A tibble: 5 x 5
+  cat                                 value Labels   ymax   ymin
+  <fct>                               <dbl> <chr>   <dbl>  <dbl>
+1 Less than high school graduate     0.0855 9 %    0.0855 0     
+2 High school graduate               0.273  27 %   0.358  0.0855
+3 Some college or associate's degree 0.393  39 %   0.751  0.358 
+4 Bachelor's degree                  0.148  15 %   0.899  0.751 
+5 Graduate or professional degree    0.101  10 %   1      0.899 
+
+[[19]]
+# A tibble: 5 x 5
+  cat                                 value Labels   ymax   ymin
+  <fct>                               <dbl> <chr>   <dbl>  <dbl>
+1 Less than high school graduate     0.0813 8 %    0.0813 0     
+2 High school graduate               0.238  24 %   0.319  0.0813
+3 Some college or associate's degree 0.369  37 %   0.688  0.319 
+4 Bachelor's degree                  0.185  19 %   0.873  0.688 
+5 Graduate or professional degree    0.127  13 %   1      0.873 
+
+[[20]]
+# A tibble: 5 x 5
+  cat                                 value Labels   ymax   ymin
+  <fct>                               <dbl> <chr>   <dbl>  <dbl>
+1 Less than high school graduate     0.0929 9 %    0.0929 0     
+2 High school graduate               0.227  23 %   0.320  0.0929
+3 Some college or associate's degree 0.343  34 %   0.663  0.320 
+4 Bachelor's degree                  0.208  21 %   0.871  0.663 
+5 Graduate or professional degree    0.129  13 %   1      0.871 
+
+[[21]]
+              cat value Labels
+1:    Linn County  5875  5,900
+2:  Benton County 21383 21,400
+3: Lincoln County  1397  1,400
+
+[[22]]
+              cat      value Labels
+1:    Linn County 0.05779807  5.8 %
+2:  Benton County 0.27057156 27.1 %
+3: Lincoln County 0.03348434  3.3 %
+4:     LBL Region 0.12884616 12.9 %
+5:         Oregon 0.07735339  7.7 %
+
+[[23]]
+                  cat      value Labels
+ 1:     Under 5 years 0.16885246 16.9 %
+ 2:     5 to 11 years 0.13484131 13.5 %
+ 3:    12 to 17 years 0.12351499 12.4 %
+ 4:    18 to 24 years 0.54177587 54.2 %
+ 5:    25 to 34 years 0.20481525 20.5 %
+ 6:    35 to 44 years 0.09589491  9.6 %
+ 7:    45 to 54 years 0.07465640  7.5 %
+ 8:    55 to 64 years 0.08053260  8.1 %
+ 9:    65 to 74 years 0.05556847  5.6 %
+10: 75 years and over 0.08071585  8.1 %
+
+[[24]]
+                  cat      value Labels
+ 1:     Under 5 years 0.18141866 18.1 %
+ 2:     5 to 11 years 0.17733293 17.7 %
+ 3:    12 to 17 years 0.14959995   15 %
+ 4:    18 to 24 years 0.39937926 39.9 %
+ 5:    25 to 34 years 0.17545865 17.5 %
+ 6:    35 to 44 years 0.12647725 12.6 %
+ 7:    45 to 54 years 0.11583514 11.6 %
+ 8:    55 to 64 years 0.12061356 12.1 %
+ 9:    65 to 74 years 0.06328414  6.3 %
+10: 75 years and over 0.07932055  7.9 %
+
+[[25]]
+                  cat      value Labels
+ 1:     Under 5 years 0.31072631 31.1 %
+ 2:     5 to 11 years 0.22001831   22 %
+ 3:    12 to 17 years 0.23608517 23.6 %
+ 4:    18 to 24 years 0.30463822 30.5 %
+ 5:    25 to 34 years 0.18736571 18.7 %
+ 6:    35 to 44 years 0.16804408 16.8 %
+ 7:    45 to 54 years 0.16366554 16.4 %
+ 8:    55 to 64 years 0.16907663 16.9 %
+ 9:    65 to 74 years 0.06876091  6.9 %
+10: 75 years and over 0.06555671  6.6 %
+
+[[26]]
+                  cat      value Labels
+ 1:     Under 5 years 0.15060158 15.1 %
+ 2:     5 to 11 years 0.18681726 18.7 %
+ 3:    12 to 17 years 0.13967848   14 %
+ 4:    18 to 24 years 0.19591458 19.6 %
+ 5:    25 to 34 years 0.15101599 15.1 %
+ 6:    35 to 44 years 0.13208819 13.2 %
+ 7:    45 to 54 years 0.12279667 12.3 %
+ 8:    55 to 64 years 0.12124949 12.1 %
+ 9:    65 to 74 years 0.06470632  6.5 %
+10: 75 years and over 0.08584169  8.6 %
+
+[[27]]
+                  cat      value Labels
+ 1:     Under 5 years 0.18016971   18 %
+ 2:     5 to 11 years 0.16834649 16.8 %
+ 3:    12 to 17 years 0.15067500 15.1 %
+ 4:    18 to 24 years 0.24994420   25 %
+ 5:    25 to 34 years 0.14147054 14.1 %
+ 6:    35 to 44 years 0.11237974 11.2 %
+ 7:    45 to 54 years 0.10166301 10.2 %
+ 8:    55 to 64 years 0.11027983   11 %
+ 9:    65 to 74 years 0.07382973  7.4 %
+10: 75 years and over 0.08678430  8.7 %
+
+[[28]]
+# A tibble: 5 x 3
+  cat            value Labels
+  <fct>          <dbl> <chr> 
+1 Linn County    0.133 13.3 %
+2 Benton County  0.191 19.1 %
+3 Lincoln County 0.163 16.3 %
+4 LBL Region     0.158 15.8 %
+5 Oregon         0.132 13.2 %
+
+[[29]]
+              cat     value Labels
+1:    Linn County 0.1611245 16.1 %
+2:  Benton County 0.1392336 13.9 %
+3: Lincoln County 0.2488485 24.9 %
+4:     LBL Region 0.1687781 16.9 %
+5:         Oregon 0.1655179 16.6 %
+
+[[30]]
+# A tibble: 8 x 3
+  cat                                         value Labels
+  <fct>                                       <dbl> <chr> 
+1 American Indian and Alaska Native          0.137  13.7 %
+2 Asian                                      0.0900 9 %   
+3 Black or African American                  0.0217 2.2 % 
+4 Hispanic or Latino                         0.166  16.6 %
+5 Native Hawaiian and Other Pacific Islander 0.642  64.2 %
+6 Some Other Race                            0.175  17.5 %
+7 Two or More Races                          0.159  15.9 %
+8 White                                      0.127  12.7 %
+
+[[31]]
+# A tibble: 8 x 3
+  cat                                        value Labels
+  <fct>                                      <dbl> <chr> 
+1 American Indian and Alaska Native          0.237 23.7 %
+2 Asian                                      0.420 42 %  
+3 Black or African American                  0.347 34.7 %
+4 Hispanic or Latino                         0.268 26.8 %
+5 Native Hawaiian and Other Pacific Islander 0.152 15.2 %
+6 Some Other Race                            0.327 32.7 %
+7 Two or More Races                          0.219 21.9 %
+8 White                                      0.159 15.9 %
+
+[[32]]
+# A tibble: 8 x 3
+  cat                                        value Labels
+  <fct>                                      <dbl> <chr> 
+1 American Indian and Alaska Native          0.217 21.7 %
+2 Asian                                      0.430 43 %  
+3 Black or African American                  0.179 17.9 %
+4 Hispanic or Latino                         0.221 22.1 %
+5 Native Hawaiian and Other Pacific Islander 0.158 15.8 %
+6 Some Other Race                            0.162 16.2 %
+7 Two or More Races                          0.163 16.3 %
+8 White                                      0.152 15.2 %
+
+[[33]]
+# A tibble: 8 x 3
+  cat                                        value Labels
+  <fct>                                      <dbl> <chr> 
+1 American Indian and Alaska Native          0.191 19.1 %
+2 Asian                                      0.364 36.4 %
+3 Black or African American                  0.213 21.3 %
+4 Hispanic or Latino                         0.206 20.6 %
+5 Native Hawaiian and Other Pacific Islander 0.306 30.6 %
+6 Some Other Race                            0.210 21 %  
+7 Two or More Races                          0.178 17.8 %
+8 White                                      0.142 14.2 %
+
+[[34]]
+# A tibble: 8 x 3
+  cat                                        value Labels
+  <fct>                                      <dbl> <chr> 
+1 American Indian and Alaska Native          0.224 22.4 %
+2 Asian                                      0.136 13.6 %
+3 Black or African American                  0.263 26.3 %
+4 Hispanic or Latino                         0.201 20.1 %
+5 Native Hawaiian and Other Pacific Islander 0.210 21 %  
+6 Some Other Race                            0.172 17.2 %
+7 Two or More Races                          0.179 17.9 %
+8 White                                      0.113 11.3 %
+
+[[35]]
+# A tibble: 8 x 3
+  cat                                        value Labels  
+  <fct>                                      <dbl> <chr>   
+1 American Indian and Alaska Native          41875 $ 41,900
+2 Asian                                      83967 $ 84,000
+3 Black or African American                  83188 $ 83,200
+4 Hispanic or Latino                         53470 $ 53,500
+5 Native Hawaiian and Other Pacific Islander    NA $     NA
+6 Some Other Race                            58438 $ 58,400
+7 Two or More Races                          52344 $ 52,300
+8 White                                      56222 $ 56,200
+
+[[36]]
+# A tibble: 8 x 3
+  cat                                        value Labels  
+  <fct>                                      <dbl> <chr>   
+1 American Indian and Alaska Native          56591 $ 56,600
+2 Asian                                      31208 $ 31,200
+3 Black or African American                     NA $     NA
+4 Hispanic or Latino                         50345 $ 50,300
+5 Native Hawaiian and Other Pacific Islander    NA $     NA
+6 Some Other Race                            38266 $ 38,300
+7 Two or More Races                          63875 $ 63,900
+8 White                                      65848 $ 65,800
+
+[[37]]
+# A tibble: 8 x 3
+  cat                                        value Labels  
+  <fct>                                      <dbl> <chr>   
+1 American Indian and Alaska Native          30000 $ 30,000
+2 Asian                                      41944 $ 41,900
+3 Black or African American                     NA $     NA
+4 Hispanic or Latino                         49265 $ 49,300
+5 Native Hawaiian and Other Pacific Islander    NA $     NA
+6 Some Other Race                            60965 $ 61,000
+7 Two or More Races                          39865 $ 39,900
+8 White                                      48360 $ 48,400
+
+[[38]]
+# A tibble: 8 x 3
+  cat                                        value Labels  
+  <fct>                                      <dbl> <chr>   
+1 American Indian and Alaska Native          44324 $ 44,300
+2 Asian                                      78790 $ 78,800
+3 Black or African American                  41773 $ 41,800
+4 Hispanic or Latino                         52537 $ 52,500
+5 Native Hawaiian and Other Pacific Islander 62755 $ 62,800
+6 Some Other Race                            54401 $ 54,400
+7 Two or More Races                          55555 $ 55,600
+8 White                                      64384 $ 64,400
+
+[[39]]
+             cat     value Labels
+4    Linn County 0.1956158 19.6 %
+1  Benton County 0.1031973 10.3 %
+3 Lincoln County 0.2055123 20.6 %
+2     LBL Region 0.1661227 16.6 %
+5         Oregon 0.1575173 15.8 %
+
+[[40]]
+             cat     value Labels
+4    Linn County 0.2906214 29.1 %
+1  Benton County 0.1514282 15.1 %
+3 Lincoln County 0.3468511 34.7 %
+2     LBL Region 0.2556880 25.6 %
+5         Oregon 0.2324008 23.2 %
+
+[[41]]
+             cat     value Labels
+4    Linn County 0.6208375 62.1 %
+1  Benton County 0.2766054 27.7 %
+3 Lincoln County 0.5399322   54 %
+2     LBL Region 0.4611428 46.1 %
+5         Oregon 0.5104114   51 %
+
+[[42]]
+# A tibble: 2 x 5
+  cat             value Labels  ymax  ymin
+  <fct>           <dbl> <chr>  <dbl> <dbl>
+1 Owner occupied  0.644 64 %   0.644 0    
+2 Renter occupied 0.356 36 %   1     0.644
+
+[[43]]
+# A tibble: 2 x 5
+  cat             value Labels  ymax  ymin
+  <fct>           <dbl> <chr>  <dbl> <dbl>
+1 Owner occupied  0.572 57 %   0.572 0    
+2 Renter occupied 0.428 43 %   1     0.572
+
+[[44]]
+# A tibble: 2 x 5
+  cat             value Labels  ymax  ymin
+  <fct>           <dbl> <chr>  <dbl> <dbl>
+1 Owner occupied  0.656 66 %   0.656 0    
+2 Renter occupied 0.344 34 %   1     0.656
+
+[[45]]
+# A tibble: 2 x 5
+  cat             value Labels  ymax  ymin
+  <fct>           <dbl> <chr>  <dbl> <dbl>
+1 Owner occupied  0.622 62 %   0.622 0    
+2 Renter occupied 0.378 38 %   1     0.622
+
+[[46]]
+# A tibble: 2 x 5
+  cat             value Labels  ymax  ymin
+  <fct>           <dbl> <chr>  <dbl> <dbl>
+1 Owner occupied  0.624 62 %   0.624 0    
+2 Renter occupied 0.376 38 %   1     0.624
+
+[[47]]
+# A tibble: 2 x 5
+  cat             value Labels  ymax  ymin
+  <fct>           <dbl> <chr>  <dbl> <dbl>
+1 Owner occupied  0.365 37 %   0.365 0    
+2 Renter occupied 0.635 63 %   1     0.365
+
+[[48]]
+# A tibble: 2 x 5
+  cat             value Labels  ymax  ymin
+  <fct>           <dbl> <chr>  <dbl> <dbl>
+1 Owner occupied  0.246 25 %   0.246 0    
+2 Renter occupied 0.754 75 %   1     0.246
+
+[[49]]
+# A tibble: 2 x 5
+  cat             value Labels  ymax  ymin
+  <fct>           <dbl> <chr>  <dbl> <dbl>
+1 Owner occupied  0.383 38 %   0.383 0    
+2 Renter occupied 0.617 62 %   1     0.383
+
+[[50]]
+# A tibble: 2 x 5
+  cat             value Labels  ymax  ymin
+  <fct>           <dbl> <chr>  <dbl> <dbl>
+1 Owner occupied  0.330 33 %   0.330 0    
+2 Renter occupied 0.670 67 %   1     0.330
+
+[[51]]
+# A tibble: 2 x 5
+  cat             value Labels  ymax  ymin
+  <fct>           <dbl> <chr>  <dbl> <dbl>
+1 Owner occupied  0.429 43 %   0.429 0    
+2 Renter occupied 0.571 57 %   1     0.429
+
+[[52]]
+# A tibble: 2 x 5
+  cat             value Labels  ymax  ymin
+  <fct>           <dbl> <chr>  <dbl> <dbl>
+1 Owner occupied  0.668 67 %   0.668 0    
+2 Renter occupied 0.332 33 %   1     0.668
+
+[[53]]
+# A tibble: 2 x 5
+  cat             value Labels  ymax  ymin
+  <fct>           <dbl> <chr>  <dbl> <dbl>
+1 Owner occupied  0.613 61 %   0.613 0    
+2 Renter occupied 0.387 39 %   1     0.613
+
+[[54]]
+# A tibble: 2 x 5
+  cat             value Labels  ymax  ymin
+  <fct>           <dbl> <chr>  <dbl> <dbl>
+1 Owner occupied  0.679 68 %   0.679 0    
+2 Renter occupied 0.321 32 %   1     0.679
+
+[[55]]
+# A tibble: 2 x 5
+  cat             value Labels  ymax  ymin
+  <fct>           <dbl> <chr>  <dbl> <dbl>
+1 Owner occupied  0.652 65 %   0.652 0    
+2 Renter occupied 0.348 35 %   1     0.652
+
+[[56]]
+# A tibble: 2 x 5
+  cat             value Labels  ymax  ymin
+  <fct>           <dbl> <chr>  <dbl> <dbl>
+1 Owner occupied  0.657 66 %   0.657 0    
+2 Renter occupied 0.343 34 %   1     0.657
+
+[[57]]
+              cat     value Labels
+1:    Linn County 0.4631480 46.3 %
+2:  Benton County 0.5408377 54.1 %
+3: Lincoln County 0.4579975 45.8 %
+4:     LBL Region 0.4921621 49.2 %
+5:         Oregon 0.4751520 47.5 %
+
+[[58]]
+# A tibble: 5 x 3
+  cat            value Labels
+  <fct>          <dbl> <chr> 
+1 Linn County    0.212 21.2 %
+2 Benton County  0.327 32.7 %
+3 Lincoln County 0.219 21.9 %
+4 LBL Region     0.258 25.8 %
+5 Oregon         0.240 24 %  
+
+[[59]]
+              cat     value Labels
+1:    Linn County 0.2508131 25.1 %
+2:  Benton County 0.1988453 19.9 %
+3: Lincoln County 0.2926951 29.3 %
+4:     LBL Region 0.2434971 24.3 %
+5:         Oregon 0.2505855 25.1 %
+
+[[60]]
+              cat      value Labels
+1:    Linn County 0.09203851  9.2 %
+2:  Benton County 0.06903807  6.9 %
+3: Lincoln County 0.11790799 11.8 %
+4:     LBL Region 0.09037337    9 %
+5:         Oregon 0.09666506  9.7 %
+
+[[61]]
+              cat     value Labels
+1:    Linn County 0.3264520 32.6 %
+2:  Benton County 0.3451481 34.5 %
+3: Lincoln County 0.3495164   35 %
+4:     LBL Region 0.3375136 33.8 %
+5:         Oregon 0.3350199 33.5 %
+
+[[62]]
+              cat     value Labels
+1:    Linn County 0.1346677 13.5 %
+2:  Benton County 0.1796013   18 %
+3: Lincoln County 0.1525965 15.3 %
+4:     LBL Region 0.1536296 15.4 %
+5:         Oregon 0.1506351 15.1 %
+
+[[63]]
+              cat     value Labels
+1:    Linn County 0.6897944   69 %
+2:  Benton County 0.7627692 76.3 %
+3: Lincoln County 0.6389406 63.9 %
+4:     LBL Region 0.7080733 70.8 %
+5:         Oregon 0.7202926   72 %
+
+[[64]]
+              cat     value Labels
+1:    Linn County 0.5440704 54.4 %
+2:  Benton County 0.4977706 49.8 %
+3: Lincoln County 0.4772017 47.7 %
+4:     LBL Region 0.5141019 51.4 %
+5:         Oregon 0.5539297 55.4 %
+
+[[65]]
+                            cat2           cat1     value Labels                                    catCross
+ 1:    Poverty rate - disability    Linn County 0.1825084 18.3 %       Linn County Poverty rate - disability
+ 2: Poverty rate - no disability    Linn County 0.1013713 10.1 %    Linn County Poverty rate - no disability
+ 3:    Poverty rate - disability  Benton County 0.1683400 16.8 %     Benton County Poverty rate - disability
+ 4: Poverty rate - no disability  Benton County 0.1592795 15.9 %  Benton County Poverty rate - no disability
+ 5:    Poverty rate - disability Lincoln County 0.1652012 16.5 %    Lincoln County Poverty rate - disability
+ 6: Poverty rate - no disability Lincoln County 0.1325341 13.3 % Lincoln County Poverty rate - no disability
+ 7:    Poverty rate - disability     LBL Region 0.1750165 17.5 %        LBL Region Poverty rate - disability
+ 8: Poverty rate - no disability     LBL Region 0.1280642 12.8 %     LBL Region Poverty rate - no disability
+ 9:    Poverty rate - disability         Oregon 0.1703579   17 %            Oregon Poverty rate - disability
+10: Poverty rate - no disability         Oregon 0.1065805 10.7 %         Oregon Poverty rate - no disability
+
