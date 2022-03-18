@@ -1,0 +1,1091 @@
+"Year","Place","Indicator Name","Indicator Value","Crosstabulation Factor","Crosstabulation Value","Numerator","Sample Size (N)","Percent"
+"2014-2017","Benton","Heart attack","Has had a heart attack","Total","Total",19.456,1024,0.019
+"2014-2017","Benton","Heart attack","Has never had a heart attack","Total","Total",1004.544,1024,0.981
+"2014-2017","Lincoln","Heart attack","Has had a heart attack","Total","Total",16.416,608,0.027
+"2014-2017","Lincoln","Heart attack","Has never had a heart attack","Total","Total",591.584,608,0.973
+"2014-2017","Linn","Heart attack","Has had a heart attack","Total","Total",57.454,1249,0.046
+"2014-2017","Linn","Heart attack","Has never had a heart attack","Total","Total",1191.546,1249,0.954
+"2014-2017","Benton","Heart attack","Has had a heart attack","Poverty","At or below 100% of Federal Poverty Level",736.542,747,0.986
+"2014-2017","Benton","Heart attack","Has had a heart attack","Poverty","Above 100% of Federal Poverty Level",10.458,747,0.014
+"2014-2017","Benton","Heart attack","Has never had a heart attack","Poverty","At or below 100% of Federal Poverty Level",104.007,111,0.937
+"2014-2017","Benton","Heart attack","Has never had a heart attack","Poverty","Above 100% of Federal Poverty Level",736.542,747,0.986
+"2014-2017","Lincoln","Heart attack","Has had a heart attack","Poverty","At or below 100% of Federal Poverty Level",434.56,448,0.97
+"2014-2017","Lincoln","Heart attack","Has had a heart attack","Poverty","Above 100% of Federal Poverty Level",13.44,448,0.03
+"2014-2017","Lincoln","Heart attack","Has never had a heart attack","Poverty","At or below 100% of Federal Poverty Level",61.677,63,0.979
+"2014-2017","Lincoln","Heart attack","Has never had a heart attack","Poverty","Above 100% of Federal Poverty Level",434.56,448,0.97
+"2014-2017","Linn","Heart attack","Has had a heart attack","Poverty","At or below 100% of Federal Poverty Level",8.19,126,0.065
+"2014-2017","Linn","Heart attack","Has had a heart attack","Poverty","Above 100% of Federal Poverty Level",42.394,902,0.047
+"2014-2017","Linn","Heart attack","Has never had a heart attack","Poverty","At or below 100% of Federal Poverty Level",117.81,126,0.935
+"2014-2017","Linn","Heart attack","Has never had a heart attack","Poverty","Above 100% of Federal Poverty Level",859.606,902,0.953
+"2014-2017","Benton","Heart attack","Has had a heart attack","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",829.226,841,0.986
+"2014-2017","Benton","Heart attack","Has had a heart attack","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",11.774,841,0.014
+"2014-2017","Benton","Heart attack","Has never had a heart attack","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",117.924,124,0.951
+"2014-2017","Benton","Heart attack","Has never had a heart attack","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",829.226,841,0.986
+"2014-2017","Lincoln","Heart attack","Has had a heart attack","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",6.954,114,0.061
+"2014-2017","Lincoln","Heart attack","Has had a heart attack","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",8.586,477,0.018
+"2014-2017","Lincoln","Heart attack","Has never had a heart attack","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",107.046,114,0.939
+"2014-2017","Lincoln","Heart attack","Has never had a heart attack","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",468.414,477,0.982
+"2014-2017","Linn","Heart attack","Has had a heart attack","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",7.38,205,0.036
+"2014-2017","Linn","Heart attack","Has had a heart attack","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",46.736,1016,0.046
+"2014-2017","Linn","Heart attack","Has never had a heart attack","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",197.62,205,0.964
+"2014-2017","Linn","Heart attack","Has never had a heart attack","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",969.264,1016,0.954
+"2014-2017","Benton","Stroke","Has had a stroke","Total","Total",16.4,1025,0.016
+"2014-2017","Benton","Stroke","Has never had a stroke","Total","Total",1008.6,1025,0.984
+"2014-2017","Lincoln","Stroke","Has had a stroke","Total","Total",29.472,614,0.048
+"2014-2017","Lincoln","Stroke","Has never had a stroke","Total","Total",584.528,614,0.952
+"2014-2017","Linn","Stroke","Has had a stroke","Total","Total",28.727,1249,0.023
+"2014-2017","Linn","Stroke","Has never had a stroke","Total","Total",1220.273,1249,0.977
+"2014-2017","Benton","Stroke","Has had a stroke","Poverty","At or below 100% of Federal Poverty Level",735.048,747,0.984
+"2014-2017","Benton","Stroke","Has had a stroke","Poverty","Above 100% of Federal Poverty Level",11.952,747,0.016
+"2014-2017","Benton","Stroke","Has never had a stroke","Poverty","At or below 100% of Federal Poverty Level",107.91,110,0.981
+"2014-2017","Benton","Stroke","Has never had a stroke","Poverty","Above 100% of Federal Poverty Level",735.048,747,0.984
+"2014-2017","Lincoln","Stroke","Has had a stroke","Poverty","At or below 100% of Federal Poverty Level",437.656,454,0.964
+"2014-2017","Lincoln","Stroke","Has had a stroke","Poverty","Above 100% of Federal Poverty Level",16.344,454,0.036
+"2014-2017","Lincoln","Stroke","Has never had a stroke","Poverty","At or below 100% of Federal Poverty Level",57.078,63,0.906
+"2014-2017","Lincoln","Stroke","Has never had a stroke","Poverty","Above 100% of Federal Poverty Level",437.656,454,0.964
+"2014-2017","Linn","Stroke","Has had a stroke","Poverty","At or below 100% of Federal Poverty Level",878.244,898,0.978
+"2014-2017","Linn","Stroke","Has had a stroke","Poverty","Above 100% of Federal Poverty Level",19.756,898,0.022
+"2014-2017","Linn","Stroke","Has never had a stroke","Poverty","At or below 100% of Federal Poverty Level",124.672,128,0.974
+"2014-2017","Linn","Stroke","Has never had a stroke","Poverty","Above 100% of Federal Poverty Level",878.244,898,0.978
+"2014-2017","Benton","Stroke","Has had a stroke","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",6.888,123,0.056
+"2014-2017","Benton","Stroke","Has had a stroke","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",10.959,843,0.013
+"2014-2017","Benton","Stroke","Has never had a stroke","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",116.112,123,0.944
+"2014-2017","Benton","Stroke","Has never had a stroke","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",832.041,843,0.987
+"2014-2017","Lincoln","Stroke","Has had a stroke","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",8.208,114,0.072
+"2014-2017","Lincoln","Stroke","Has had a stroke","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",20.286,483,0.042
+"2014-2017","Lincoln","Stroke","Has never had a stroke","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",105.792,114,0.928
+"2014-2017","Lincoln","Stroke","Has never had a stroke","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",462.714,483,0.958
+"2014-2017","Linn","Stroke","Has had a stroke","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",7.004,206,0.034
+"2014-2017","Linn","Stroke","Has had a stroke","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",21.315,1015,0.021
+"2014-2017","Linn","Stroke","Has never had a stroke","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",198.996,206,0.966
+"2014-2017","Linn","Stroke","Has never had a stroke","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",993.685,1015,0.979
+"2014-2017","Benton","Depression","Has been diagnosed with depression","Total","Total",244.736,1024,0.239
+"2014-2017","Benton","Depression","Has never been diagnosed with depression","Total","Total",779.264,1024,0.761
+"2014-2017","Lincoln","Depression","Has been diagnosed with depression","Total","Total",172.302,611,0.282
+"2014-2017","Lincoln","Depression","Has never been diagnosed with depression","Total","Total",438.698,611,0.718
+"2014-2017","Linn","Depression","Has been diagnosed with depression","Total","Total",361.34,1246,0.29
+"2014-2017","Linn","Depression","Has never been diagnosed with depression","Total","Total",884.66,1246,0.71
+"2014-2017","Benton","Depression","Has been diagnosed with depression","Poverty","At or below 100% of Federal Poverty Level",41.58,110,0.378
+"2014-2017","Benton","Depression","Has been diagnosed with depression","Poverty","Above 100% of Federal Poverty Level",174.284,748,0.233
+"2014-2017","Benton","Depression","Has never been diagnosed with depression","Poverty","At or below 100% of Federal Poverty Level",68.42,110,0.622
+"2014-2017","Benton","Depression","Has never been diagnosed with depression","Poverty","Above 100% of Federal Poverty Level",573.716,748,0.767
+"2014-2017","Lincoln","Depression","Has been diagnosed with depression","Poverty","At or below 100% of Federal Poverty Level",26.838,63,0.426
+"2014-2017","Lincoln","Depression","Has been diagnosed with depression","Poverty","Above 100% of Federal Poverty Level",126.387,453,0.279
+"2014-2017","Lincoln","Depression","Has never been diagnosed with depression","Poverty","At or below 100% of Federal Poverty Level",36.162,63,0.574
+"2014-2017","Lincoln","Depression","Has never been diagnosed with depression","Poverty","Above 100% of Federal Poverty Level",326.613,453,0.721
+"2014-2017","Linn","Depression","Has been diagnosed with depression","Poverty","At or below 100% of Federal Poverty Level",57.658,127,0.454
+"2014-2017","Linn","Depression","Has been diagnosed with depression","Poverty","Above 100% of Federal Poverty Level",220.255,899,0.245
+"2014-2017","Linn","Depression","Has never been diagnosed with depression","Poverty","At or below 100% of Federal Poverty Level",69.342,127,0.546
+"2014-2017","Linn","Depression","Has never been diagnosed with depression","Poverty","Above 100% of Federal Poverty Level",678.745,899,0.755
+"2014-2017","Benton","Depression","Has been diagnosed with depression","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",44.64,124,0.36
+"2014-2017","Benton","Depression","Has been diagnosed with depression","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",188.384,841,0.224
+"2014-2017","Benton","Depression","Has never been diagnosed with depression","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",79.36,124,0.64
+"2014-2017","Benton","Depression","Has never been diagnosed with depression","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",652.616,841,0.776
+"2014-2017","Lincoln","Depression","Has been diagnosed with depression","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",37.177,113,0.329
+"2014-2017","Lincoln","Depression","Has been diagnosed with depression","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",127.946,481,0.266
+"2014-2017","Lincoln","Depression","Has never been diagnosed with depression","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",75.823,113,0.671
+"2014-2017","Lincoln","Depression","Has never been diagnosed with depression","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",353.054,481,0.734
+"2014-2017","Linn","Depression","Has been diagnosed with depression","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",88.74,204,0.435
+"2014-2017","Linn","Depression","Has been diagnosed with depression","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",258.57,1014,0.255
+"2014-2017","Linn","Depression","Has never been diagnosed with depression","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",115.26,204,0.565
+"2014-2017","Linn","Depression","Has never been diagnosed with depression","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",755.43,1014,0.745
+"2014-2017","Benton","Binge drinking","Had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","Total","Total",137.6,800,0.172
+"2014-2017","Benton","Binge drinking","Has not had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","Total","Total",662.4,800,0.828
+"2014-2017","Lincoln","Binge drinking","Had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","Total","Total",91.455,455,0.201
+"2014-2017","Lincoln","Binge drinking","Has not had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","Total","Total",363.545,455,0.799
+"2014-2017","Linn","Binge drinking","Had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","Total","Total",129.064,949,0.136
+"2014-2017","Linn","Binge drinking","Has not had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","Total","Total",819.936,949,0.864
+"2014-2017","Benton","Binge drinking","Had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","Poverty","At or below 100% of Federal Poverty Level",14.787,93,0.159
+"2014-2017","Benton","Binge drinking","Had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","Poverty","Above 100% of Federal Poverty Level",103.894,574,0.181
+"2014-2017","Benton","Binge drinking","Has not had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","Poverty","At or below 100% of Federal Poverty Level",78.213,93,0.841
+"2014-2017","Benton","Binge drinking","Has not had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","Poverty","Above 100% of Federal Poverty Level",470.106,574,0.819
+"2014-2017","Lincoln","Binge drinking","Had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","Poverty","At or below 100% of Federal Poverty Level",5.1,51,0.1
+"2014-2017","Lincoln","Binge drinking","Had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","Poverty","Above 100% of Federal Poverty Level",88.236,342,0.258
+"2014-2017","Lincoln","Binge drinking","Has not had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","Poverty","At or below 100% of Federal Poverty Level",45.9,51,0.9
+"2014-2017","Lincoln","Binge drinking","Has not had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","Poverty","Above 100% of Federal Poverty Level",253.764,342,0.742
+"2014-2017","Linn","Binge drinking","Had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","Poverty","At or below 100% of Federal Poverty Level",16.236,99,0.164
+"2014-2017","Linn","Binge drinking","Had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","Poverty","Above 100% of Federal Poverty Level",101.324,694,0.146
+"2014-2017","Linn","Binge drinking","Has not had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","Poverty","At or below 100% of Federal Poverty Level",82.764,99,0.836
+"2014-2017","Linn","Binge drinking","Has not had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","Poverty","Above 100% of Federal Poverty Level",592.676,694,0.854
+"2014-2017","Benton","Binge drinking","Had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",18.72,96,0.195
+"2014-2017","Benton","Binge drinking","Had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",107.402,647,0.166
+"2014-2017","Benton","Binge drinking","Has not had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",77.28,96,0.805
+"2014-2017","Benton","Binge drinking","Has not had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",539.598,647,0.834
+"2014-2017","Lincoln","Binge drinking","Had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",13.776,84,0.164
+"2014-2017","Lincoln","Binge drinking","Had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",84.135,355,0.237
+"2014-2017","Lincoln","Binge drinking","Has not had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",70.224,84,0.836
+"2014-2017","Lincoln","Binge drinking","Has not had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",270.865,355,0.763
+"2014-2017","Linn","Binge drinking","Had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",12.879,159,0.081
+"2014-2017","Linn","Binge drinking","Had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",122.56,766,0.16
+"2014-2017","Linn","Binge drinking","Has not had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",146.121,159,0.919
+"2014-2017","Linn","Binge drinking","Has not had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",643.44,766,0.84
+"2014-2017","Benton","Heavy drinking","Had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","Total","Total",54.648,792,0.069
+"2014-2017","Benton","Heavy drinking","Has not had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","Total","Total",737.352,792,0.931
+"2014-2017","Lincoln","Heavy drinking","Had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","Total","Total",53.907,453,0.119
+"2014-2017","Lincoln","Heavy drinking","Has not had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","Total","Total",399.093,453,0.881
+"2014-2017","Linn","Heavy drinking","Had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","Total","Total",50.138,946,0.053
+"2014-2017","Linn","Heavy drinking","Has not had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","Total","Total",895.862,946,0.947
+"2014-2017","Benton","Heavy drinking","Had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","Poverty","At or below 100% of Federal Poverty Level",6.674,94,0.071
+"2014-2017","Benton","Heavy drinking","Had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","Poverty","Above 100% of Federal Poverty Level",38.556,567,0.068
+"2014-2017","Benton","Heavy drinking","Has not had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","Poverty","At or below 100% of Federal Poverty Level",87.326,94,0.929
+"2014-2017","Benton","Heavy drinking","Has not had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","Poverty","Above 100% of Federal Poverty Level",528.444,567,0.932
+"2014-2017","Lincoln","Heavy drinking","Had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","Poverty","At or below 100% of Federal Poverty Level",286.781,341,0.841
+"2014-2017","Lincoln","Heavy drinking","Had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","Poverty","Above 100% of Federal Poverty Level",54.219,341,0.159
+"2014-2017","Lincoln","Heavy drinking","Has not had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","Poverty","At or below 100% of Federal Poverty Level",46.8,50,0.936
+"2014-2017","Lincoln","Heavy drinking","Has not had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","Poverty","Above 100% of Federal Poverty Level",286.781,341,0.841
+"2014-2017","Linn","Heavy drinking","Had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","Poverty","At or below 100% of Federal Poverty Level",5.643,99,0.057
+"2014-2017","Linn","Heavy drinking","Had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","Poverty","Above 100% of Federal Poverty Level",40.769,691,0.059
+"2014-2017","Linn","Heavy drinking","Has not had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","Poverty","At or below 100% of Federal Poverty Level",93.357,99,0.943
+"2014-2017","Linn","Heavy drinking","Has not had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","Poverty","Above 100% of Federal Poverty Level",650.231,691,0.941
+"2014-2017","Benton","Heavy drinking","Had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",8.64,96,0.09
+"2014-2017","Benton","Heavy drinking","Had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",43.384,638,0.068
+"2014-2017","Benton","Heavy drinking","Has not had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",87.36,96,0.91
+"2014-2017","Benton","Heavy drinking","Has not had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",594.616,638,0.932
+"2014-2017","Lincoln","Heavy drinking","Had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",5.229,83,0.063
+"2014-2017","Lincoln","Heavy drinking","Had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",52.746,354,0.149
+"2014-2017","Lincoln","Heavy drinking","Has not had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",77.771,83,0.937
+"2014-2017","Lincoln","Heavy drinking","Has not had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",301.254,354,0.851
+"2014-2017","Linn","Heavy drinking","Had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",6.44,161,0.04
+"2014-2017","Linn","Heavy drinking","Had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",44.138,761,0.058
+"2014-2017","Linn","Heavy drinking","Has not had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",154.56,161,0.96
+"2014-2017","Linn","Heavy drinking","Has not had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",716.862,761,0.942
+"2014-2017","Benton","Marijuana use","Used marijuana or hashish for 1-30 days during the past 30 days","Total","Total",64.548,326,0.198
+"2014-2017","Benton","Marijuana use","Did not use marijuana or hashish any days during the past 30 days","Total","Total",261.452,326,0.802
+"2014-2017","Lincoln","Marijuana use","Used marijuana or hashish for 1-30 days during the past 30 days","Total","Total",70.246,206,0.341
+"2014-2017","Lincoln","Marijuana use","Did not use marijuana or hashish any days during the past 30 days","Total","Total",135.754,206,0.659
+"2014-2017","Linn","Marijuana use","Used marijuana or hashish for 1-30 days during the past 30 days","Total","Total",60.489,423,0.143
+"2014-2017","Linn","Marijuana use","Did not use marijuana or hashish any days during the past 30 days","Total","Total",362.511,423,0.857
+"2014-2017","Benton","Marijuana use","Used marijuana or hashish for 1-30 days during the past 30 days","Poverty","At or below 100% of Federal Poverty Level",190.961,239,0.799
+"2014-2017","Benton","Marijuana use","Used marijuana or hashish for 1-30 days during the past 30 days","Poverty","Above 100% of Federal Poverty Level",48.039,239,0.201
+"2014-2017","Benton","Marijuana use","Did not use marijuana or hashish any days during the past 30 days","Poverty","At or below 100% of Federal Poverty Level",48.039,239,0.201
+"2014-2017","Benton","Marijuana use","Did not use marijuana or hashish any days during the past 30 days","Poverty","Above 100% of Federal Poverty Level",190.961,239,0.799
+"2014-2017","Lincoln","Marijuana use","Used marijuana or hashish for 1-30 days during the past 30 days","Poverty","At or below 100% of Federal Poverty Level",108.108,156,0.693
+"2014-2017","Lincoln","Marijuana use","Used marijuana or hashish for 1-30 days during the past 30 days","Poverty","Above 100% of Federal Poverty Level",47.892,156,0.307
+"2014-2017","Lincoln","Marijuana use","Did not use marijuana or hashish any days during the past 30 days","Poverty","At or below 100% of Federal Poverty Level",47.892,156,0.307
+"2014-2017","Lincoln","Marijuana use","Did not use marijuana or hashish any days during the past 30 days","Poverty","Above 100% of Federal Poverty Level",108.108,156,0.693
+"2014-2017","Linn","Marijuana use","Used marijuana or hashish for 1-30 days during the past 30 days","Poverty","At or below 100% of Federal Poverty Level",257.3,310,0.83
+"2014-2017","Linn","Marijuana use","Used marijuana or hashish for 1-30 days during the past 30 days","Poverty","Above 100% of Federal Poverty Level",52.7,310,0.17
+"2014-2017","Linn","Marijuana use","Did not use marijuana or hashish any days during the past 30 days","Poverty","At or below 100% of Federal Poverty Level",52.7,310,0.17
+"2014-2017","Linn","Marijuana use","Did not use marijuana or hashish any days during the past 30 days","Poverty","Above 100% of Federal Poverty Level",257.3,310,0.83
+"2014-2017","Benton","Marijuana use","Used marijuana or hashish for 1-30 days during the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",231.849,277,0.837
+"2014-2017","Benton","Marijuana use","Used marijuana or hashish for 1-30 days during the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",45.151,277,0.163
+"2014-2017","Benton","Marijuana use","Did not use marijuana or hashish any days during the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",45.151,277,0.163
+"2014-2017","Benton","Marijuana use","Did not use marijuana or hashish any days during the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",231.849,277,0.837
+"2014-2017","Lincoln","Marijuana use","Used marijuana or hashish for 1-30 days during the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",98.864,167,0.592
+"2014-2017","Lincoln","Marijuana use","Used marijuana or hashish for 1-30 days during the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",68.136,167,0.408
+"2014-2017","Lincoln","Marijuana use","Did not use marijuana or hashish any days during the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",68.136,167,0.408
+"2014-2017","Lincoln","Marijuana use","Did not use marijuana or hashish any days during the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",98.864,167,0.592
+"2014-2017","Linn","Marijuana use","Used marijuana or hashish for 1-30 days during the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",12.525,75,0.167
+"2014-2017","Linn","Marijuana use","Used marijuana or hashish for 1-30 days during the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",46.98,348,0.135
+"2014-2017","Linn","Marijuana use","Did not use marijuana or hashish any days during the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",62.475,75,0.833
+"2014-2017","Linn","Marijuana use","Did not use marijuana or hashish any days during the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",301.02,348,0.865
+"2014-2017","Benton","Dental visits","Has visited the dentist for any reason within the past year","Total","Total",493.953,719,0.687
+"2014-2017","Benton","Dental visits","Has not visited the dentist for any reason within the past year","Total","Total",225.047,719,0.313
+"2014-2017","Lincoln","Dental visits","Has visited the dentist for any reason within the past year","Total","Total",252.588,434,0.582
+"2014-2017","Lincoln","Dental visits","Has not visited the dentist for any reason within the past year","Total","Total",181.412,434,0.418
+"2014-2017","Linn","Dental visits","Has visited the dentist for any reason within the past year","Total","Total",548.964,897,0.612
+"2014-2017","Linn","Dental visits","Has not visited the dentist for any reason within the past year","Total","Total",348.036,897,0.388
+"2014-2017","Benton","Dental visits","Has visited the dentist for any reason within the past year","Poverty","At or below 100% of Federal Poverty Level",46.916,74,0.634
+"2014-2017","Benton","Dental visits","Has visited the dentist for any reason within the past year","Poverty","Above 100% of Federal Poverty Level",362.781,519,0.699
+"2014-2017","Benton","Dental visits","Has not visited the dentist for any reason within the past year","Poverty","At or below 100% of Federal Poverty Level",27.084,74,0.366
+"2014-2017","Benton","Dental visits","Has not visited the dentist for any reason within the past year","Poverty","Above 100% of Federal Poverty Level",156.219,519,0.301
+"2014-2017","Lincoln","Dental visits","Has visited the dentist for any reason within the past year","Poverty","At or below 100% of Federal Poverty Level",117,325,0.36
+"2014-2017","Lincoln","Dental visits","Has visited the dentist for any reason within the past year","Poverty","Above 100% of Federal Poverty Level",208,325,0.64
+"2014-2017","Lincoln","Dental visits","Has not visited the dentist for any reason within the past year","Poverty","At or below 100% of Federal Poverty Level",208,325,0.64
+"2014-2017","Lincoln","Dental visits","Has not visited the dentist for any reason within the past year","Poverty","Above 100% of Federal Poverty Level",117,325,0.36
+"2014-2017","Linn","Dental visits","Has visited the dentist for any reason within the past year","Poverty","At or below 100% of Federal Poverty Level",40.608,94,0.432
+"2014-2017","Linn","Dental visits","Has visited the dentist for any reason within the past year","Poverty","Above 100% of Federal Poverty Level",413.449,643,0.643
+"2014-2017","Linn","Dental visits","Has not visited the dentist for any reason within the past year","Poverty","At or below 100% of Federal Poverty Level",53.392,94,0.568
+"2014-2017","Linn","Dental visits","Has not visited the dentist for any reason within the past year","Poverty","Above 100% of Federal Poverty Level",229.551,643,0.357
+"2014-2017","Benton","Dental visits","Has visited the dentist for any reason within the past year","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",46.452,84,0.553
+"2014-2017","Benton","Dental visits","Has visited the dentist for any reason within the past year","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",430.26,606,0.71
+"2014-2017","Benton","Dental visits","Has not visited the dentist for any reason within the past year","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",37.548,84,0.447
+"2014-2017","Benton","Dental visits","Has not visited the dentist for any reason within the past year","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",175.74,606,0.29
+"2014-2017","Lincoln","Dental visits","Has visited the dentist for any reason within the past year","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",39.68,80,0.496
+"2014-2017","Lincoln","Dental visits","Has visited the dentist for any reason within the past year","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",210.976,347,0.608
+"2014-2017","Lincoln","Dental visits","Has not visited the dentist for any reason within the past year","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",40.32,80,0.504
+"2014-2017","Lincoln","Dental visits","Has not visited the dentist for any reason within the past year","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",136.024,347,0.392
+"2014-2017","Linn","Dental visits","Has visited the dentist for any reason within the past year","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",72.385,155,0.467
+"2014-2017","Linn","Dental visits","Has visited the dentist for any reason within the past year","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",486.496,736,0.661
+"2014-2017","Linn","Dental visits","Has not visited the dentist for any reason within the past year","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",82.615,155,0.533
+"2014-2017","Linn","Dental visits","Has not visited the dentist for any reason within the past year","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",249.504,736,0.339
+"2014-2017","Benton","Tooth loss","Had 1 or more permanent teeth removed because of tooth decay or gum disease","Total","Total",176.714,593,0.298
+"2014-2017","Benton","Tooth loss","No permanent teeth removed because of tooth decay or gum disease","Total","Total",416.286,593,0.702
+"2014-2017","Lincoln","Tooth loss","Had 1 or more permanent teeth removed because of tooth decay or gum disease","Total","Total",158.346,342,0.463
+"2014-2017","Lincoln","Tooth loss","No permanent teeth removed because of tooth decay or gum disease","Total","Total",183.654,342,0.537
+"2014-2017","Linn","Tooth loss","Had 1 or more permanent teeth removed because of tooth decay or gum disease","Total","Total",325.974,726,0.449
+"2014-2017","Linn","Tooth loss","No permanent teeth removed because of tooth decay or gum disease","Total","Total",400.026,726,0.551
+"2014-2017","Benton","Tooth loss","Had 1 or more permanent teeth removed because of tooth decay or gum disease","Poverty","At or below 100% of Federal Poverty Level",23.954,59,0.406
+"2014-2017","Benton","Tooth loss","Had 1 or more permanent teeth removed because of tooth decay or gum disease","Poverty","Above 100% of Federal Poverty Level",114.904,424,0.271
+"2014-2017","Benton","Tooth loss","No permanent teeth removed because of tooth decay or gum disease","Poverty","At or below 100% of Federal Poverty Level",35.046,59,0.594
+"2014-2017","Benton","Tooth loss","No permanent teeth removed because of tooth decay or gum disease","Poverty","Above 100% of Federal Poverty Level",309.096,424,0.729
+"2014-2017","Lincoln","Tooth loss","Had 1 or more permanent teeth removed because of tooth decay or gum disease","Poverty","At or below 100% of Federal Poverty Level",151.962,258,0.589
+"2014-2017","Lincoln","Tooth loss","Had 1 or more permanent teeth removed because of tooth decay or gum disease","Poverty","Above 100% of Federal Poverty Level",106.038,258,0.411
+"2014-2017","Lincoln","Tooth loss","No permanent teeth removed because of tooth decay or gum disease","Poverty","At or below 100% of Federal Poverty Level",106.038,258,0.411
+"2014-2017","Lincoln","Tooth loss","No permanent teeth removed because of tooth decay or gum disease","Poverty","Above 100% of Federal Poverty Level",151.962,258,0.589
+"2014-2017","Linn","Tooth loss","Had 1 or more permanent teeth removed because of tooth decay or gum disease","Poverty","At or below 100% of Federal Poverty Level",48.168,72,0.669
+"2014-2017","Linn","Tooth loss","Had 1 or more permanent teeth removed because of tooth decay or gum disease","Poverty","Above 100% of Federal Poverty Level",192.832,524,0.368
+"2014-2017","Linn","Tooth loss","No permanent teeth removed because of tooth decay or gum disease","Poverty","At or below 100% of Federal Poverty Level",23.832,72,0.331
+"2014-2017","Linn","Tooth loss","No permanent teeth removed because of tooth decay or gum disease","Poverty","Above 100% of Federal Poverty Level",331.168,524,0.632
+"2014-2017","Benton","Tooth loss","Had 1 or more permanent teeth removed because of tooth decay or gum disease","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",27.93,70,0.399
+"2014-2017","Benton","Tooth loss","Had 1 or more permanent teeth removed because of tooth decay or gum disease","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",132.886,494,0.269
+"2014-2017","Benton","Tooth loss","No permanent teeth removed because of tooth decay or gum disease","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",42.07,70,0.601
+"2014-2017","Benton","Tooth loss","No permanent teeth removed because of tooth decay or gum disease","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",361.114,494,0.731
+"2014-2017","Lincoln","Tooth loss","Had 1 or more permanent teeth removed because of tooth decay or gum disease","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",35.706,66,0.541
+"2014-2017","Lincoln","Tooth loss","Had 1 or more permanent teeth removed because of tooth decay or gum disease","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",115.67,269,0.43
+"2014-2017","Lincoln","Tooth loss","No permanent teeth removed because of tooth decay or gum disease","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",30.294,66,0.459
+"2014-2017","Lincoln","Tooth loss","No permanent teeth removed because of tooth decay or gum disease","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",153.33,269,0.57
+"2014-2017","Linn","Tooth loss","Had 1 or more permanent teeth removed because of tooth decay or gum disease","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",80.434,131,0.614
+"2014-2017","Linn","Tooth loss","Had 1 or more permanent teeth removed because of tooth decay or gum disease","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",226.765,589,0.385
+"2014-2017","Linn","Tooth loss","No permanent teeth removed because of tooth decay or gum disease","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",50.566,131,0.386
+"2014-2017","Linn","Tooth loss","No permanent teeth removed because of tooth decay or gum disease","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",362.235,589,0.615
+"2014-2017","Benton","Influenza vaccination","Received an influenza vaccination in the last year","Total","Total",224.7,535,0.42
+"2014-2017","Benton","Influenza vaccination","Did not receive an influenza vaccination in the last year","Total","Total",310.3,535,0.58
+"2014-2017","Lincoln","Influenza vaccination","Received an influenza vaccination in the last year","Total","Total",80.5,322,0.25
+"2014-2017","Lincoln","Influenza vaccination","Did not receive an influenza vaccination in the last year","Total","Total",241.5,322,0.75
+"2014-2017","Linn","Influenza vaccination","Received an influenza vaccination in the last year","Total","Total",229.203,653,0.351
+"2014-2017","Linn","Influenza vaccination","Did not receive an influenza vaccination in the last year","Total","Total",423.797,653,0.649
+"2014-2017","Benton","Influenza vaccination","Received an influenza vaccination in the last year","Poverty","At or below 100% of Federal Poverty Level",29.28,60,0.488
+"2014-2017","Benton","Influenza vaccination","Received an influenza vaccination in the last year","Poverty","Above 100% of Federal Poverty Level",168.296,386,0.436
+"2014-2017","Benton","Influenza vaccination","Did not receive an influenza vaccination in the last year","Poverty","At or below 100% of Federal Poverty Level",30.72,60,0.512
+"2014-2017","Benton","Influenza vaccination","Did not receive an influenza vaccination in the last year","Poverty","Above 100% of Federal Poverty Level",217.704,386,0.564
+"2014-2017","Lincoln","Influenza vaccination","Received an influenza vaccination in the last year","Poverty","At or below 100% of Federal Poverty Level",185.372,242,0.766
+"2014-2017","Lincoln","Influenza vaccination","Received an influenza vaccination in the last year","Poverty","Above 100% of Federal Poverty Level",56.628,242,0.234
+"2014-2017","Lincoln","Influenza vaccination","Did not receive an influenza vaccination in the last year","Poverty","At or below 100% of Federal Poverty Level",56.628,242,0.234
+"2014-2017","Lincoln","Influenza vaccination","Did not receive an influenza vaccination in the last year","Poverty","Above 100% of Federal Poverty Level",185.372,242,0.766
+"2014-2017","Linn","Influenza vaccination","Received an influenza vaccination in the last year","Poverty","At or below 100% of Federal Poverty Level",24.84,72,0.345
+"2014-2017","Linn","Influenza vaccination","Received an influenza vaccination in the last year","Poverty","Above 100% of Federal Poverty Level",153.272,476,0.322
+"2014-2017","Linn","Influenza vaccination","Did not receive an influenza vaccination in the last year","Poverty","At or below 100% of Federal Poverty Level",47.16,72,0.655
+"2014-2017","Linn","Influenza vaccination","Did not receive an influenza vaccination in the last year","Poverty","Above 100% of Federal Poverty Level",322.728,476,0.678
+"2014-2017","Benton","Influenza vaccination","Received an influenza vaccination in the last year","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",28.14,67,0.42
+"2014-2017","Benton","Influenza vaccination","Received an influenza vaccination in the last year","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",164.4,411,0.4
+"2014-2017","Benton","Influenza vaccination","Did not receive an influenza vaccination in the last year","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",38.86,67,0.58
+"2014-2017","Benton","Influenza vaccination","Did not receive an influenza vaccination in the last year","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",246.6,411,0.6
+"2014-2017","Lincoln","Influenza vaccination","Received an influenza vaccination in the last year","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",16.415,67,0.245
+"2014-2017","Lincoln","Influenza vaccination","Received an influenza vaccination in the last year","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",57.358,241,0.238
+"2014-2017","Lincoln","Influenza vaccination","Did not receive an influenza vaccination in the last year","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",50.585,67,0.755
+"2014-2017","Lincoln","Influenza vaccination","Did not receive an influenza vaccination in the last year","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",183.642,241,0.762
+"2014-2017","Linn","Influenza vaccination","Received an influenza vaccination in the last year","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",39.088,112,0.349
+"2014-2017","Linn","Influenza vaccination","Received an influenza vaccination in the last year","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",178.365,517,0.345
+"2014-2017","Linn","Influenza vaccination","Did not receive an influenza vaccination in the last year","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",72.912,112,0.651
+"2014-2017","Linn","Influenza vaccination","Did not receive an influenza vaccination in the last year","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",338.635,517,0.655
+"2014-2017","Benton","Adverse childhood experiences (ACEs)","Had 4 or more adverse childhood experiences","Total","Total",55.188,292,0.189
+"2014-2017","Benton","Adverse childhood experiences (ACEs)","Had fewer than 4 adverse childhood experiences","Total","Total",236.812,292,0.811
+"2014-2017","Lincoln","Adverse childhood experiences (ACEs)","Had 4 or more adverse childhood experiences","Total","Total",45.084,156,0.289
+"2014-2017","Lincoln","Adverse childhood experiences (ACEs)","Had fewer than 4 adverse childhood experiences","Total","Total",110.916,156,0.711
+"2014-2017","Linn","Adverse childhood experiences (ACEs)","Had 4 or more adverse childhood experiences","Total","Total",72.105,345,0.209
+"2014-2017","Linn","Adverse childhood experiences (ACEs)","Had fewer than 4 adverse childhood experiences","Total","Total",272.895,345,0.791
+"2014-2017","Benton","Adverse childhood experiences (ACEs)","Had 4 or more adverse childhood experiences","Poverty","At or below 100% of Federal Poverty Level",163.452,212,0.771
+"2014-2017","Benton","Adverse childhood experiences (ACEs)","Had 4 or more adverse childhood experiences","Poverty","Above 100% of Federal Poverty Level",48.548,212,0.229
+"2014-2017","Benton","Adverse childhood experiences (ACEs)","Had fewer than 4 adverse childhood experiences","Poverty","At or below 100% of Federal Poverty Level",48.548,212,0.229
+"2014-2017","Benton","Adverse childhood experiences (ACEs)","Had fewer than 4 adverse childhood experiences","Poverty","Above 100% of Federal Poverty Level",163.452,212,0.771
+"2014-2017","Lincoln","Adverse childhood experiences (ACEs)","Had 4 or more adverse childhood experiences","Poverty","At or below 100% of Federal Poverty Level",88.451,121,0.731
+"2014-2017","Lincoln","Adverse childhood experiences (ACEs)","Had 4 or more adverse childhood experiences","Poverty","Above 100% of Federal Poverty Level",32.549,121,0.269
+"2014-2017","Lincoln","Adverse childhood experiences (ACEs)","Had fewer than 4 adverse childhood experiences","Poverty","At or below 100% of Federal Poverty Level",32.549,121,0.269
+"2014-2017","Lincoln","Adverse childhood experiences (ACEs)","Had fewer than 4 adverse childhood experiences","Poverty","Above 100% of Federal Poverty Level",88.451,121,0.731
+"2014-2017","Linn","Adverse childhood experiences (ACEs)","Had 4 or more adverse childhood experiences","Poverty","At or below 100% of Federal Poverty Level",194.796,252,0.773
+"2014-2017","Linn","Adverse childhood experiences (ACEs)","Had 4 or more adverse childhood experiences","Poverty","Above 100% of Federal Poverty Level",57.204,252,0.227
+"2014-2017","Linn","Adverse childhood experiences (ACEs)","Had fewer than 4 adverse childhood experiences","Poverty","At or below 100% of Federal Poverty Level",57.204,252,0.227
+"2014-2017","Linn","Adverse childhood experiences (ACEs)","Had fewer than 4 adverse childhood experiences","Poverty","Above 100% of Federal Poverty Level",194.796,252,0.773
+"2014-2017","Benton","Adverse childhood experiences (ACEs)","Had 4 or more adverse childhood experiences","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",210.86,260,0.811
+"2014-2017","Benton","Adverse childhood experiences (ACEs)","Had 4 or more adverse childhood experiences","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",49.14,260,0.189
+"2014-2017","Benton","Adverse childhood experiences (ACEs)","Had fewer than 4 adverse childhood experiences","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",49.14,260,0.189
+"2014-2017","Benton","Adverse childhood experiences (ACEs)","Had fewer than 4 adverse childhood experiences","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",210.86,260,0.811
+"2014-2017","Lincoln","Adverse childhood experiences (ACEs)","Had 4 or more adverse childhood experiences","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",88.842,134,0.663
+"2014-2017","Lincoln","Adverse childhood experiences (ACEs)","Had 4 or more adverse childhood experiences","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",45.158,134,0.337
+"2014-2017","Lincoln","Adverse childhood experiences (ACEs)","Had fewer than 4 adverse childhood experiences","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",45.158,134,0.337
+"2014-2017","Lincoln","Adverse childhood experiences (ACEs)","Had fewer than 4 adverse childhood experiences","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",88.842,134,0.663
+"2014-2017","Linn","Adverse childhood experiences (ACEs)","Had 4 or more adverse childhood experiences","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",16.472,58,0.284
+"2014-2017","Linn","Adverse childhood experiences (ACEs)","Had 4 or more adverse childhood experiences","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",52.91,286,0.185
+"2014-2017","Linn","Adverse childhood experiences (ACEs)","Had fewer than 4 adverse childhood experiences","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",41.528,58,0.716
+"2014-2017","Linn","Adverse childhood experiences (ACEs)","Had fewer than 4 adverse childhood experiences","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",233.09,286,0.815
+"2014-2017","Benton","Hypertension","Has been diagnosed with high blood pressure (not including during pregnancy)","Total","Total",82.249,353,0.233
+"2014-2017","Benton","Hypertension","Has never been diagnosed with high blood pressure (not including during pregnancy)","Total","Total",270.751,353,0.767
+"2014-2017","Lincoln","Hypertension","Has been diagnosed with high blood pressure (not including during pregnancy)","Total","Total",59.073,203,0.291
+"2014-2017","Lincoln","Hypertension","Has never been diagnosed with high blood pressure (not including during pregnancy)","Total","Total",143.927,203,0.709
+"2014-2017","Linn","Hypertension","Has been diagnosed with high blood pressure (not including during pregnancy)","Total","Total",118.656,412,0.288
+"2014-2017","Linn","Hypertension","Has never been diagnosed with high blood pressure (not including during pregnancy)","Total","Total",293.344,412,0.712
+"2014-2017","Benton","Hypertension","Has been diagnosed with high blood pressure (not including during pregnancy)","Poverty","At or below 100% of Federal Poverty Level",194.549,257,0.757
+"2014-2017","Benton","Hypertension","Has been diagnosed with high blood pressure (not including during pregnancy)","Poverty","Above 100% of Federal Poverty Level",62.451,257,0.243
+"2014-2017","Benton","Hypertension","Has never been diagnosed with high blood pressure (not including during pregnancy)","Poverty","At or below 100% of Federal Poverty Level",62.451,257,0.243
+"2014-2017","Benton","Hypertension","Has never been diagnosed with high blood pressure (not including during pregnancy)","Poverty","Above 100% of Federal Poverty Level",194.549,257,0.757
+"2014-2017","Lincoln","Hypertension","Has been diagnosed with high blood pressure (not including during pregnancy)","Poverty","At or below 100% of Federal Poverty Level",106.281,147,0.723
+"2014-2017","Lincoln","Hypertension","Has been diagnosed with high blood pressure (not including during pregnancy)","Poverty","Above 100% of Federal Poverty Level",40.719,147,0.277
+"2014-2017","Lincoln","Hypertension","Has never been diagnosed with high blood pressure (not including during pregnancy)","Poverty","At or below 100% of Federal Poverty Level",40.719,147,0.277
+"2014-2017","Lincoln","Hypertension","Has never been diagnosed with high blood pressure (not including during pregnancy)","Poverty","Above 100% of Federal Poverty Level",106.281,147,0.723
+"2014-2017","Linn","Hypertension","Has been diagnosed with high blood pressure (not including during pregnancy)","Poverty","At or below 100% of Federal Poverty Level",9.75,50,0.195
+"2014-2017","Linn","Hypertension","Has been diagnosed with high blood pressure (not including during pregnancy)","Poverty","Above 100% of Federal Poverty Level",83.505,293,0.285
+"2014-2017","Linn","Hypertension","Has never been diagnosed with high blood pressure (not including during pregnancy)","Poverty","At or below 100% of Federal Poverty Level",40.25,50,0.805
+"2014-2017","Linn","Hypertension","Has never been diagnosed with high blood pressure (not including during pregnancy)","Poverty","Above 100% of Federal Poverty Level",209.495,293,0.715
+"2014-2017","Benton","Hypertension","Has been diagnosed with high blood pressure (not including during pregnancy)","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",218.12,280,0.779
+"2014-2017","Benton","Hypertension","Has been diagnosed with high blood pressure (not including during pregnancy)","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",61.88,280,0.221
+"2014-2017","Benton","Hypertension","Has never been diagnosed with high blood pressure (not including during pregnancy)","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",61.88,280,0.221
+"2014-2017","Benton","Hypertension","Has never been diagnosed with high blood pressure (not including during pregnancy)","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",218.12,280,0.779
+"2014-2017","Lincoln","Hypertension","Has been diagnosed with high blood pressure (not including during pregnancy)","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",104.04,153,0.68
+"2014-2017","Lincoln","Hypertension","Has been diagnosed with high blood pressure (not including during pregnancy)","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",48.96,153,0.32
+"2014-2017","Lincoln","Hypertension","Has never been diagnosed with high blood pressure (not including during pregnancy)","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",48.96,153,0.32
+"2014-2017","Lincoln","Hypertension","Has never been diagnosed with high blood pressure (not including during pregnancy)","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",104.04,153,0.68
+"2014-2017","Linn","Hypertension","Has been diagnosed with high blood pressure (not including during pregnancy)","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",18.075,75,0.241
+"2014-2017","Linn","Hypertension","Has been diagnosed with high blood pressure (not including during pregnancy)","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",96.99,318,0.305
+"2014-2017","Linn","Hypertension","Has never been diagnosed with high blood pressure (not including during pregnancy)","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",56.925,75,0.759
+"2014-2017","Linn","Hypertension","Has never been diagnosed with high blood pressure (not including during pregnancy)","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",221.01,318,0.695
+"2014-2017","Benton","Overweight or obese","Overweight (BMI = 25)","Total","Total",523.369,971,0.539
+"2014-2017","Benton","Overweight or obese","Not overweight  (BMI < 25)","Total","Total",447.631,971,0.461
+"2014-2017","Lincoln","Overweight or obese","Overweight (BMI = 25)","Total","Total",367.334,566,0.649
+"2014-2017","Lincoln","Overweight or obese","Not overweight  (BMI < 25)","Total","Total",198.666,566,0.351
+"2014-2017","Linn","Overweight or obese","Overweight (BMI = 25)","Total","Total",793.952,1154,0.688
+"2014-2017","Linn","Overweight or obese","Not overweight  (BMI < 25)","Total","Total",360.048,1154,0.312
+"2014-2017","Benton","Overweight or obese","Overweight (BMI = 25)","Poverty","At or below 100% of Federal Poverty Level",62.4,104,0.6
+"2014-2017","Benton","Overweight or obese","Overweight (BMI = 25)","Poverty","Above 100% of Federal Poverty Level",389.874,718,0.543
+"2014-2017","Benton","Overweight or obese","Not overweight  (BMI < 25)","Poverty","At or below 100% of Federal Poverty Level",41.6,104,0.4
+"2014-2017","Benton","Overweight or obese","Not overweight  (BMI < 25)","Poverty","Above 100% of Federal Poverty Level",328.126,718,0.457
+"2014-2017","Lincoln","Overweight or obese","Overweight (BMI = 25)","Poverty","At or below 100% of Federal Poverty Level",33.118,58,0.571
+"2014-2017","Lincoln","Overweight or obese","Overweight (BMI = 25)","Poverty","Above 100% of Federal Poverty Level",307.02,430,0.714
+"2014-2017","Lincoln","Overweight or obese","Not overweight  (BMI < 25)","Poverty","At or below 100% of Federal Poverty Level",24.882,58,0.429
+"2014-2017","Lincoln","Overweight or obese","Not overweight  (BMI < 25)","Poverty","Above 100% of Federal Poverty Level",122.98,430,0.286
+"2014-2017","Linn","Overweight or obese","Overweight (BMI = 25)","Poverty","At or below 100% of Federal Poverty Level",79.768,118,0.676
+"2014-2017","Linn","Overweight or obese","Overweight (BMI = 25)","Poverty","Above 100% of Federal Poverty Level",597.252,852,0.701
+"2014-2017","Linn","Overweight or obese","Not overweight  (BMI < 25)","Poverty","At or below 100% of Federal Poverty Level",38.232,118,0.324
+"2014-2017","Linn","Overweight or obese","Not overweight  (BMI < 25)","Poverty","Above 100% of Federal Poverty Level",254.748,852,0.299
+"2014-2017","Benton","Overweight or obese","Overweight (BMI = 25)","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",65.088,113,0.576
+"2014-2017","Benton","Overweight or obese","Overweight (BMI = 25)","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",430.938,801,0.538
+"2014-2017","Benton","Overweight or obese","Not overweight  (BMI < 25)","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",47.912,113,0.424
+"2014-2017","Benton","Overweight or obese","Not overweight  (BMI < 25)","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",370.062,801,0.462
+"2014-2017","Lincoln","Overweight or obese","Overweight (BMI = 25)","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",63.5,100,0.635
+"2014-2017","Lincoln","Overweight or obese","Overweight (BMI = 25)","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",292.95,450,0.651
+"2014-2017","Lincoln","Overweight or obese","Not overweight  (BMI < 25)","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",36.5,100,0.365
+"2014-2017","Lincoln","Overweight or obese","Not overweight  (BMI < 25)","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",157.05,450,0.349
+"2014-2017","Linn","Overweight or obese","Overweight (BMI = 25)","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",133.056,189,0.704
+"2014-2017","Linn","Overweight or obese","Overweight (BMI = 25)","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",630.601,937,0.673
+"2014-2017","Linn","Overweight or obese","Not overweight  (BMI < 25)","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",55.944,189,0.296
+"2014-2017","Linn","Overweight or obese","Not overweight  (BMI < 25)","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",306.399,937,0.327
+"2014-2017","Benton","Obesity","Obese (BMI = 30)","Total","Total",230.127,971,0.237
+"2014-2017","Benton","Obesity","Not obese  (BMI < 30)","Total","Total",740.873,971,0.763
+"2014-2017","Lincoln","Obesity","Obese (BMI = 30)","Total","Total",178.29,566,0.315
+"2014-2017","Lincoln","Obesity","Not obese  (BMI < 30)","Total","Total",387.71,566,0.685
+"2014-2017","Linn","Obesity","Obese (BMI = 30)","Total","Total",406.208,1154,0.352
+"2014-2017","Linn","Obesity","Not obese  (BMI < 30)","Total","Total",747.792,1154,0.648
+"2014-2017","Benton","Obesity","Obese (BMI = 30)","Poverty","At or below 100% of Federal Poverty Level",35.672,104,0.343
+"2014-2017","Benton","Obesity","Obese (BMI = 30)","Poverty","Above 100% of Federal Poverty Level",161.55,718,0.225
+"2014-2017","Benton","Obesity","Not obese  (BMI < 30)","Poverty","At or below 100% of Federal Poverty Level",68.328,104,0.657
+"2014-2017","Benton","Obesity","Not obese  (BMI < 30)","Poverty","Above 100% of Federal Poverty Level",556.45,718,0.775
+"2014-2017","Lincoln","Obesity","Obese (BMI = 30)","Poverty","At or below 100% of Federal Poverty Level",19.43,58,0.335
+"2014-2017","Lincoln","Obesity","Obese (BMI = 30)","Poverty","Above 100% of Federal Poverty Level",139.75,430,0.325
+"2014-2017","Lincoln","Obesity","Not obese  (BMI < 30)","Poverty","At or below 100% of Federal Poverty Level",38.57,58,0.665
+"2014-2017","Lincoln","Obesity","Not obese  (BMI < 30)","Poverty","Above 100% of Federal Poverty Level",290.25,430,0.675
+"2014-2017","Linn","Obesity","Obese (BMI = 30)","Poverty","At or below 100% of Federal Poverty Level",47.318,118,0.401
+"2014-2017","Linn","Obesity","Obese (BMI = 30)","Poverty","Above 100% of Federal Poverty Level",304.164,852,0.357
+"2014-2017","Linn","Obesity","Not obese  (BMI < 30)","Poverty","At or below 100% of Federal Poverty Level",70.682,118,0.599
+"2014-2017","Linn","Obesity","Not obese  (BMI < 30)","Poverty","Above 100% of Federal Poverty Level",547.836,852,0.643
+"2014-2017","Benton","Obesity","Obese (BMI = 30)","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",37.064,113,0.328
+"2014-2017","Benton","Obesity","Obese (BMI = 30)","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",173.817,801,0.217
+"2014-2017","Benton","Obesity","Not obese  (BMI < 30)","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",75.936,113,0.672
+"2014-2017","Benton","Obesity","Not obese  (BMI < 30)","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",627.183,801,0.783
+"2014-2017","Lincoln","Obesity","Obese (BMI = 30)","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",28.2,100,0.282
+"2014-2017","Lincoln","Obesity","Obese (BMI = 30)","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",139.95,450,0.311
+"2014-2017","Lincoln","Obesity","Not obese  (BMI < 30)","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",71.8,100,0.718
+"2014-2017","Lincoln","Obesity","Not obese  (BMI < 30)","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",310.05,450,0.689
+"2014-2017","Linn","Obesity","Obese (BMI = 30)","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",75.222,189,0.398
+"2014-2017","Linn","Obesity","Obese (BMI = 30)","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",305.462,937,0.326
+"2014-2017","Linn","Obesity","Not obese  (BMI < 30)","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",113.778,189,0.602
+"2014-2017","Linn","Obesity","Not obese  (BMI < 30)","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",631.538,937,0.674
+"2014-2017","Benton","Cigarette smoking","Current cigarette smoker","Total","Total",90.768,976,0.093
+"2014-2017","Benton","Cigarette smoking","Not current cigarette smoker","Total","Total",885.232,976,0.907
+"2014-2017","Lincoln","Cigarette smoking","Current cigarette smoker","Total","Total",164.738,574,0.287
+"2014-2017","Lincoln","Cigarette smoking","Not current cigarette smoker","Total","Total",409.262,574,0.713
+"2014-2017","Linn","Cigarette smoking","Current cigarette smoker","Total","Total",223.63,1177,0.19
+"2014-2017","Linn","Cigarette smoking","Not current cigarette smoker","Total","Total",953.37,1177,0.81
+"2014-2017","Benton","Cigarette smoking","Current cigarette smoker","Poverty","At or below 100% of Federal Poverty Level",16.218,106,0.153
+"2014-2017","Benton","Cigarette smoking","Current cigarette smoker","Poverty","Above 100% of Federal Poverty Level",58.876,718,0.082
+"2014-2017","Benton","Cigarette smoking","Not current cigarette smoker","Poverty","At or below 100% of Federal Poverty Level",89.782,106,0.847
+"2014-2017","Benton","Cigarette smoking","Not current cigarette smoker","Poverty","Above 100% of Federal Poverty Level",659.124,718,0.918
+"2014-2017","Lincoln","Cigarette smoking","Current cigarette smoker","Poverty","At or below 100% of Federal Poverty Level",36.666,63,0.582
+"2014-2017","Lincoln","Cigarette smoking","Current cigarette smoker","Poverty","Above 100% of Federal Poverty Level",75.933,429,0.177
+"2014-2017","Lincoln","Cigarette smoking","Not current cigarette smoker","Poverty","At or below 100% of Federal Poverty Level",26.334,63,0.418
+"2014-2017","Lincoln","Cigarette smoking","Not current cigarette smoker","Poverty","Above 100% of Federal Poverty Level",353.067,429,0.823
+"2014-2017","Linn","Cigarette smoking","Current cigarette smoker","Poverty","At or below 100% of Federal Poverty Level",42.066,123,0.342
+"2014-2017","Linn","Cigarette smoking","Current cigarette smoker","Poverty","Above 100% of Federal Poverty Level",125.852,862,0.146
+"2014-2017","Linn","Cigarette smoking","Not current cigarette smoker","Poverty","At or below 100% of Federal Poverty Level",80.934,123,0.658
+"2014-2017","Linn","Cigarette smoking","Not current cigarette smoker","Poverty","Above 100% of Federal Poverty Level",736.148,862,0.854
+"2014-2017","Benton","Cigarette smoking","Current cigarette smoker","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",22.852,116,0.197
+"2014-2017","Benton","Cigarette smoking","Current cigarette smoker","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",56.07,801,0.07
+"2014-2017","Benton","Cigarette smoking","Not current cigarette smoker","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",93.148,116,0.803
+"2014-2017","Benton","Cigarette smoking","Not current cigarette smoker","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",744.93,801,0.93
+"2014-2017","Lincoln","Cigarette smoking","Current cigarette smoker","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",46.28,104,0.445
+"2014-2017","Lincoln","Cigarette smoking","Current cigarette smoker","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",105.549,453,0.233
+"2014-2017","Lincoln","Cigarette smoking","Not current cigarette smoker","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",57.72,104,0.555
+"2014-2017","Lincoln","Cigarette smoking","Not current cigarette smoker","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",347.451,453,0.767
+"2014-2017","Linn","Cigarette smoking","Current cigarette smoker","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",58.394,194,0.301
+"2014-2017","Linn","Cigarette smoking","Current cigarette smoker","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",143.4,956,0.15
+"2014-2017","Linn","Cigarette smoking","Not current cigarette smoker","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",135.606,194,0.699
+"2014-2017","Linn","Cigarette smoking","Not current cigarette smoker","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",812.6,956,0.85
+"2014-2017","Benton","Tobacco use","Current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","Total","Total",34.804,308,0.113
+"2014-2017","Benton","Tobacco use","Not current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","Total","Total",273.196,308,0.887
+"2014-2017","Lincoln","Tobacco use","Current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","Total","Total",58.283,167,0.349
+"2014-2017","Lincoln","Tobacco use","Not current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","Total","Total",108.717,167,0.651
+"2014-2017","Linn","Tobacco use","Current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","Total","Total",108.059,359,0.301
+"2014-2017","Linn","Tobacco use","Not current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","Total","Total",250.941,359,0.699
+"2014-2017","Benton","Tobacco use","Current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","Poverty","At or below 100% of Federal Poverty Level",217.056,238,0.912
+"2014-2017","Benton","Tobacco use","Current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","Poverty","Above 100% of Federal Poverty Level",20.944,238,0.088
+"2014-2017","Benton","Tobacco use","Not current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","Poverty","At or below 100% of Federal Poverty Level",20.944,238,0.088
+"2014-2017","Benton","Tobacco use","Not current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","Poverty","Above 100% of Federal Poverty Level",217.056,238,0.912
+"2014-2017","Lincoln","Tobacco use","Current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","Poverty","At or below 100% of Federal Poverty Level",94.17,129,0.73
+"2014-2017","Lincoln","Tobacco use","Current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","Poverty","Above 100% of Federal Poverty Level",34.83,129,0.27
+"2014-2017","Lincoln","Tobacco use","Not current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","Poverty","At or below 100% of Federal Poverty Level",34.83,129,0.27
+"2014-2017","Lincoln","Tobacco use","Not current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","Poverty","Above 100% of Federal Poverty Level",94.17,129,0.73
+"2014-2017","Linn","Tobacco use","Current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","Poverty","At or below 100% of Federal Poverty Level",196.9,275,0.716
+"2014-2017","Linn","Tobacco use","Current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","Poverty","Above 100% of Federal Poverty Level",78.1,275,0.284
+"2014-2017","Linn","Tobacco use","Not current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","Poverty","At or below 100% of Federal Poverty Level",78.1,275,0.284
+"2014-2017","Linn","Tobacco use","Not current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","Poverty","Above 100% of Federal Poverty Level",196.9,275,0.716
+"2014-2017","Benton","Tobacco use","Current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",247.965,271,0.915
+"2014-2017","Benton","Tobacco use","Current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",23.035,271,0.085
+"2014-2017","Benton","Tobacco use","Not current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",23.035,271,0.085
+"2014-2017","Benton","Tobacco use","Not current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",247.965,271,0.915
+"2014-2017","Lincoln","Tobacco use","Current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",95.62,140,0.683
+"2014-2017","Lincoln","Tobacco use","Current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",44.38,140,0.317
+"2014-2017","Lincoln","Tobacco use","Not current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",44.38,140,0.317
+"2014-2017","Lincoln","Tobacco use","Not current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",95.62,140,0.683
+"2014-2017","Linn","Tobacco use","Current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",21.065,55,0.383
+"2014-2017","Linn","Tobacco use","Current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",84.258,302,0.279
+"2014-2017","Linn","Tobacco use","Not current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",33.935,55,0.617
+"2014-2017","Linn","Tobacco use","Not current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",217.742,302,0.721
+"2014-2017","Benton","E-cigarette use","Electronic cigarette use for 1-30 days in the past 30 days","Total","Total",22.88,572,0.04
+"2014-2017","Benton","E-cigarette use","No days of electronic cigarette use in the past 30 days","Total","Total",549.12,572,0.96
+"2014-2017","Lincoln","E-cigarette use","Electronic cigarette use for 1-30 days in the past 30 days","Total","Total",23.38,334,0.07
+"2014-2017","Lincoln","E-cigarette use","No days of electronic cigarette use in the past 30 days","Total","Total",310.62,334,0.93
+"2014-2017","Linn","E-cigarette use","Electronic cigarette use for 1-30 days in the past 30 days","Total","Total",32.016,667,0.048
+"2014-2017","Linn","E-cigarette use","No days of electronic cigarette use in the past 30 days","Total","Total",634.984,667,0.952
+"2014-2017","Benton","E-cigarette use","Electronic cigarette use for 1-30 days in the past 30 days","Poverty","At or below 100% of Federal Poverty Level",412.482,427,0.966
+"2014-2017","Benton","E-cigarette use","Electronic cigarette use for 1-30 days in the past 30 days","Poverty","Above 100% of Federal Poverty Level",14.518,427,0.034
+"2014-2017","Benton","E-cigarette use","No days of electronic cigarette use in the past 30 days","Poverty","At or below 100% of Federal Poverty Level",55.242,62,0.891
+"2014-2017","Benton","E-cigarette use","No days of electronic cigarette use in the past 30 days","Poverty","Above 100% of Federal Poverty Level",412.482,427,0.966
+"2014-2017","Lincoln","E-cigarette use","Electronic cigarette use for 1-30 days in the past 30 days","Poverty","At or below 100% of Federal Poverty Level",233.216,256,0.911
+"2014-2017","Lincoln","E-cigarette use","Electronic cigarette use for 1-30 days in the past 30 days","Poverty","Above 100% of Federal Poverty Level",22.784,256,0.089
+"2014-2017","Lincoln","E-cigarette use","No days of electronic cigarette use in the past 30 days","Poverty","At or below 100% of Federal Poverty Level",22.784,256,0.0890000000000001
+"2014-2017","Lincoln","E-cigarette use","No days of electronic cigarette use in the past 30 days","Poverty","Above 100% of Federal Poverty Level",233.216,256,0.911
+"2014-2017","Linn","E-cigarette use","Electronic cigarette use for 1-30 days in the past 30 days","Poverty","At or below 100% of Federal Poverty Level",4.14,60,0.069
+"2014-2017","Linn","E-cigarette use","Electronic cigarette use for 1-30 days in the past 30 days","Poverty","Above 100% of Federal Poverty Level",24.24,505,0.048
+"2014-2017","Linn","E-cigarette use","No days of electronic cigarette use in the past 30 days","Poverty","At or below 100% of Federal Poverty Level",55.86,60,0.931
+"2014-2017","Linn","E-cigarette use","No days of electronic cigarette use in the past 30 days","Poverty","Above 100% of Federal Poverty Level",480.76,505,0.952
+"2014-2017","Benton","E-cigarette use","Electronic cigarette use for 1-30 days in the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",6.72,70,0.096
+"2014-2017","Benton","E-cigarette use","Electronic cigarette use for 1-30 days in the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",13.775,475,0.029
+"2014-2017","Benton","E-cigarette use","No days of electronic cigarette use in the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",63.28,70,0.904
+"2014-2017","Benton","E-cigarette use","No days of electronic cigarette use in the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",461.225,475,0.971
+"2014-2017","Lincoln","E-cigarette use","Electronic cigarette use for 1-30 days in the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",NA,NA,NA
+"2014-2017","Lincoln","E-cigarette use","Electronic cigarette use for 1-30 days in the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",NA,NA,NA
+"2014-2017","Lincoln","E-cigarette use","No days of electronic cigarette use in the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",55.696,59,0.944
+"2014-2017","Lincoln","E-cigarette use","No days of electronic cigarette use in the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",244.818,261,0.938
+"2014-2017","Linn","E-cigarette use","Electronic cigarette use for 1-30 days in the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",4.12,103,0.04
+"2014-2017","Linn","E-cigarette use","Electronic cigarette use for 1-30 days in the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",27.5,550,0.05
+"2014-2017","Linn","E-cigarette use","No days of electronic cigarette use in the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",98.88,103,0.96
+"2014-2017","Linn","E-cigarette use","No days of electronic cigarette use in the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",522.5,550,0.95
+"2014-2017","Benton","Physical activity 1","Meets recommendations for both aerobic and strengthening physical activity","Total","Total",68.619,257,0.267
+"2014-2017","Benton","Physical activity 1","Does not meet recommendations for both aerobic and strengthening physical activity","Total","Total",188.381,257,0.733
+"2014-2017","Lincoln","Physical activity 1","Meets recommendations for both aerobic and strengthening physical activity","Total","Total",37.323,143,0.261
+"2014-2017","Lincoln","Physical activity 1","Does not meet recommendations for both aerobic and strengthening physical activity","Total","Total",105.677,143,0.739
+"2014-2017","Linn","Physical activity 1","Meets recommendations for both aerobic and strengthening physical activity","Total","Total",55.484,286,0.194
+"2014-2017","Linn","Physical activity 1","Does not meet recommendations for both aerobic and strengthening physical activity","Total","Total",230.516,286,0.806
+"2014-2017","Benton","Physical activity 1","Meets recommendations for both aerobic and strengthening physical activity","Poverty","At or below 100% of Federal Poverty Level",141.376,188,0.752
+"2014-2017","Benton","Physical activity 1","Meets recommendations for both aerobic and strengthening physical activity","Poverty","Above 100% of Federal Poverty Level",46.624,188,0.248
+"2014-2017","Benton","Physical activity 1","Does not meet recommendations for both aerobic and strengthening physical activity","Poverty","At or below 100% of Federal Poverty Level",46.624,188,0.248
+"2014-2017","Benton","Physical activity 1","Does not meet recommendations for both aerobic and strengthening physical activity","Poverty","Above 100% of Federal Poverty Level",141.376,188,0.752
+"2014-2017","Lincoln","Physical activity 1","Meets recommendations for both aerobic and strengthening physical activity","Poverty","At or below 100% of Federal Poverty Level",79.856,112,0.713
+"2014-2017","Lincoln","Physical activity 1","Meets recommendations for both aerobic and strengthening physical activity","Poverty","Above 100% of Federal Poverty Level",32.144,112,0.287
+"2014-2017","Lincoln","Physical activity 1","Does not meet recommendations for both aerobic and strengthening physical activity","Poverty","At or below 100% of Federal Poverty Level",32.144,112,0.287
+"2014-2017","Lincoln","Physical activity 1","Does not meet recommendations for both aerobic and strengthening physical activity","Poverty","Above 100% of Federal Poverty Level",79.856,112,0.713
+"2014-2017","Linn","Physical activity 1","Meets recommendations for both aerobic and strengthening physical activity","Poverty","At or below 100% of Federal Poverty Level",170.986,214,0.799
+"2014-2017","Linn","Physical activity 1","Meets recommendations for both aerobic and strengthening physical activity","Poverty","Above 100% of Federal Poverty Level",43.014,214,0.201
+"2014-2017","Linn","Physical activity 1","Does not meet recommendations for both aerobic and strengthening physical activity","Poverty","At or below 100% of Federal Poverty Level",43.014,214,0.201
+"2014-2017","Linn","Physical activity 1","Does not meet recommendations for both aerobic and strengthening physical activity","Poverty","Above 100% of Federal Poverty Level",170.986,214,0.799
+"2014-2017","Benton","Physical activity 1","Meets recommendations for both aerobic and strengthening physical activity","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",140.456,194,0.724
+"2014-2017","Benton","Physical activity 1","Meets recommendations for both aerobic and strengthening physical activity","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",53.544,194,0.276
+"2014-2017","Benton","Physical activity 1","Does not meet recommendations for both aerobic and strengthening physical activity","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",53.544,194,0.276
+"2014-2017","Benton","Physical activity 1","Does not meet recommendations for both aerobic and strengthening physical activity","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",140.456,194,0.724
+"2014-2017","Lincoln","Physical activity 1","Meets recommendations for both aerobic and strengthening physical activity","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",82.077,109,0.753
+"2014-2017","Lincoln","Physical activity 1","Meets recommendations for both aerobic and strengthening physical activity","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",26.923,109,0.247
+"2014-2017","Lincoln","Physical activity 1","Does not meet recommendations for both aerobic and strengthening physical activity","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",26.923,109,0.247
+"2014-2017","Lincoln","Physical activity 1","Does not meet recommendations for both aerobic and strengthening physical activity","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",82.077,109,0.753
+"2014-2017","Linn","Physical activity 1","Meets recommendations for both aerobic and strengthening physical activity","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",11.3,50,0.226
+"2014-2017","Linn","Physical activity 1","Meets recommendations for both aerobic and strengthening physical activity","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",39.711,217,0.183
+"2014-2017","Linn","Physical activity 1","Does not meet recommendations for both aerobic and strengthening physical activity","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",38.7,50,0.774
+"2014-2017","Linn","Physical activity 1","Does not meet recommendations for both aerobic and strengthening physical activity","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",177.289,217,0.817
+"2014-2017","Benton","Health insurance","Has any health insurance","Total","Total",906.876,972,0.933
+"2014-2017","Benton","Health insurance","Does not have health insurance","Total","Total",65.124,972,0.067
+"2014-2017","Lincoln","Health insurance","Has any health insurance","Total","Total",522.328,599,0.872
+"2014-2017","Lincoln","Health insurance","Does not have health insurance","Total","Total",76.672,599,0.128
+"2014-2017","Linn","Health insurance","Has any health insurance","Total","Total",1087.8,1225,0.888
+"2014-2017","Linn","Health insurance","Does not have health insurance","Total","Total",137.2,1225,0.112
+"2014-2017","Benton","Health insurance","Has any health insurance","Poverty","At or below 100% of Federal Poverty Level",97.85,103,0.95
+"2014-2017","Benton","Health insurance","Has any health insurance","Poverty","Above 100% of Federal Poverty Level",676.216,724,0.934
+"2014-2017","Benton","Health insurance","Does not have health insurance","Poverty","At or below 100% of Federal Poverty Level",5.15,103,0.05
+"2014-2017","Benton","Health insurance","Does not have health insurance","Poverty","Above 100% of Federal Poverty Level",47.784,724,0.066
+"2014-2017","Lincoln","Health insurance","Has any health insurance","Poverty","At or below 100% of Federal Poverty Level",54.312,62,0.876
+"2014-2017","Lincoln","Health insurance","Has any health insurance","Poverty","Above 100% of Federal Poverty Level",388.068,443,0.876
+"2014-2017","Lincoln","Health insurance","Does not have health insurance","Poverty","At or below 100% of Federal Poverty Level",7.688,62,0.124
+"2014-2017","Lincoln","Health insurance","Does not have health insurance","Poverty","Above 100% of Federal Poverty Level",54.932,443,0.124
+"2014-2017","Linn","Health insurance","Has any health insurance","Poverty","At or below 100% of Federal Poverty Level",102.69,126,0.815
+"2014-2017","Linn","Health insurance","Has any health insurance","Poverty","Above 100% of Federal Poverty Level",794.73,885,0.898
+"2014-2017","Linn","Health insurance","Does not have health insurance","Poverty","At or below 100% of Federal Poverty Level",23.31,126,0.185
+"2014-2017","Linn","Health insurance","Does not have health insurance","Poverty","Above 100% of Federal Poverty Level",90.27,885,0.102
+"2014-2017","Benton","Routine checkup","Had a routine checkup in past year","Total","Total",612,1000,0.612
+"2014-2017","Benton","Routine checkup","Did not have a routine checkup in past year","Total","Total",388,1000,0.388
+"2014-2017","Lincoln","Routine checkup","Had a routine checkup in past year","Total","Total",333.374,589,0.566
+"2014-2017","Lincoln","Routine checkup","Did not have a routine checkup in past year","Total","Total",255.626,589,0.434
+"2014-2017","Linn","Routine checkup","Had a routine checkup in past year","Total","Total",715.176,1204,0.594
+"2014-2017","Linn","Routine checkup","Did not have a routine checkup in past year","Total","Total",488.824,1204,0.406
+"2014-2017","Benton","Routine checkup","Had a routine checkup in past year","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",82.764,121,0.684
+"2014-2017","Benton","Routine checkup","Had a routine checkup in past year","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",494.46,820,0.603
+"2014-2017","Benton","Routine checkup","Did not have a routine checkup in past year","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",38.236,121,0.316
+"2014-2017","Benton","Routine checkup","Did not have a routine checkup in past year","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",325.54,820,0.397
+"2014-2017","Lincoln","Routine checkup","Had a routine checkup in past year","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",54.484,106,0.514
+"2014-2017","Lincoln","Routine checkup","Had a routine checkup in past year","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",263.756,466,0.566
+"2014-2017","Lincoln","Routine checkup","Did not have a routine checkup in past year","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",51.516,106,0.486
+"2014-2017","Lincoln","Routine checkup","Did not have a routine checkup in past year","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",202.244,466,0.434
+"2014-2017","Linn","Routine checkup","Had a routine checkup in past year","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",132.502,194,0.683
+"2014-2017","Linn","Routine checkup","Had a routine checkup in past year","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",560.31,983,0.57
+"2014-2017","Linn","Routine checkup","Did not have a routine checkup in past year","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",61.498,194,0.317
+"2014-2017","Linn","Routine checkup","Did not have a routine checkup in past year","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",422.69,983,0.43
+"2014-2017","Benton","Couldn't see health care provider because of cost","Was unable to see a health care provider in the past year because of cost","Total","Total",102.7,1027,0.1
+"2014-2017","Benton","Couldn't see health care provider because of cost","Was not unable to see a health care provider in the past year because of cost","Total","Total",924.3,1027,0.9
+"2014-2017","Lincoln","Couldn't see health care provider because of cost","Was unable to see a health care provider in the past year because of cost","Total","Total",111.566,613,0.182
+"2014-2017","Lincoln","Couldn't see health care provider because of cost","Was not unable to see a health care provider in the past year because of cost","Total","Total",501.434,613,0.818
+"2014-2017","Linn","Couldn't see health care provider because of cost","Was unable to see a health care provider in the past year because of cost","Total","Total",180.525,1245,0.145
+"2014-2017","Linn","Couldn't see health care provider because of cost","Was not unable to see a health care provider in the past year because of cost","Total","Total",1064.475,1245,0.855
+"2014-2017","Benton","Couldn't see health care provider because of cost","Was unable to see a health care provider in the past year because of cost","Poverty","At or below 100% of Federal Poverty Level",15.07,110,0.137
+"2014-2017","Benton","Couldn't see health care provider because of cost","Was unable to see a health care provider in the past year because of cost","Poverty","Above 100% of Federal Poverty Level",59.25,750,0.079
+"2014-2017","Benton","Couldn't see health care provider because of cost","Was not unable to see a health care provider in the past year because of cost","Poverty","At or below 100% of Federal Poverty Level",94.93,110,0.863
+"2014-2017","Benton","Couldn't see health care provider because of cost","Was not unable to see a health care provider in the past year because of cost","Poverty","Above 100% of Federal Poverty Level",690.75,750,0.921
+"2014-2017","Lincoln","Couldn't see health care provider because of cost","Was unable to see a health care provider in the past year because of cost","Poverty","At or below 100% of Federal Poverty Level",16.832,64,0.263
+"2014-2017","Lincoln","Couldn't see health care provider because of cost","Was unable to see a health care provider in the past year because of cost","Poverty","Above 100% of Federal Poverty Level",73.839,453,0.163
+"2014-2017","Lincoln","Couldn't see health care provider because of cost","Was not unable to see a health care provider in the past year because of cost","Poverty","At or below 100% of Federal Poverty Level",47.168,64,0.737
+"2014-2017","Lincoln","Couldn't see health care provider because of cost","Was not unable to see a health care provider in the past year because of cost","Poverty","Above 100% of Federal Poverty Level",379.161,453,0.837
+"2014-2017","Linn","Couldn't see health care provider because of cost","Was unable to see a health care provider in the past year because of cost","Poverty","At or below 100% of Federal Poverty Level",30.848,128,0.241
+"2014-2017","Linn","Couldn't see health care provider because of cost","Was unable to see a health care provider in the past year because of cost","Poverty","Above 100% of Federal Poverty Level",110.085,895,0.123
+"2014-2017","Linn","Couldn't see health care provider because of cost","Was not unable to see a health care provider in the past year because of cost","Poverty","At or below 100% of Federal Poverty Level",97.152,128,0.759
+"2014-2017","Linn","Couldn't see health care provider because of cost","Was not unable to see a health care provider in the past year because of cost","Poverty","Above 100% of Federal Poverty Level",784.915,895,0.877
+"2014-2017","Benton","Couldn't see health care provider because of cost","Was unable to see a health care provider in the past year because of cost","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",18.327,123,0.149
+"2014-2017","Benton","Couldn't see health care provider because of cost","Was unable to see a health care provider in the past year because of cost","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",71.825,845,0.085
+"2014-2017","Benton","Couldn't see health care provider because of cost","Was not unable to see a health care provider in the past year because of cost","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",104.673,123,0.851
+"2014-2017","Benton","Couldn't see health care provider because of cost","Was not unable to see a health care provider in the past year because of cost","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",773.175,845,0.915
+"2014-2017","Lincoln","Couldn't see health care provider because of cost","Was unable to see a health care provider in the past year because of cost","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",15.029,113,0.133
+"2014-2017","Lincoln","Couldn't see health care provider because of cost","Was unable to see a health care provider in the past year because of cost","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",99.22,484,0.205
+"2014-2017","Lincoln","Couldn't see health care provider because of cost","Was not unable to see a health care provider in the past year because of cost","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",97.971,113,0.867
+"2014-2017","Lincoln","Couldn't see health care provider because of cost","Was not unable to see a health care provider in the past year because of cost","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",384.78,484,0.795
+"2014-2017","Linn","Couldn't see health care provider because of cost","Was unable to see a health care provider in the past year because of cost","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",23.278,206,0.113
+"2014-2017","Linn","Couldn't see health care provider because of cost","Was unable to see a health care provider in the past year because of cost","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",154.683,1011,0.153
+"2014-2017","Linn","Couldn't see health care provider because of cost","Was not unable to see a health care provider in the past year because of cost","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",182.722,206,0.887
+"2014-2017","Linn","Couldn't see health care provider because of cost","Was not unable to see a health care provider in the past year because of cost","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",856.317,1011,0.847
+"2014-2017","Benton","Diabetes","Has been diagnosed with diabetes (not including during pregnancy)","Total","Total",61.68,1028,0.06
+"2014-2017","Benton","Diabetes","Has never been diagnosed with diabetes","Total","Total",966.32,1028,0.94
+"2014-2017","Lincoln","Diabetes","Has been diagnosed with diabetes (not including during pregnancy)","Total","Total",49.653,613,0.081
+"2014-2017","Lincoln","Diabetes","Has never been diagnosed with diabetes","Total","Total",563.347,613,0.919
+"2014-2017","Linn","Diabetes","Has been diagnosed with diabetes (not including during pregnancy)","Total","Total",123.948,1252,0.099
+"2014-2017","Linn","Diabetes","Has never been diagnosed with diabetes","Total","Total",1128.052,1252,0.901
+"2014-2017","Benton","Diabetes","Has been diagnosed with diabetes (not including during pregnancy)","Poverty","At or below 100% of Federal Poverty Level",13.209,111,0.119
+"2014-2017","Benton","Diabetes","Has been diagnosed with diabetes (not including during pregnancy)","Poverty","Above 100% of Federal Poverty Level",39.697,749,0.053
+"2014-2017","Benton","Diabetes","Has never been diagnosed with diabetes","Poverty","At or below 100% of Federal Poverty Level",97.791,111,0.881
+"2014-2017","Benton","Diabetes","Has never been diagnosed with diabetes","Poverty","Above 100% of Federal Poverty Level",709.303,749,0.947
+"2014-2017","Lincoln","Diabetes","Has been diagnosed with diabetes (not including during pregnancy)","Poverty","At or below 100% of Federal Poverty Level",4.672,64,0.073
+"2014-2017","Lincoln","Diabetes","Has been diagnosed with diabetes (not including during pregnancy)","Poverty","Above 100% of Federal Poverty Level",33.522,453,0.074
+"2014-2017","Lincoln","Diabetes","Has never been diagnosed with diabetes","Poverty","At or below 100% of Federal Poverty Level",59.328,64,0.927
+"2014-2017","Lincoln","Diabetes","Has never been diagnosed with diabetes","Poverty","Above 100% of Federal Poverty Level",419.478,453,0.926
+"2014-2017","Linn","Diabetes","Has been diagnosed with diabetes (not including during pregnancy)","Poverty","At or below 100% of Federal Poverty Level",11.776,128,0.092
+"2014-2017","Linn","Diabetes","Has been diagnosed with diabetes (not including during pregnancy)","Poverty","Above 100% of Federal Poverty Level",76.585,901,0.085
+"2014-2017","Linn","Diabetes","Has never been diagnosed with diabetes","Poverty","At or below 100% of Federal Poverty Level",116.224,128,0.908
+"2014-2017","Linn","Diabetes","Has never been diagnosed with diabetes","Poverty","Above 100% of Federal Poverty Level",824.415,901,0.915
+"2014-2017","Benton","Diabetes","Has been diagnosed with diabetes (not including during pregnancy)","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",12.648,124,0.102
+"2014-2017","Benton","Diabetes","Has been diagnosed with diabetes (not including during pregnancy)","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",45.63,845,0.054
+"2014-2017","Benton","Diabetes","Has never been diagnosed with diabetes","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",111.352,124,0.898
+"2014-2017","Benton","Diabetes","Has never been diagnosed with diabetes","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",799.37,845,0.946
+"2014-2017","Lincoln","Diabetes","Has been diagnosed with diabetes (not including during pregnancy)","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",10.83,114,0.095
+"2014-2017","Lincoln","Diabetes","Has been diagnosed with diabetes (not including during pregnancy)","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",37.114,482,0.077
+"2014-2017","Lincoln","Diabetes","Has never been diagnosed with diabetes","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",103.17,114,0.905
+"2014-2017","Lincoln","Diabetes","Has never been diagnosed with diabetes","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",444.886,482,0.923
+"2014-2017","Linn","Diabetes","Has been diagnosed with diabetes (not including during pregnancy)","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",19.158,206,0.093
+"2014-2017","Linn","Diabetes","Has been diagnosed with diabetes (not including during pregnancy)","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",100.782,1018,0.099
+"2014-2017","Linn","Diabetes","Has never been diagnosed with diabetes","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",186.842,206,0.907
+"2014-2017","Linn","Diabetes","Has never been diagnosed with diabetes","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",917.218,1018,0.901
+"2014-2017","Benton","General health status","General health status self-reported as good / very good / excellent","Poverty","At or below 100% of Federal Poverty Level",84.915,111,0.765
+"2014-2017","Benton","General health status","General health status self-reported as good / very good / excellent","Poverty","Above 100% of Federal Poverty Level",683.837,749,0.913
+"2014-2017","Benton","General health status","General health status self-reported as  fair / poor","Poverty","At or below 100% of Federal Poverty Level",26.085,111,0.235
+"2014-2017","Benton","General health status","General health status self-reported as  fair / poor","Poverty","Above 100% of Federal Poverty Level",65.163,749,0.087
+"2014-2017","Lincoln","General health status","General health status self-reported as good / very good / excellent","Poverty","At or below 100% of Federal Poverty Level",40.192,64,0.628
+"2014-2017","Lincoln","General health status","General health status self-reported as good / very good / excellent","Poverty","Above 100% of Federal Poverty Level",368.289,453,0.813
+"2014-2017","Lincoln","General health status","General health status self-reported as  fair / poor","Poverty","At or below 100% of Federal Poverty Level",23.808,64,0.372
+"2014-2017","Lincoln","General health status","General health status self-reported as  fair / poor","Poverty","Above 100% of Federal Poverty Level",84.711,453,0.187
+"2014-2017","Linn","General health status","General health status self-reported as good / very good / excellent","Poverty","At or below 100% of Federal Poverty Level",79.506,126,0.631
+"2014-2017","Linn","General health status","General health status self-reported as good / very good / excellent","Poverty","Above 100% of Federal Poverty Level",791.1,900,0.879
+"2014-2017","Linn","General health status","General health status self-reported as  fair / poor","Poverty","At or below 100% of Federal Poverty Level",46.494,126,0.369
+"2014-2017","Linn","General health status","General health status self-reported as  fair / poor","Poverty","Above 100% of Federal Poverty Level",108.9,900,0.121
+"2014-2017","Benton","General health status","General health status self-reported as good / very good / excellent","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",98.828,124,0.797
+"2014-2017","Benton","General health status","General health status self-reported as good / very good / excellent","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",763.035,845,0.903
+"2014-2017","Benton","General health status","General health status self-reported as  fair / poor","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",25.172,124,0.203
+"2014-2017","Benton","General health status","General health status self-reported as  fair / poor","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",81.965,845,0.097
+"2014-2017","Lincoln","General health status","General health status self-reported as good / very good / excellent","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",74.816,112,0.668
+"2014-2017","Lincoln","General health status","General health status self-reported as good / very good / excellent","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",389.61,481,0.81
+"2014-2017","Lincoln","General health status","General health status self-reported as  fair / poor","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",37.184,112,0.332
+"2014-2017","Lincoln","General health status","General health status self-reported as  fair / poor","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",91.39,481,0.19
+"2014-2017","Linn","General health status","General health status self-reported as good / very good / excellent","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",131.95,203,0.65
+"2014-2017","Linn","General health status","General health status self-reported as good / very good / excellent","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",883.92,1016,0.87
+"2014-2017","Linn","General health status","General health status self-reported as  fair / poor","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",71.05,203,0.35
+"2014-2017","Linn","General health status","General health status self-reported as  fair / poor","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",132.08,1016,0.13
+"2014-2017","Benton","General health status","General health status self-reported as good / very good / excellent","Total","Total",911.836,1028,0.887
+"2014-2017","Benton","General health status","General health status self-reported as  fair / poor","Total","Total",116.164,1028,0.113
+"2014-2017","Lincoln","General health status","General health status self-reported as good / very good / excellent","Total","Total",480.07,610,0.787
+"2014-2017","Lincoln","General health status","General health status self-reported as  fair / poor","Total","Total",129.93,610,0.213
+"2014-2017","Linn","General health status","General health status self-reported as good / very good / excellent","Total","Total",1021.293,1247,0.819
+"2014-2017","Linn","General health status","General health status self-reported as  fair / poor","Total","Total",225.707,1247,0.181
+"2014-2017","Benton","Poor mental health days","1-30 days of poor mental health during the past 30 days","Poverty","At or below 100% of Federal Poverty Level",62.809,107,0.587
+"2014-2017","Benton","Poor mental health days","1-30 days of poor mental health during the past 30 days","Poverty","Above 100% of Federal Poverty Level",283.113,747,0.379
+"2014-2017","Benton","Poor mental health days","No days of poor mental health during the past 30 days","Poverty","At or below 100% of Federal Poverty Level",44.191,107,0.413
+"2014-2017","Benton","Poor mental health days","No days of poor mental health during the past 30 days","Poverty","Above 100% of Federal Poverty Level",463.887,747,0.621
+"2014-2017","Lincoln","Poor mental health days","1-30 days of poor mental health during the past 30 days","Poverty","At or below 100% of Federal Poverty Level",28.16,64,0.44
+"2014-2017","Lincoln","Poor mental health days","1-30 days of poor mental health during the past 30 days","Poverty","Above 100% of Federal Poverty Level",179.247,447,0.401
+"2014-2017","Lincoln","Poor mental health days","No days of poor mental health during the past 30 days","Poverty","At or below 100% of Federal Poverty Level",35.84,64,0.56
+"2014-2017","Lincoln","Poor mental health days","No days of poor mental health during the past 30 days","Poverty","Above 100% of Federal Poverty Level",267.753,447,0.599
+"2014-2017","Linn","Poor mental health days","1-30 days of poor mental health during the past 30 days","Poverty","At or below 100% of Federal Poverty Level",63,125,0.504
+"2014-2017","Linn","Poor mental health days","1-30 days of poor mental health during the past 30 days","Poverty","Above 100% of Federal Poverty Level",340.104,888,0.383
+"2014-2017","Linn","Poor mental health days","No days of poor mental health during the past 30 days","Poverty","At or below 100% of Federal Poverty Level",62,125,0.496
+"2014-2017","Linn","Poor mental health days","No days of poor mental health during the past 30 days","Poverty","Above 100% of Federal Poverty Level",547.896,888,0.617
+"2014-2017","Benton","Poor mental health days","1-30 days of poor mental health during the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",71.136,117,0.608
+"2014-2017","Benton","Poor mental health days","1-30 days of poor mental health during the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",330.12,840,0.393
+"2014-2017","Benton","Poor mental health days","No days of poor mental health during the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",45.864,117,0.392
+"2014-2017","Benton","Poor mental health days","No days of poor mental health during the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",509.88,840,0.607
+"2014-2017","Lincoln","Poor mental health days","1-30 days of poor mental health during the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",56.839,113,0.503
+"2014-2017","Lincoln","Poor mental health days","1-30 days of poor mental health during the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",182.784,476,0.384
+"2014-2017","Lincoln","Poor mental health days","No days of poor mental health during the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",56.161,113,0.497
+"2014-2017","Lincoln","Poor mental health days","No days of poor mental health during the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",293.216,476,0.616
+"2014-2017","Linn","Poor mental health days","1-30 days of poor mental health during the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",107.184,203,0.528
+"2014-2017","Linn","Poor mental health days","1-30 days of poor mental health during the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",379.24,998,0.38
+"2014-2017","Linn","Poor mental health days","No days of poor mental health during the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",95.816,203,0.472
+"2014-2017","Linn","Poor mental health days","No days of poor mental health during the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",618.76,998,0.62
+"2014-2017","Benton","Poor mental health days","1-30 days of poor mental health during the past 30 days","Total","Total",432.39,1015,0.426
+"2014-2017","Benton","Poor mental health days","No days of poor mental health during the past 30 days","Total","Total",582.61,1015,0.574
+"2014-2017","Lincoln","Poor mental health days","1-30 days of poor mental health during the past 30 days","Total","Total",250.278,606,0.413
+"2014-2017","Lincoln","Poor mental health days","No days of poor mental health during the past 30 days","Total","Total",355.722,606,0.587
+"2014-2017","Linn","Poor mental health days","1-30 days of poor mental health during the past 30 days","Total","Total",507.164,1228,0.413
+"2014-2017","Linn","Poor mental health days","No days of poor mental health during the past 30 days","Total","Total",720.836,1228,0.587
+"2014-2017","Oregon","Dental visits","Has visited the dentist for any reason within the past year","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",1887.289,3587,0.52614691943128
+"2014-2017","Oregon","Dental visits","Has visited the dentist for any reason within the past year","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",15339.116,22015,0.696757483533954
+"2014-2017","Oregon","Dental visits","Has not visited the dentist for any reason within the past year","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",1699.711,3587,0.47385308056872
+"2014-2017","Oregon","Dental visits","Has not visited the dentist for any reason within the past year","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",6675.884,22015,0.303242516466046
+"2014-2017","Oregon","Tooth loss","Had 1 or more permanent teeth removed because of tooth decay or gum disease","Total","Total",8295.637,21381,0.38799106683504
+"2014-2017","Oregon","Tooth loss","No permanent teeth removed because of tooth decay or gum disease","Total","Total",13085.363,21381,0.61200893316496
+"2014-2017","Oregon","Tooth loss","Had 1 or more permanent teeth removed because of tooth decay or gum disease","Poverty","At or below 100% of Federal Poverty Level",1332.717,2148,0.620445530726257
+"2014-2017","Oregon","Tooth loss","Had 1 or more permanent teeth removed because of tooth decay or gum disease","Poverty","Above 100% of Federal Poverty Level",4640.325,13502,0.343676862687009
+"2014-2017","Oregon","Tooth loss","No permanent teeth removed because of tooth decay or gum disease","Poverty","At or below 100% of Federal Poverty Level",815.283,2148,0.379554469273743
+"2014-2017","Oregon","Tooth loss","No permanent teeth removed because of tooth decay or gum disease","Poverty","Above 100% of Federal Poverty Level",8861.675,13502,0.656323137312991
+"2014-2017","Oregon","Tooth loss","Had 1 or more permanent teeth removed because of tooth decay or gum disease","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",1685.651,3015,0.559088225538972
+"2014-2017","Oregon","Tooth loss","Had 1 or more permanent teeth removed because of tooth decay or gum disease","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",6198.89,17718,0.349863980133198
+"2014-2017","Oregon","Tooth loss","No permanent teeth removed because of tooth decay or gum disease","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",1329.349,3015,0.440911774461028
+"2014-2017","Oregon","Tooth loss","No permanent teeth removed because of tooth decay or gum disease","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",11519.11,17718,0.650136019866802
+"2014-2017","Oregon","Adverse childhood experiences (ACEs)","Had 4 or more adverse childhood experiences","Total","Total",2516.882,10987,0.229078183307545
+"2014-2017","Oregon","Adverse childhood experiences (ACEs)","Had fewer than 4 adverse childhood experiences","Total","Total",8470.118,10987,0.770921816692455
+"2014-2017","Oregon","Adverse childhood experiences (ACEs)","Had 4 or more adverse childhood experiences","Poverty","At or below 100% of Federal Poverty Level",824.492,1344,0.61346130952381
+"2014-2017","Oregon","Adverse childhood experiences (ACEs)","Had 4 or more adverse childhood experiences","Poverty","Above 100% of Federal Poverty Level",1310.22,6321,0.207280493592786
+"2014-2017","Oregon","Adverse childhood experiences (ACEs)","Had fewer than 4 adverse childhood experiences","Poverty","At or below 100% of Federal Poverty Level",519.508,1344,0.38653869047619
+"2014-2017","Oregon","Adverse childhood experiences (ACEs)","Had fewer than 4 adverse childhood experiences","Poverty","Above 100% of Federal Poverty Level",5010.78,6321,0.792719506407214
+"2014-2017","Oregon","Adverse childhood experiences (ACEs)","Had 4 or more adverse childhood experiences","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",558.494,1598,0.349495619524405
+"2014-2017","Oregon","Adverse childhood experiences (ACEs)","Had 4 or more adverse childhood experiences","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",1822.001,9337,0.195137731605441
+"2014-2017","Oregon","Adverse childhood experiences (ACEs)","Had fewer than 4 adverse childhood experiences","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",1039.506,1598,0.650504380475594
+"2014-2017","Oregon","Adverse childhood experiences (ACEs)","Had fewer than 4 adverse childhood experiences","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",7514.999,9337,0.804862268394559
+"2014-2017","Oregon","Hypertension","Has been diagnosed with high blood pressure (not including during pregnancy)","Total","Total",3453.854,12911,0.2675125087135
+"2014-2017","Oregon","Hypertension","Has never been diagnosed with high blood pressure (not including during pregnancy)","Total","Total",9457.146,12911,0.7324874912865
+"2014-2017","Oregon","Hypertension","Has been diagnosed with high blood pressure (not including during pregnancy)","Poverty","At or below 100% of Federal Poverty Level",220.348,682,0.323090909090909
+"2014-2017","Oregon","Hypertension","Has been diagnosed with high blood pressure (not including during pregnancy)","Poverty","Above 100% of Federal Poverty Level",1744.473,6589,0.264755349825467
+"2014-2017","Oregon","Hypertension","Has never been diagnosed with high blood pressure (not including during pregnancy)","Poverty","At or below 100% of Federal Poverty Level",461.652,682,0.676909090909091
+"2014-2017","Oregon","Hypertension","Has never been diagnosed with high blood pressure (not including during pregnancy)","Poverty","Above 100% of Federal Poverty Level",4844.527,6589,0.735244650174533
+"2014-2017","Oregon","Hypertension","Has been diagnosed with high blood pressure (not including during pregnancy)","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",513.959,1709,0.300736688121709
+"2014-2017","Oregon","Hypertension","Has been diagnosed with high blood pressure (not including during pregnancy)","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",2728.412,10447,0.261167033598162
+"2014-2017","Oregon","Hypertension","Has never been diagnosed with high blood pressure (not including during pregnancy)","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",1195.041,1709,0.699263311878291
+"2014-2017","Oregon","Hypertension","Has never been diagnosed with high blood pressure (not including during pregnancy)","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",7718.588,10447,0.738832966401838
+"2014-2017","Oregon","Overweight or obese","Overweight (BMI = 25)","Total","Total",21701.113,34665,0.626023741526035
+"2014-2017","Oregon","Overweight or obese","Not overweight  (BMI < 25)","Total","Total",12963.887,34665,0.373976258473965
+"2014-2017","Oregon","Overweight or obese","Overweight (BMI = 25)","Poverty","At or below 100% of Federal Poverty Level",1549.765,2286,0.677937445319335
+"2014-2017","Oregon","Overweight or obese","Overweight (BMI = 25)","Poverty","Above 100% of Federal Poverty Level",13345.572,21244,0.62820429297684
+"2014-2017","Oregon","Overweight or obese","Not overweight  (BMI < 25)","Poverty","At or below 100% of Federal Poverty Level",736.235,2286,0.322062554680665
+"2014-2017","Oregon","Overweight or obese","Not overweight  (BMI < 25)","Poverty","Above 100% of Federal Poverty Level",7898.428,21244,0.371795707023159
+"2014-2017","Oregon","Overweight or obese","Overweight (BMI = 25)","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",3086.567,4659,0.662495599914145
+"2014-2017","Oregon","Overweight or obese","Overweight (BMI = 25)","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",17707.48,28678,0.617458679126857
+"2014-2017","Oregon","Overweight or obese","Not overweight  (BMI < 25)","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",1572.433,4659,0.337504400085855
+"2014-2017","Oregon","Overweight or obese","Not overweight  (BMI < 25)","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",10970.52,28678,0.382541320873143
+"2014-2017","Oregon","Obesity","Obese (BMI = 30)","Total","Total",9871.269,34665,0.284761834703591
+"2014-2017","Oregon","Obesity","Not obese  (BMI < 30)","Total","Total",24793.731,34665,0.715238165296408
+"2014-2017","Oregon","Obesity","Obese (BMI = 30)","Poverty","At or below 100% of Federal Poverty Level",823.875,2286,0.360400262467192
+"2014-2017","Oregon","Obesity","Obese (BMI = 30)","Poverty","Above 100% of Federal Poverty Level",5872.214,21244,0.276417529655432
+"2014-2017","Oregon","Obesity","Not obese  (BMI < 30)","Poverty","At or below 100% of Federal Poverty Level",1462.125,2286,0.639599737532809
+"2014-2017","Oregon","Obesity","Not obese  (BMI < 30)","Poverty","Above 100% of Federal Poverty Level",15371.786,21244,0.723582470344568
+"2014-2017","Oregon","Obesity","Obese (BMI = 30)","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",1718.087,4659,0.368767332045503
+"2014-2017","Oregon","Obesity","Obese (BMI = 30)","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",7670.227,28678,0.267460318013808
+"2014-2017","Oregon","Obesity","Not obese  (BMI < 30)","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",2940.913,4659,0.631232667954497
+"2014-2017","Oregon","Obesity","Not obese  (BMI < 30)","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",21007.773,28678,0.732539681986191
+"2014-2017","Oregon","Cigarette smoking","Current cigarette smoker","Total","Total",6052.256,35246,0.171714691028769
+"2014-2017","Oregon","Cigarette smoking","Not current cigarette smoker","Total","Total",29193.744,35246,0.828285308971231
+"2014-2017","Oregon","Cigarette smoking","Current cigarette smoker","Poverty","At or below 100% of Federal Poverty Level",733.049,2359,0.310745654938533
+"2014-2017","Oregon","Cigarette smoking","Current cigarette smoker","Poverty","Above 100% of Federal Poverty Level",3038.551,21395,0.142021547090442
+"2014-2017","Oregon","Cigarette smoking","Not current cigarette smoker","Poverty","At or below 100% of Federal Poverty Level",1625.951,2359,0.689254345061467
+"2014-2017","Oregon","Cigarette smoking","Not current cigarette smoker","Poverty","Above 100% of Federal Poverty Level",18356.449,21395,0.857978452909558
+"2014-2017","Oregon","Cigarette smoking","Current cigarette smoker","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",1446.027,4772,0.303023260687343
+"2014-2017","Oregon","Cigarette smoking","Current cigarette smoker","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",4093.538,29099,0.140676243169868
+"2014-2017","Oregon","Cigarette smoking","Not current cigarette smoker","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",3325.973,4772,0.696976739312657
+"2014-2017","Oregon","Cigarette smoking","Not current cigarette smoker","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",25005.462,29099,0.859323756830132
+"2014-2017","Oregon","Tobacco use","Current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","Total","Total",2875.337,11331,0.253758450269173
+"2014-2017","Oregon","Tobacco use","Not current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","Total","Total",8455.663,11331,0.746241549730827
+"2014-2017","Oregon","Tobacco use","Current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","Poverty","At or below 100% of Federal Poverty Level",235.638,675,0.349093333333333
+"2014-2017","Oregon","Tobacco use","Current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","Poverty","Above 100% of Federal Poverty Level",1432.575,6498,0.220463988919668
+"2014-2017","Oregon","Tobacco use","Not current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","Poverty","At or below 100% of Federal Poverty Level",439.362,675,0.650906666666667
+"2014-2017","Oregon","Tobacco use","Not current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","Poverty","Above 100% of Federal Poverty Level",5065.425,6498,0.779536011080332
+"2014-2017","Oregon","Tobacco use","Current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",582.839,1632,0.357131740196078
+"2014-2017","Oregon","Tobacco use","Current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",2236.829,9649,0.231819774069852
+"2014-2017","Oregon","Tobacco use","Not current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",1049.161,1632,0.642868259803922
+"2014-2017","Oregon","Tobacco use","Not current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",7412.171,9649,0.768180225930148
+"2014-2017","Oregon","E-cigarette use","Electronic cigarette use for 1-30 days in the past 30 days","Total","Total",1085.859,20822,0.0521496013831524
+"2014-2017","Oregon","E-cigarette use","No days of electronic cigarette use in the past 30 days","Total","Total",19736.141,20822,0.947850398616848
+"2014-2017","Oregon","E-cigarette use","Electronic cigarette use for 1-30 days in the past 30 days","Poverty","At or below 100% of Federal Poverty Level",1883.917,2858,0.659173198040588
+"2014-2017","Oregon","E-cigarette use","Electronic cigarette use for 1-30 days in the past 30 days","Poverty","Above 100% of Federal Poverty Level",484.078,10828,0.0447061322497229
+"2014-2017","Oregon","E-cigarette use","No days of electronic cigarette use in the past 30 days","Poverty","At or below 100% of Federal Poverty Level",1053.33,1152,0.914348958333333
+"2014-2017","Oregon","E-cigarette use","No days of electronic cigarette use in the past 30 days","Poverty","Above 100% of Federal Poverty Level",10343.922,10828,0.955293867750277
+"2014-2017","Oregon","E-cigarette use","Electronic cigarette use for 1-30 days in the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",220.558,3019,0.0730566412719443
+"2014-2017","Oregon","E-cigarette use","Electronic cigarette use for 1-30 days in the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",846.132,16983,0.0498222928811164
+"2014-2017","Oregon","E-cigarette use","No days of electronic cigarette use in the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",2798.442,3019,0.926943358728056
+"2014-2017","Oregon","E-cigarette use","No days of electronic cigarette use in the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",16136.868,16983,0.950177707118884
+"2014-2017","Oregon","Physical activity 1","Meets recommendations for both aerobic and strengthening physical activity","Total","Total",2051.87,9080,0.225976872246696
+"2014-2017","Oregon","Physical activity 1","Does not meet recommendations for both aerobic and strengthening physical activity","Total","Total",7028.13,9080,0.774023127753304
+"2014-2017","Oregon","Physical activity 1","Meets recommendations for both aerobic and strengthening physical activity","Poverty","At or below 100% of Federal Poverty Level",61.912,387,0.159979328165375
+"2014-2017","Oregon","Physical activity 1","Meets recommendations for both aerobic and strengthening physical activity","Poverty","Above 100% of Federal Poverty Level",1032.533,4321,0.238956954408702
+"2014-2017","Oregon","Physical activity 1","Does not meet recommendations for both aerobic and strengthening physical activity","Poverty","At or below 100% of Federal Poverty Level",325.088,387,0.840020671834625
+"2014-2017","Oregon","Physical activity 1","Does not meet recommendations for both aerobic and strengthening physical activity","Poverty","Above 100% of Federal Poverty Level",3288.467,4321,0.761043045591298
+"2014-2017","Oregon","Physical activity 1","Meets recommendations for both aerobic and strengthening physical activity","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",179.637,1195,0.150323849372385
+"2014-2017","Oregon","Physical activity 1","Meets recommendations for both aerobic and strengthening physical activity","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",1749.823,7212,0.242626594564615
+"2014-2017","Oregon","Physical activity 1","Does not meet recommendations for both aerobic and strengthening physical activity","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",1015.363,1195,0.849676150627615
+"2014-2017","Oregon","Physical activity 1","Does not meet recommendations for both aerobic and strengthening physical activity","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",5462.177,7212,0.757373405435385
+"2014-2017","Oregon","Dental visits","Has visited the dentist for any reason within the past year","Poverty","At or below 100% of Federal Poverty Level",1096.164,2640,0.415213636363636
+"2014-2017","Oregon","Dental visits","Has visited the dentist for any reason within the past year","Poverty","Above 100% of Federal Poverty Level",12110.259,17188,0.704576390505004
+"2014-2017","Oregon","Dental visits","Has not visited the dentist for any reason within the past year","Poverty","At or below 100% of Federal Poverty Level",1543.836,2640,0.584786363636364
+"2014-2017","Oregon","Dental visits","Has not visited the dentist for any reason within the past year","Poverty","Above 100% of Federal Poverty Level",5077.741,17188,0.295423609494997
+"2014-2017","Oregon","Health insurance","Has any health insurance","Total","Total",33887.025,37431,0.905319788410676
+"2014-2017","Oregon","Health insurance","Does not have health insurance","Total","Total",3543.975,37431,0.0946802115893244
+"2014-2017","Oregon","Health insurance","Has any health insurance","Poverty","At or below 100% of Federal Poverty Level",2126.552,2483,0.856444623439388
+"2014-2017","Oregon","Health insurance","Has any health insurance","Poverty","Above 100% of Federal Poverty Level",20488.17,22272,0.919907058189655
+"2014-2017","Oregon","Health insurance","Does not have health insurance","Poverty","At or below 100% of Federal Poverty Level",2111.138,4234,0.498615493623051
+"2014-2017","Oregon","Health insurance","Does not have health insurance","Poverty","Above 100% of Federal Poverty Level",1783.83,22272,0.0800929418103448
+"2014-2017","Oregon","Health insurance","Has any health insurance","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",5181,5181,1
+"2014-2017","Oregon","Health insurance","Has any health insurance","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",27205.034,31003,0.877496822888108
+"2014-2017","Oregon","Health insurance","Does not have health insurance","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",0,5181,0
+"2014-2017","Oregon","Health insurance","Does not have health insurance","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",3797.966,31003,0.122503177111892
+"2014-2017","Oregon","Routine checkup","Had a routine checkup in past year","Total","Total",22276.312,36428,0.611516196332492
+"2014-2017","Oregon","Routine checkup","Did not have a routine checkup in past year","Total","Total",14151.688,36428,0.388483803667509
+"2014-2017","Oregon","Routine checkup","Had a routine checkup in past year","Poverty","At or below 100% of Federal Poverty Level",1412.585,2385,0.592278825995807
+"2014-2017","Oregon","Routine checkup","Had a routine checkup in past year","Poverty","Above 100% of Federal Poverty Level",13413.082,21769,0.616155174789839
+"2014-2017","Oregon","Routine checkup","Did not have a routine checkup in past year","Poverty","At or below 100% of Federal Poverty Level",972.415,2385,0.407721174004193
+"2014-2017","Oregon","Routine checkup","Did not have a routine checkup in past year","Poverty","Above 100% of Federal Poverty Level",8355.918,21769,0.383844825210161
+"2014-2017","Oregon","Routine checkup","Had a routine checkup in past year","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",3232.442,4928,0.655933847402597
+"2014-2017","Oregon","Routine checkup","Had a routine checkup in past year","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",18115.996,30103,0.601800352124373
+"2014-2017","Oregon","Routine checkup","Did not have a routine checkup in past year","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",1695.558,4928,0.344066152597403
+"2014-2017","Oregon","Routine checkup","Did not have a routine checkup in past year","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",11987.004,30103,0.398199647875627
+"2014-2017","Oregon","Couldn't see health care provider because of cost","Was unable to see a health care provider in the past year because of cost","Total","Total",5057.306,37464,0.134991084774717
+"2014-2017","Oregon","Couldn't see health care provider because of cost","Was not unable to see a health care provider in the past year because of cost","Total","Total",32406.694,37464,0.865008915225283
+"2014-2017","Oregon","Couldn't see health care provider because of cost","Was unable to see a health care provider in the past year because of cost","Poverty","At or below 100% of Federal Poverty Level",548.413,2488,0.220423231511254
+"2014-2017","Oregon","Couldn't see health care provider because of cost","Was unable to see a health care provider in the past year because of cost","Poverty","Above 100% of Federal Poverty Level",2600.143,22269,0.116760653823701
+"2014-2017","Oregon","Couldn't see health care provider because of cost","Was not unable to see a health care provider in the past year because of cost","Poverty","At or below 100% of Federal Poverty Level",1939.587,2488,0.779576768488746
+"2014-2017","Oregon","Couldn't see health care provider because of cost","Was not unable to see a health care provider in the past year because of cost","Poverty","Above 100% of Federal Poverty Level",19668.857,22269,0.883239346176299
+"2014-2017","Oregon","Couldn't see health care provider because of cost","Was unable to see a health care provider in the past year because of cost","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",923.157,5151,0.179218986604543
+"2014-2017","Oregon","Couldn't see health care provider because of cost","Was unable to see a health care provider in the past year because of cost","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",3826.68,30896,0.123856809943035
+"2014-2017","Oregon","Couldn't see health care provider because of cost","Was not unable to see a health care provider in the past year because of cost","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",4227.843,5151,0.820781013395457
+"2014-2017","Oregon","Couldn't see health care provider because of cost","Was not unable to see a health care provider in the past year because of cost","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",27069.32,30896,0.876143190056965
+"2014-2017","Oregon","Diabetes","Has been diagnosed with diabetes (not including during pregnancy)","Total","Total",3204.726,37522,0.0854092532381003
+"2014-2017","Oregon","Diabetes","Has never been diagnosed with diabetes","Total","Total",34317.274,37522,0.9145907467619
+"2014-2017","Oregon","Diabetes","Has been diagnosed with diabetes (not including during pregnancy)","Poverty","At or below 100% of Federal Poverty Level",322.145,2493,0.129219815483353
+"2014-2017","Oregon","Diabetes","Has been diagnosed with diabetes (not including during pregnancy)","Poverty","Above 100% of Federal Poverty Level",1742.772,22280,0.0782213644524237
+"2014-2017","Oregon","Diabetes","Has never been diagnosed with diabetes","Poverty","At or below 100% of Federal Poverty Level",2170.855,2493,0.870780184516647
+"2014-2017","Oregon","Diabetes","Has never been diagnosed with diabetes","Poverty","Above 100% of Federal Poverty Level",20537.228,22280,0.921778635547576
+"2014-2017","Oregon","Diabetes","Has been diagnosed with diabetes (not including during pregnancy)","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",647.547,5159,0.125517929831363
+"2014-2017","Oregon","Diabetes","Has been diagnosed with diabetes (not including during pregnancy)","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",2430.012,30942,0.0785344192359899
+"2014-2017","Oregon","Diabetes","Has never been diagnosed with diabetes","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",4511.453,5159,0.874482070168637
+"2014-2017","Oregon","Diabetes","Has never been diagnosed with diabetes","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",28511.988,30942,0.92146558076401
+"2014-2017","Oregon","Heart attack","Has had a heart attack","Total","Total",1342.001,37423,0.0358603265371563
+"2014-2017","Oregon","Heart attack","Has never had a heart attack","Total","Total",36080.999,37423,0.964139673462844
+"2014-2017","Oregon","Stroke","Has had a stroke","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",246.611,5152,0.0478670419254658
+"2014-2017","Oregon","Stroke","Has had a stroke","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",693.386,30894,0.0224440344403444
+"2014-2017","Oregon","Stroke","Has never had a stroke","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",4905.389,5152,0.952132958074534
+"2014-2017","Oregon","Stroke","Has never had a stroke","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",30200.614,30894,0.977555965559656
+"2014-2017","Oregon","General health status","General health status self-reported as good / very good / excellent","Total","Total",31155.343,37472,0.831429947694278
+"2014-2017","Oregon","General health status","General health status self-reported as  fair / poor","Total","Total",6316.657,37472,0.168570052305722
+"2014-2017","Oregon","General health status","General health status self-reported as good / very good / excellent","Poverty","At or below 100% of Federal Poverty Level",1583.887,2480,0.638664112903226
+"2014-2017","Oregon","General health status","General health status self-reported as good / very good / excellent","Poverty","Above 100% of Federal Poverty Level",19423.141,22260,0.87255799640611
+"2014-2017","Oregon","General health status","General health status self-reported as  fair / poor","Poverty","At or below 100% of Federal Poverty Level",896.113,2480,0.361335887096774
+"2014-2017","Oregon","General health status","General health status self-reported as  fair / poor","Poverty","Above 100% of Federal Poverty Level",2836.859,22260,0.12744200359389
+"2014-2017","Oregon","General health status","General health status self-reported as good / very good / excellent","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",3479.792,5145,0.676344412050535
+"2014-2017","Oregon","General health status","General health status self-reported as good / very good / excellent","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",26694.925,30903,0.863829563472802
+"2014-2017","Oregon","General health status","General health status self-reported as  fair / poor","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",1665.208,5145,0.323655587949466
+"2014-2017","Oregon","General health status","General health status self-reported as  fair / poor","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",4208.075,30903,0.136170436527198
+"2014-2017","Oregon","Poor mental health days","1-30 days of poor mental health during the past 30 days","Total","Total",15541.981,36866,0.421580345033364
+"2014-2017","Oregon","Poor mental health days","No days of poor mental health during the past 30 days","Total","Total",21324.019,36866,0.578419654966636
+"2014-2017","Oregon","Poor mental health days","1-30 days of poor mental health during the past 30 days","Poverty","At or below 100% of Federal Poverty Level",1295.329,2421,0.53503882693102
+"2014-2017","Oregon","Poor mental health days","1-30 days of poor mental health during the past 30 days","Poverty","Above 100% of Federal Poverty Level",8844.106,21986,0.402260802328755
+"2014-2017","Oregon","Poor mental health days","No days of poor mental health during the past 30 days","Poverty","At or below 100% of Federal Poverty Level",1125.671,2421,0.46496117306898
+"2014-2017","Oregon","Poor mental health days","No days of poor mental health during the past 30 days","Poverty","Above 100% of Federal Poverty Level",13141.894,21986,0.597739197671245
+"2014-2017","Oregon","Poor mental health days","1-30 days of poor mental health during the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",2732.39,5035,0.542679245283019
+"2014-2017","Oregon","Poor mental health days","1-30 days of poor mental health during the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",11995.435,30430,0.394197666776208
+"2014-2017","Oregon","Poor mental health days","No days of poor mental health during the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",2302.61,5035,0.457320754716981
+"2014-2017","Oregon","Poor mental health days","No days of poor mental health during the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",18434.565,30430,0.605802333223792
+"2014-2017","Oregon","Depression","Has been diagnosed with depression","Total","Total",9400.496,37354,0.251659688386786
+"2014-2017","Oregon","Depression","Has never been diagnosed with depression","Total","Total",27953.504,37354,0.748340311613214
+"2014-2017","Oregon","Depression","Has been diagnosed with depression","Poverty","At or below 100% of Federal Poverty Level",942.336,2468,0.381821717990276
+"2014-2017","Oregon","Depression","Has been diagnosed with depression","Poverty","Above 100% of Federal Poverty Level",5118.764,22222,0.230346683466835
+"2014-2017","Oregon","Depression","Has never been diagnosed with depression","Poverty","At or below 100% of Federal Poverty Level",1525.664,2468,0.618178282009724
+"2014-2017","Oregon","Depression","Has never been diagnosed with depression","Poverty","Above 100% of Federal Poverty Level",17103.236,22222,0.769653316533165
+"2014-2017","Oregon","Depression","Has been diagnosed with depression","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",2004.625,5121,0.391451864870143
+"2014-2017","Oregon","Depression","Has been diagnosed with depression","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",6777.186,30821,0.219888582460011
+"2014-2017","Oregon","Depression","Has never been diagnosed with depression","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",3116.375,5121,0.608548135129858
+"2014-2017","Oregon","Depression","Has never been diagnosed with depression","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",24043.814,30821,0.780111417539989
+"2014-2017","Oregon","Binge drinking","Had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","Total","Total",5070.695,28350,0.17886049382716
+"2014-2017","Oregon","Binge drinking","Has not had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","Total","Total",23279.305,28350,0.821139506172839
+"2014-2017","Oregon","Binge drinking","Had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","Poverty","At or below 100% of Federal Poverty Level",252.39,1796,0.140528953229399
+"2014-2017","Oregon","Binge drinking","Had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","Poverty","Above 100% of Federal Poverty Level",3077.368,16376,0.187919394235467
+"2014-2017","Oregon","Binge drinking","Has not had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","Poverty","At or below 100% of Federal Poverty Level",1543.61,1796,0.859471046770601
+"2014-2017","Oregon","Binge drinking","Has not had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","Poverty","Above 100% of Federal Poverty Level",13298.632,16376,0.812080605764533
+"2014-2017","Oregon","Binge drinking","Had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",534.711,3853,0.138777835452894
+"2014-2017","Oregon","Binge drinking","Had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",4359.872,23178,0.188103891621365
+"2014-2017","Oregon","Binge drinking","Has not had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",3318.289,3853,0.861222164547106
+"2014-2017","Oregon","Binge drinking","Has not had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",18818.128,23178,0.811896108378635
+"2014-2017","Oregon","Heavy drinking","Had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","Total","Total",2176.996,28223,0.077135527761046
+"2014-2017","Oregon","Heavy drinking","Has not had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","Total","Total",26046.004,28223,0.922864472238954
+"2014-2017","Oregon","Heavy drinking","Had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","Poverty","At or below 100% of Federal Poverty Level",100.278,1786,0.0561466965285554
+"2014-2017","Oregon","Heavy drinking","Had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","Poverty","Above 100% of Federal Poverty Level",1352.825,16305,0.0829699478687519
+"2014-2017","Oregon","Heavy drinking","Has not had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","Poverty","At or below 100% of Federal Poverty Level",1685.722,1786,0.943853303471445
+"2014-2017","Oregon","Heavy drinking","Has not had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","Poverty","Above 100% of Federal Poverty Level",14952.175,16305,0.917030052131248
+"2014-2017","Oregon","Heavy drinking","Had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",236.96,3847,0.0615960488692488
+"2014-2017","Oregon","Heavy drinking","Had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",1836.562,23066,0.0796220410994537
+"2014-2017","Oregon","Heavy drinking","Has not had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",3610.04,3847,0.938403951130751
+"2014-2017","Oregon","Heavy drinking","Has not had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",21229.438,23066,0.920377958900546
+"2014-2017","Oregon","Marijuana use","Used marijuana or hashish for 1-30 days during the past 30 days","Total","Total",1997.017,12051,0.165713799684674
+"2014-2017","Oregon","Marijuana use","Did not use marijuana or hashish any days during the past 30 days","Total","Total",10053.983,12051,0.834286200315327
+"2014-2017","Oregon","Marijuana use","Used marijuana or hashish for 1-30 days during the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",410.377,1732,0.236938221709007
+"2014-2017","Oregon","Marijuana use","Used marijuana or hashish for 1-30 days during the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",1525.813,10275,0.148497615571776
+"2014-2017","Oregon","Marijuana use","Did not use marijuana or hashish any days during the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",1321.623,1732,0.763061778290993
+"2014-2017","Oregon","Marijuana use","Did not use marijuana or hashish any days during the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",8749.187,10275,0.851502384428224
+"2014-2017","Oregon","Dental visits","Has visited the dentist for any reason within the past year","Total","Total",17452.146,26270,0.664337495241721
+"2014-2017","Oregon","Dental visits","Has not visited the dentist for any reason within the past year","Total","Total",8817.854,26270,0.335662504758279
+"2014-2017","LBL Region","Heart attack","Has had a heart attack","Total","Total",93.326,2881,0.0323936133287053
+"2014-2017","LBL Region","Heart attack","Has never had a heart attack","Total","Total",2787.674,2881,0.967606386671295
+"2014-2017","LBL Region","Heart attack","Has had a heart attack","Poverty","At or below 100% of Federal Poverty Level",1179.292,1321,0.892726722180166
+"2014-2017","LBL Region","Heart attack","Has had a heart attack","Poverty","Above 100% of Federal Poverty Level",66.292,2097,0.0316127801621364
+"2014-2017","LBL Region","Heart attack","Has never had a heart attack","Poverty","At or below 100% of Federal Poverty Level",283.494,300,0.94498
+"2014-2017","LBL Region","Heart attack","Has never had a heart attack","Poverty","Above 100% of Federal Poverty Level",2030.708,2097,0.968387219837863
+"2014-2017","LBL Region","Heart attack","Has had a heart attack","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",843.56,1160,0.727206896551724
+"2014-2017","LBL Region","Heart attack","Has had a heart attack","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",67.096,2334,0.0287472150814053
+"2014-2017","LBL Region","Heart attack","Has never had a heart attack","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",422.59,443,0.95392776523702
+"2014-2017","LBL Region","Heart attack","Has never had a heart attack","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",2266.904,2334,0.971252784918595
+"2014-2017","LBL Region","Stroke","Has had a stroke","Total","Total",74.599,2888,0.0258306786703601
+"2014-2017","LBL Region","Stroke","Has never had a stroke","Total","Total",2813.401,2888,0.97416932132964
+"2014-2017","LBL Region","Stroke","Has had a stroke","Poverty","At or below 100% of Federal Poverty Level",2050.948,2099,0.977107193901858
+"2014-2017","LBL Region","Stroke","Has had a stroke","Poverty","Above 100% of Federal Poverty Level",48.052,2099,0.022892806098142
+"2014-2017","LBL Region","Stroke","Has never had a stroke","Poverty","At or below 100% of Federal Poverty Level",289.66,301,0.962325581395349
+"2014-2017","LBL Region","Stroke","Has never had a stroke","Poverty","Above 100% of Federal Poverty Level",2050.948,2099,0.977107193901858
+"2014-2017","LBL Region","Stroke","Has had a stroke","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",22.1,443,0.0498871331828442
+"2014-2017","LBL Region","Stroke","Has had a stroke","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",52.56,2341,0.0224519436138402
+"2014-2017","LBL Region","Stroke","Has never had a stroke","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",420.9,443,0.950112866817156
+"2014-2017","LBL Region","Stroke","Has never had a stroke","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",2288.44,2341,0.97754805638616
+"2014-2017","LBL Region","Depression","Has been diagnosed with depression","Total","Total",778.378,2881,0.270176327664006
+"2014-2017","LBL Region","Depression","Has never been diagnosed with depression","Total","Total",2102.622,2881,0.729823672335994
+"2014-2017","LBL Region","Depression","Has been diagnosed with depression","Poverty","At or below 100% of Federal Poverty Level",126.076,300,0.420253333333333
+"2014-2017","LBL Region","Depression","Has been diagnosed with depression","Poverty","Above 100% of Federal Poverty Level",520.926,2100,0.24806
+"2014-2017","LBL Region","Depression","Has never been diagnosed with depression","Poverty","At or below 100% of Federal Poverty Level",173.924,300,0.579746666666667
+"2014-2017","LBL Region","Depression","Has never been diagnosed with depression","Poverty","Above 100% of Federal Poverty Level",1579.074,2100,0.75194
+"2014-2017","LBL Region","Depression","Has been diagnosed with depression","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",170.557,441,0.386750566893424
+"2014-2017","LBL Region","Depression","Has been diagnosed with depression","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",574.9,2336,0.246104452054795
+"2014-2017","LBL Region","Depression","Has never been diagnosed with depression","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",270.443,441,0.613249433106576
+"2014-2017","LBL Region","Depression","Has never been diagnosed with depression","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",1761.1,2336,0.753895547945205
+"2014-2017","LBL Region","Binge drinking","Had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","Total","Total",358.119,2204,0.162485934664247
+"2014-2017","LBL Region","Binge drinking","Has not had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","Total","Total",1845.881,2204,0.837514065335753
+"2014-2017","LBL Region","Binge drinking","Had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","Poverty","At or below 100% of Federal Poverty Level",36.123,243,0.148654320987654
+"2014-2017","LBL Region","Binge drinking","Had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","Poverty","Above 100% of Federal Poverty Level",293.454,1610,0.182269565217391
+"2014-2017","LBL Region","Binge drinking","Has not had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","Poverty","At or below 100% of Federal Poverty Level",206.877,243,0.851345679012346
+"2014-2017","LBL Region","Binge drinking","Has not had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","Poverty","Above 100% of Federal Poverty Level",1316.546,1610,0.817730434782609
+"2014-2017","LBL Region","Binge drinking","Had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",45.375,339,0.133849557522124
+"2014-2017","LBL Region","Binge drinking","Had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",314.097,1768,0.177656674208145
+"2014-2017","LBL Region","Binge drinking","Has not had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",293.625,339,0.866150442477876
+"2014-2017","LBL Region","Binge drinking","Has not had =5 drinks (men) or =4 drinks (women) on at least 1 occasion in the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",1453.903,1768,0.822343325791855
+"2014-2017","LBL Region","Heavy drinking","Had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","Total","Total",158.693,2191,0.0724294842537654
+"2014-2017","LBL Region","Heavy drinking","Has not had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","Total","Total",2032.307,2191,0.927570515746235
+"2014-2017","LBL Region","Heavy drinking","Had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","Poverty","At or below 100% of Federal Poverty Level",299.098,534,0.56010861423221
+"2014-2017","LBL Region","Heavy drinking","Had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","Poverty","Above 100% of Federal Poverty Level",133.544,1599,0.0835171982489056
+"2014-2017","LBL Region","Heavy drinking","Has not had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","Poverty","At or below 100% of Federal Poverty Level",227.483,243,0.936144032921811
+"2014-2017","LBL Region","Heavy drinking","Has not had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","Poverty","Above 100% of Federal Poverty Level",1465.456,1599,0.916482801751094
+"2014-2017","LBL Region","Heavy drinking","Had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",20.309,340,0.0597323529411765
+"2014-2017","LBL Region","Heavy drinking","Had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",140.268,1753,0.0800159726183685
+"2014-2017","LBL Region","Heavy drinking","Has not had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",319.691,340,0.940267647058824
+"2014-2017","LBL Region","Heavy drinking","Has not had more than two drinks per day (men) or more than one drink per day (women) in the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",1612.732,1753,0.919984027381631
+"2014-2017","LBL Region","Marijuana use","Used marijuana or hashish for 1-30 days during the past 30 days","Total","Total",195.283,955,0.204484816753927
+"2014-2017","LBL Region","Marijuana use","Did not use marijuana or hashish any days during the past 30 days","Total","Total",759.717,955,0.795515183246073
+"2014-2017","LBL Region","Marijuana use","Used marijuana or hashish for 1-30 days during the past 30 days","Poverty","At or below 100% of Federal Poverty Level",556.369,705,0.789175886524823
+"2014-2017","LBL Region","Marijuana use","Used marijuana or hashish for 1-30 days during the past 30 days","Poverty","Above 100% of Federal Poverty Level",148.631,705,0.210824113475177
+"2014-2017","LBL Region","Marijuana use","Did not use marijuana or hashish any days during the past 30 days","Poverty","At or below 100% of Federal Poverty Level",148.631,705,0.210824113475177
+"2014-2017","LBL Region","Marijuana use","Did not use marijuana or hashish any days during the past 30 days","Poverty","Above 100% of Federal Poverty Level",556.369,705,0.789175886524823
+"2014-2017","LBL Region","Marijuana use","Used marijuana or hashish for 1-30 days during the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",343.238,519,0.661344894026975
+"2014-2017","LBL Region","Marijuana use","Used marijuana or hashish for 1-30 days during the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",160.267,792,0.202357323232323
+"2014-2017","LBL Region","Marijuana use","Did not use marijuana or hashish any days during the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",175.762,519,0.338655105973025
+"2014-2017","LBL Region","Marijuana use","Did not use marijuana or hashish any days during the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",631.733,792,0.797642676767677
+"2014-2017","LBL Region","Dental visits","Has visited the dentist for any reason within the past year","Total","Total",1295.505,2050,0.631953658536585
+"2014-2017","LBL Region","Dental visits","Has not visited the dentist for any reason within the past year","Total","Total",754.495,2050,0.368046341463415
+"2014-2017","LBL Region","Dental visits","Has visited the dentist for any reason within the past year","Poverty","At or below 100% of Federal Poverty Level",204.524,493,0.414855983772819
+"2014-2017","LBL Region","Dental visits","Has visited the dentist for any reason within the past year","Poverty","Above 100% of Federal Poverty Level",984.23,1487,0.661889710827169
+"2014-2017","LBL Region","Dental visits","Has not visited the dentist for any reason within the past year","Poverty","At or below 100% of Federal Poverty Level",288.476,493,0.58514401622718
+"2014-2017","LBL Region","Dental visits","Has not visited the dentist for any reason within the past year","Poverty","Above 100% of Federal Poverty Level",502.77,1487,0.338110289172831
+"2014-2017","LBL Region","Dental visits","Has visited the dentist for any reason within the past year","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",158.517,319,0.496918495297806
+"2014-2017","LBL Region","Dental visits","Has visited the dentist for any reason within the past year","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",1127.732,1689,0.667692125518058
+"2014-2017","LBL Region","Dental visits","Has not visited the dentist for any reason within the past year","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",160.483,319,0.503081504702194
+"2014-2017","LBL Region","Dental visits","Has not visited the dentist for any reason within the past year","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",561.268,1689,0.332307874481942
+"2014-2017","LBL Region","Tooth loss","Had 1 or more permanent teeth removed because of tooth decay or gum disease","Total","Total",661.034,1661,0.397973509933775
+"2014-2017","LBL Region","Tooth loss","No permanent teeth removed because of tooth decay or gum disease","Total","Total",999.966,1661,0.602026490066225
+"2014-2017","LBL Region","Tooth loss","Had 1 or more permanent teeth removed because of tooth decay or gum disease","Poverty","At or below 100% of Federal Poverty Level",224.084,389,0.576051413881748
+"2014-2017","LBL Region","Tooth loss","Had 1 or more permanent teeth removed because of tooth decay or gum disease","Poverty","Above 100% of Federal Poverty Level",413.774,1206,0.343096185737977
+"2014-2017","LBL Region","Tooth loss","No permanent teeth removed because of tooth decay or gum disease","Poverty","At or below 100% of Federal Poverty Level",164.916,389,0.423948586118252
+"2014-2017","LBL Region","Tooth loss","No permanent teeth removed because of tooth decay or gum disease","Poverty","Above 100% of Federal Poverty Level",792.226,1206,0.656903814262023
+"2014-2017","LBL Region","Tooth loss","Had 1 or more permanent teeth removed because of tooth decay or gum disease","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",144.07,267,0.539588014981273
+"2014-2017","LBL Region","Tooth loss","Had 1 or more permanent teeth removed because of tooth decay or gum disease","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",475.321,1352,0.351568786982248
+"2014-2017","LBL Region","Tooth loss","No permanent teeth removed because of tooth decay or gum disease","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",122.93,267,0.460411985018727
+"2014-2017","LBL Region","Tooth loss","No permanent teeth removed because of tooth decay or gum disease","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",876.679,1352,0.648431213017751
+"2014-2017","LBL Region","Influenza vaccination","Received an influenza vaccination in the last year","Total","Total",534.403,1510,0.353909271523179
+"2014-2017","LBL Region","Influenza vaccination","Did not receive an influenza vaccination in the last year","Total","Total",975.597,1510,0.646090728476821
+"2014-2017","LBL Region","Influenza vaccination","Received an influenza vaccination in the last year","Poverty","At or below 100% of Federal Poverty Level",239.492,374,0.64035294117647
+"2014-2017","LBL Region","Influenza vaccination","Received an influenza vaccination in the last year","Poverty","Above 100% of Federal Poverty Level",378.196,1104,0.34256884057971
+"2014-2017","LBL Region","Influenza vaccination","Did not receive an influenza vaccination in the last year","Poverty","At or below 100% of Federal Poverty Level",134.508,374,0.359647058823529
+"2014-2017","LBL Region","Influenza vaccination","Did not receive an influenza vaccination in the last year","Poverty","Above 100% of Federal Poverty Level",725.804,1104,0.65743115942029
+"2014-2017","LBL Region","Influenza vaccination","Received an influenza vaccination in the last year","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",83.643,246,0.340012195121951
+"2014-2017","LBL Region","Influenza vaccination","Received an influenza vaccination in the last year","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",400.123,1169,0.342278015397776
+"2014-2017","LBL Region","Influenza vaccination","Did not receive an influenza vaccination in the last year","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",162.357,246,0.659987804878049
+"2014-2017","LBL Region","Influenza vaccination","Did not receive an influenza vaccination in the last year","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",768.877,1169,0.657721984602224
+"2014-2017","LBL Region","Adverse childhood experiences (ACEs)","Had 4 or more adverse childhood experiences","Total","Total",172.377,793,0.217373266078184
+"2014-2017","LBL Region","Adverse childhood experiences (ACEs)","Had fewer than 4 adverse childhood experiences","Total","Total",620.623,793,0.782626733921816
+"2014-2017","LBL Region","Adverse childhood experiences (ACEs)","Had 4 or more adverse childhood experiences","Poverty","At or below 100% of Federal Poverty Level",446.699,585,0.763588034188034
+"2014-2017","LBL Region","Adverse childhood experiences (ACEs)","Had 4 or more adverse childhood experiences","Poverty","Above 100% of Federal Poverty Level",138.301,585,0.236411965811966
+"2014-2017","LBL Region","Adverse childhood experiences (ACEs)","Had fewer than 4 adverse childhood experiences","Poverty","At or below 100% of Federal Poverty Level",138.301,585,0.236411965811966
+"2014-2017","LBL Region","Adverse childhood experiences (ACEs)","Had fewer than 4 adverse childhood experiences","Poverty","Above 100% of Federal Poverty Level",446.699,585,0.763588034188034
+"2014-2017","LBL Region","Adverse childhood experiences (ACEs)","Had 4 or more adverse childhood experiences","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",316.174,452,0.6995
+"2014-2017","LBL Region","Adverse childhood experiences (ACEs)","Had 4 or more adverse childhood experiences","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",147.208,680,0.216482352941176
+"2014-2017","LBL Region","Adverse childhood experiences (ACEs)","Had fewer than 4 adverse childhood experiences","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",135.826,452,0.3005
+"2014-2017","LBL Region","Adverse childhood experiences (ACEs)","Had fewer than 4 adverse childhood experiences","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",532.792,680,0.783517647058824
+"2014-2017","LBL Region","Hypertension","Has been diagnosed with high blood pressure (not including during pregnancy)","Total","Total",259.978,968,0.268572314049587
+"2014-2017","LBL Region","Hypertension","Has never been diagnosed with high blood pressure (not including during pregnancy)","Total","Total",708.022,968,0.731427685950413
+"2014-2017","LBL Region","Hypertension","Has been diagnosed with high blood pressure (not including during pregnancy)","Poverty","At or below 100% of Federal Poverty Level",310.58,454,0.68409691629956
+"2014-2017","LBL Region","Hypertension","Has been diagnosed with high blood pressure (not including during pregnancy)","Poverty","Above 100% of Federal Poverty Level",186.675,697,0.267826398852224
+"2014-2017","LBL Region","Hypertension","Has never been diagnosed with high blood pressure (not including during pregnancy)","Poverty","At or below 100% of Federal Poverty Level",143.42,454,0.315903083700441
+"2014-2017","LBL Region","Hypertension","Has never been diagnosed with high blood pressure (not including during pregnancy)","Poverty","Above 100% of Federal Poverty Level",510.325,697,0.732173601147776
+"2014-2017","LBL Region","Hypertension","Has been diagnosed with high blood pressure (not including during pregnancy)","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",340.235,508,0.669753937007874
+"2014-2017","LBL Region","Hypertension","Has been diagnosed with high blood pressure (not including during pregnancy)","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",207.83,751,0.276737683089214
+"2014-2017","LBL Region","Hypertension","Has never been diagnosed with high blood pressure (not including during pregnancy)","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",167.765,508,0.330246062992126
+"2014-2017","LBL Region","Hypertension","Has never been diagnosed with high blood pressure (not including during pregnancy)","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",543.17,751,0.723262316910786
+"2014-2017","LBL Region","Overweight or obese","Overweight (BMI = 25)","Total","Total",1684.655,2691,0.626033073206986
+"2014-2017","LBL Region","Overweight or obese","Not overweight  (BMI < 25)","Total","Total",1006.345,2691,0.373966926793014
+"2014-2017","LBL Region","Overweight or obese","Overweight (BMI = 25)","Poverty","At or below 100% of Federal Poverty Level",175.286,280,0.626021428571429
+"2014-2017","LBL Region","Overweight or obese","Overweight (BMI = 25)","Poverty","Above 100% of Federal Poverty Level",1294.146,2000,0.647073
+"2014-2017","LBL Region","Overweight or obese","Not overweight  (BMI < 25)","Poverty","At or below 100% of Federal Poverty Level",104.714,280,0.373978571428571
+"2014-2017","LBL Region","Overweight or obese","Not overweight  (BMI < 25)","Poverty","Above 100% of Federal Poverty Level",705.854,2000,0.352927
+"2014-2017","LBL Region","Overweight or obese","Overweight (BMI = 25)","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",261.644,402,0.650855721393035
+"2014-2017","LBL Region","Overweight or obese","Overweight (BMI = 25)","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",1354.489,2188,0.619053473491773
+"2014-2017","LBL Region","Overweight or obese","Not overweight  (BMI < 25)","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",140.356,402,0.349144278606965
+"2014-2017","LBL Region","Overweight or obese","Not overweight  (BMI < 25)","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",833.511,2188,0.380946526508227
+"2014-2017","LBL Region","Obesity","Obese (BMI = 30)","Total","Total",814.625,2691,0.302722036417689
+"2014-2017","LBL Region","Obesity","Not obese  (BMI < 30)","Total","Total",1876.375,2691,0.697277963582311
+"2014-2017","LBL Region","Obesity","Obese (BMI = 30)","Poverty","At or below 100% of Federal Poverty Level",102.42,280,0.365785714285714
+"2014-2017","LBL Region","Obesity","Obese (BMI = 30)","Poverty","Above 100% of Federal Poverty Level",605.464,2000,0.302732
+"2014-2017","LBL Region","Obesity","Not obese  (BMI < 30)","Poverty","At or below 100% of Federal Poverty Level",177.58,280,0.634214285714286
+"2014-2017","LBL Region","Obesity","Not obese  (BMI < 30)","Poverty","Above 100% of Federal Poverty Level",1394.536,2000,0.697268
+"2014-2017","LBL Region","Obesity","Obese (BMI = 30)","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",140.486,402,0.349467661691542
+"2014-2017","LBL Region","Obesity","Obese (BMI = 30)","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",619.229,2188,0.283011425959781
+"2014-2017","LBL Region","Obesity","Not obese  (BMI < 30)","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",261.514,402,0.650532338308458
+"2014-2017","LBL Region","Obesity","Not obese  (BMI < 30)","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",1568.771,2188,0.716988574040219
+"2014-2017","LBL Region","Cigarette smoking","Current cigarette smoker","Total","Total",479.136,2727,0.175700770077008
+"2014-2017","LBL Region","Cigarette smoking","Not current cigarette smoker","Total","Total",2247.864,2727,0.824299229922992
+"2014-2017","LBL Region","Cigarette smoking","Current cigarette smoker","Poverty","At or below 100% of Federal Poverty Level",94.95,292,0.325171232876712
+"2014-2017","LBL Region","Cigarette smoking","Current cigarette smoker","Poverty","Above 100% of Federal Poverty Level",260.661,2009,0.129746640119462
+"2014-2017","LBL Region","Cigarette smoking","Not current cigarette smoker","Poverty","At or below 100% of Federal Poverty Level",197.05,292,0.674828767123288
+"2014-2017","LBL Region","Cigarette smoking","Not current cigarette smoker","Poverty","Above 100% of Federal Poverty Level",1748.339,2009,0.870253359880538
+"2014-2017","LBL Region","Cigarette smoking","Current cigarette smoker","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",127.526,414,0.308033816425121
+"2014-2017","LBL Region","Cigarette smoking","Current cigarette smoker","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",305.019,2210,0.138017647058824
+"2014-2017","LBL Region","Cigarette smoking","Not current cigarette smoker","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",286.474,414,0.691966183574879
+"2014-2017","LBL Region","Cigarette smoking","Not current cigarette smoker","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",1904.981,2210,0.861982352941176
+"2014-2017","LBL Region","Tobacco use","Current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","Total","Total",201.146,834,0.241182254196643
+"2014-2017","LBL Region","Tobacco use","Not current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","Total","Total",632.854,834,0.758817745803357
+"2014-2017","LBL Region","Tobacco use","Current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","Poverty","At or below 100% of Federal Poverty Level",508.126,642,0.791473520249221
+"2014-2017","LBL Region","Tobacco use","Current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","Poverty","Above 100% of Federal Poverty Level",133.874,642,0.208526479750779
+"2014-2017","LBL Region","Tobacco use","Not current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","Poverty","At or below 100% of Federal Poverty Level",133.874,642,0.208526479750779
+"2014-2017","LBL Region","Tobacco use","Not current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","Poverty","Above 100% of Federal Poverty Level",508.126,642,0.791473520249221
+"2014-2017","LBL Region","Tobacco use","Current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",364.65,466,0.782510729613734
+"2014-2017","LBL Region","Tobacco use","Current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",151.673,713,0.212725105189341
+"2014-2017","LBL Region","Tobacco use","Not current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",101.35,466,0.217489270386266
+"2014-2017","LBL Region","Tobacco use","Not current cigarette, little cigar, large cigar, hookah, electronic cigarette or smokeless tobacco user","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",561.327,713,0.787274894810659
+"2014-2017","LBL Region","E-cigarette use","Electronic cigarette use for 1-30 days in the past 30 days","Total","Total",78.276,1573,0.0497622377622378
+"2014-2017","LBL Region","E-cigarette use","No days of electronic cigarette use in the past 30 days","Total","Total",1494.724,1573,0.950237762237762
+"2014-2017","LBL Region","E-cigarette use","Electronic cigarette use for 1-30 days in the past 30 days","Poverty","At or below 100% of Federal Poverty Level",649.838,743,0.874613728129206
+"2014-2017","LBL Region","E-cigarette use","Electronic cigarette use for 1-30 days in the past 30 days","Poverty","Above 100% of Federal Poverty Level",61.542,1188,0.0518030303030303
+"2014-2017","LBL Region","E-cigarette use","No days of electronic cigarette use in the past 30 days","Poverty","At or below 100% of Federal Poverty Level",133.886,378,0.354195767195767
+"2014-2017","LBL Region","E-cigarette use","No days of electronic cigarette use in the past 30 days","Poverty","Above 100% of Federal Poverty Level",1126.458,1188,0.94819696969697
+"2014-2017","LBL Region","E-cigarette use","Electronic cigarette use for 1-30 days in the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",NA,NA,NA
+"2014-2017","LBL Region","E-cigarette use","Electronic cigarette use for 1-30 days in the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",NA,NA,NA
+"2014-2017","LBL Region","E-cigarette use","No days of electronic cigarette use in the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",217.856,232,0.939034482758621
+"2014-2017","LBL Region","E-cigarette use","No days of electronic cigarette use in the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",1228.543,1286,0.955321150855366
+"2014-2017","LBL Region","Physical activity 1","Meets recommendations for both aerobic and strengthening physical activity","Total","Total",161.426,686,0.235314868804665
+"2014-2017","LBL Region","Physical activity 1","Does not meet recommendations for both aerobic and strengthening physical activity","Total","Total",524.574,686,0.764685131195335
+"2014-2017","LBL Region","Physical activity 1","Meets recommendations for both aerobic and strengthening physical activity","Poverty","At or below 100% of Federal Poverty Level",392.218,514,0.763070038910506
+"2014-2017","LBL Region","Physical activity 1","Meets recommendations for both aerobic and strengthening physical activity","Poverty","Above 100% of Federal Poverty Level",121.782,514,0.236929961089494
+"2014-2017","LBL Region","Physical activity 1","Does not meet recommendations for both aerobic and strengthening physical activity","Poverty","At or below 100% of Federal Poverty Level",121.782,514,0.236929961089494
+"2014-2017","LBL Region","Physical activity 1","Does not meet recommendations for both aerobic and strengthening physical activity","Poverty","Above 100% of Federal Poverty Level",392.218,514,0.763070038910506
+"2014-2017","LBL Region","Physical activity 1","Meets recommendations for both aerobic and strengthening physical activity","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",233.833,353,0.662416430594901
+"2014-2017","LBL Region","Physical activity 1","Meets recommendations for both aerobic and strengthening physical activity","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",120.178,520,0.231111538461538
+"2014-2017","LBL Region","Physical activity 1","Does not meet recommendations for both aerobic and strengthening physical activity","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",119.167,353,0.337583569405099
+"2014-2017","LBL Region","Physical activity 1","Does not meet recommendations for both aerobic and strengthening physical activity","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",399.822,520,0.768888461538462
+"2014-2017","LBL Region","Health insurance","Has any health insurance","Total","Total",2517.004,2796,0.900216022889843
+"2014-2017","LBL Region","Health insurance","Does not have health insurance","Total","Total",278.996,2796,0.0997839771101574
+"2014-2017","LBL Region","Health insurance","Has any health insurance","Poverty","At or below 100% of Federal Poverty Level",254.852,291,0.875780068728522
+"2014-2017","LBL Region","Health insurance","Has any health insurance","Poverty","Above 100% of Federal Poverty Level",1859.014,2052,0.9059522417154
+"2014-2017","LBL Region","Health insurance","Does not have health insurance","Poverty","At or below 100% of Federal Poverty Level",36.148,291,0.124219931271478
+"2014-2017","LBL Region","Health insurance","Does not have health insurance","Poverty","Above 100% of Federal Poverty Level",192.986,2052,0.0940477582846004
+"2014-2017","LBL Region","Routine checkup","Had a routine checkup in past year","Total","Total",1660.55,2793,0.594539921231651
+"2014-2017","LBL Region","Routine checkup","Did not have a routine checkup in past year","Total","Total",1132.45,2793,0.405460078768349
+"2014-2017","LBL Region","Routine checkup","Had a routine checkup in past year","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",269.75,421,0.640736342042755
+"2014-2017","LBL Region","Routine checkup","Had a routine checkup in past year","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",1318.526,2269,0.581104451300132
+"2014-2017","LBL Region","Routine checkup","Did not have a routine checkup in past year","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",151.25,421,0.359263657957245
+"2014-2017","LBL Region","Routine checkup","Did not have a routine checkup in past year","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",950.474,2269,0.418895548699868
+"2014-2017","LBL Region","Couldn't see health care provider because of cost","Was unable to see a health care provider in the past year because of cost","Total","Total",394.791,2885,0.136842634315425
+"2014-2017","LBL Region","Couldn't see health care provider because of cost","Was not unable to see a health care provider in the past year because of cost","Total","Total",2490.209,2885,0.863157365684575
+"2014-2017","LBL Region","Couldn't see health care provider because of cost","Was unable to see a health care provider in the past year because of cost","Poverty","At or below 100% of Federal Poverty Level",62.75,302,0.207781456953642
+"2014-2017","LBL Region","Couldn't see health care provider because of cost","Was unable to see a health care provider in the past year because of cost","Poverty","Above 100% of Federal Poverty Level",243.174,2098,0.115907530981887
+"2014-2017","LBL Region","Couldn't see health care provider because of cost","Was not unable to see a health care provider in the past year because of cost","Poverty","At or below 100% of Federal Poverty Level",239.25,302,0.792218543046358
+"2014-2017","LBL Region","Couldn't see health care provider because of cost","Was not unable to see a health care provider in the past year because of cost","Poverty","Above 100% of Federal Poverty Level",1854.826,2098,0.884092469018112
+"2014-2017","LBL Region","Couldn't see health care provider because of cost","Was unable to see a health care provider in the past year because of cost","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",56.634,442,0.128131221719457
+"2014-2017","LBL Region","Couldn't see health care provider because of cost","Was unable to see a health care provider in the past year because of cost","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",325.728,2340,0.1392
+"2014-2017","LBL Region","Couldn't see health care provider because of cost","Was not unable to see a health care provider in the past year because of cost","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",385.366,442,0.871868778280543
+"2014-2017","LBL Region","Couldn't see health care provider because of cost","Was not unable to see a health care provider in the past year because of cost","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",2014.272,2340,0.8608
+"2014-2017","LBL Region","Diabetes","Has been diagnosed with diabetes (not including during pregnancy)","Total","Total",235.281,2893,0.0813276875216039
+"2014-2017","LBL Region","Diabetes","Has never been diagnosed with diabetes","Total","Total",2657.719,2893,0.918672312478396
+"2014-2017","LBL Region","Diabetes","Has been diagnosed with diabetes (not including during pregnancy)","Poverty","At or below 100% of Federal Poverty Level",29.657,303,0.0978778877887789
+"2014-2017","LBL Region","Diabetes","Has been diagnosed with diabetes (not including during pregnancy)","Poverty","Above 100% of Federal Poverty Level",149.804,2103,0.0712334759866857
+"2014-2017","LBL Region","Diabetes","Has never been diagnosed with diabetes","Poverty","At or below 100% of Federal Poverty Level",273.343,303,0.902122112211221
+"2014-2017","LBL Region","Diabetes","Has never been diagnosed with diabetes","Poverty","Above 100% of Federal Poverty Level",1953.196,2103,0.928766524013314
+"2014-2017","LBL Region","Diabetes","Has been diagnosed with diabetes (not including during pregnancy)","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",42.636,444,0.096027027027027
+"2014-2017","LBL Region","Diabetes","Has been diagnosed with diabetes (not including during pregnancy)","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",183.526,2345,0.0782626865671642
+"2014-2017","LBL Region","Diabetes","Has never been diagnosed with diabetes","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",401.364,444,0.903972972972973
+"2014-2017","LBL Region","Diabetes","Has never been diagnosed with diabetes","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",2161.474,2345,0.921737313432836
+"2014-2017","LBL Region","General health status","General health status self-reported as good / very good / excellent","Poverty","At or below 100% of Federal Poverty Level",204.613,301,0.679777408637874
+"2014-2017","LBL Region","General health status","General health status self-reported as good / very good / excellent","Poverty","Above 100% of Federal Poverty Level",1843.226,2102,0.876891531874405
+"2014-2017","LBL Region","General health status","General health status self-reported as  fair / poor","Poverty","At or below 100% of Federal Poverty Level",96.387,301,0.320222591362126
+"2014-2017","LBL Region","General health status","General health status self-reported as  fair / poor","Poverty","Above 100% of Federal Poverty Level",258.774,2102,0.123108468125595
+"2014-2017","LBL Region","General health status","General health status self-reported as good / very good / excellent","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",305.594,439,0.696113895216401
+"2014-2017","LBL Region","General health status","General health status self-reported as good / very good / excellent","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",2036.565,2342,0.869583689154569
+"2014-2017","LBL Region","General health status","General health status self-reported as  fair / poor","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",133.406,439,0.303886104783599
+"2014-2017","LBL Region","General health status","General health status self-reported as  fair / poor","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",305.435,2342,0.130416310845431
+"2014-2017","LBL Region","General health status","General health status self-reported as good / very good / excellent","Total","Total",2413.199,2885,0.836464124783362
+"2014-2017","LBL Region","General health status","General health status self-reported as  fair / poor","Total","Total",471.801,2885,0.163535875216638
+"2014-2017","LBL Region","Poor mental health days","1-30 days of poor mental health during the past 30 days","Poverty","At or below 100% of Federal Poverty Level",153.969,296,0.520165540540541
+"2014-2017","LBL Region","Poor mental health days","1-30 days of poor mental health during the past 30 days","Poverty","Above 100% of Federal Poverty Level",802.464,2082,0.38542939481268
+"2014-2017","LBL Region","Poor mental health days","No days of poor mental health during the past 30 days","Poverty","At or below 100% of Federal Poverty Level",142.031,296,0.479834459459459
+"2014-2017","LBL Region","Poor mental health days","No days of poor mental health during the past 30 days","Poverty","Above 100% of Federal Poverty Level",1279.536,2082,0.61457060518732
+"2014-2017","LBL Region","Poor mental health days","1-30 days of poor mental health during the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",235.159,433,0.543092378752887
+"2014-2017","LBL Region","Poor mental health days","1-30 days of poor mental health during the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",892.144,2314,0.385541918755402
+"2014-2017","LBL Region","Poor mental health days","No days of poor mental health during the past 30 days","OHP/Medicaid","Enrolled in the Oregon Health Plan (OHP)",197.841,433,0.456907621247113
+"2014-2017","LBL Region","Poor mental health days","No days of poor mental health during the past 30 days","OHP/Medicaid","Not enrolled in the Oregon Health Plan (OHP)",1421.856,2314,0.614458081244598
+"2014-2017","LBL Region","Poor mental health days","1-30 days of poor mental health during the past 30 days","Total","Total",1189.832,2849,0.41763144963145
+"2014-2017","LBL Region","Poor mental health days","No days of poor mental health during the past 30 days","Total","Total",1659.168,2849,0.58236855036855
